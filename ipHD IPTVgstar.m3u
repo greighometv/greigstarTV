@@ -113,41 +113,41 @@ http://149.202.194.36:8000/live/asnjeri1/H4yuOgMkly/243.ts
 http://149.202.194.36:8000/live/asnjeri1/H4yuOgMkly/251.ts
 #EXTINF:-1,UK TV3
 http://149.202.194.36:8000/live/asnjeri1/H4yuOgMkly/252.ts
-#EXTINF:-1,UK_COMEDY_CENTRAL_EXTRA
+#EXTINF:-1,COMEDY_CENTRAL_EXTRA
 http://149.202.194.36:8000/live/asnjeri1/H4yuOgMkly/220.ts
-#EXTINF:-1,UK_CRIME_INVESTIGATION
+#EXTINF:-1,CRIME_INVESTIGATION
 http://149.202.194.36:8000/live/asnjeri1/H4yuOgMkly/221.ts
-#EXTINF:-1,UK_Disney_Channel
+#EXTINF:-1,Disney_Channel
 http://149.202.194.36:8000/live/asnjeri1/H4yuOgMkly/219.ts
-#EXTINF:-1,UK:_Animal_Planet
+#EXTINF:-1,Animal_Planet
 http://149.202.194.36:8000/live/asnjeri1/H4yuOgMkly/236.ts
-#EXTINF:-1,UK:Comedy_Central
+#EXTINF:-1,Comedy_Central
 http://149.202.194.36:8000/live/asnjeri1/H4yuOgMkly/226.ts
-#EXTINF:-1,UK:Fox
+#EXTINF:-1,Fox
 http://149.202.194.36:8000/live/asnjeri1/H4yuOgMkly/227.ts
-#EXTINF:-1,UK:Horror_Channel
+#EXTINF:-1,Horror_Channel
 http://149.202.194.36:8000/live/asnjeri1/H4yuOgMkly/228.ts
-#EXTINF:-1,UK:SKY Family
+#EXTINF:-1,SKY Family
 http://149.202.194.36:8000/live/asnjeri1/H4yuOgMkly/242.ts
-#EXTINF:-1,UK:Sky_Arts
+#EXTINF:-1,Sky_Arts
 http://149.202.194.36:8000/live/asnjeri1/H4yuOgMkly/229.ts
-#EXTINF:-1,UK:Sky_Atlantic
+#EXTINF:-1,Sky_Atlantic
 http://149.202.194.36:8000/live/asnjeri1/H4yuOgMkly/230.ts
-#EXTINF:-1,UK:Sky_One_HD
+#EXTINF:-1,Sky_One_HD
 http://149.202.194.36:8000/live/asnjeri1/H4yuOgMkly/231.ts
-#EXTINF:-1,UK:Sky_Two_HD
+#EXTINF:-1,Sky_Two_HD
 http://149.202.194.36:8000/live/asnjeri1/H4yuOgMkly/232.ts
-#EXTINF:-1,UK:TCM
+#EXTINF:-1,TCM
 http://149.202.194.36:8000/live/asnjeri1/H4yuOgMkly/233.ts
-#EXTINF:-1,UK:True_Movies
+#EXTINF:-1,True_Movies
 http://149.202.194.36:8000/live/asnjeri1/H4yuOgMkly/234.ts
-#EXTINF:-1,UK:True_Movies_1
+#EXTINF:-1,True_Movies_1
 http://149.202.194.36:8000/live/asnjeri1/H4yuOgMkly/235.ts
-#EXTINF:-1,UK.Alibi
+#EXTINF:-1,Alibi
 http://149.202.194.36:8000/live/asnjeri1/H4yuOgMkly/223.ts
-#EXTINF:-1,UK.HistoryChannel
+#EXTINF:-1,HistoryChannel
 http://149.202.194.36:8000/live/asnjeri1/H4yuOgMkly/224.ts
-#EXTINF:-1,UK.NatGeo_Channel
+#EXTINF:-1,NatGeo_Channel
 http://149.202.194.36:8000/live/asnjeri1/H4yuOgMkly/225.ts
 
 #EXTINF:-1,LO_OSN_SPORT_1
@@ -270,7 +270,7 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2199.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2034.ts
 #EXTINF:1,UFC Main card
 http://i.satelliteguys.co.uk/live/Greighally/020617/2033.ts
-#EXTINF:1,UK:3E,
+#EXTINF:1,3E,
 http://i.satelliteguys.co.uk/live/Greighally/020617/2628.ts
 #EXTINF:1,:4Music
 http://i.satelliteguys.co.uk/live/Greighally/020617/2627.ts
@@ -282,8 +282,6 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2471.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2625.ts
 #EXTINF:1,Animal Planet  1
 http://i.satelliteguys.co.uk/live/Greighally/020617/2684.ts
-#EXTINF:1,ARY DIGITAL
-http://i.satelliteguys.co.uk/live/Greighally/020617/2710.ts
 #EXTINF:1,At The Races
 http://i.satelliteguys.co.uk/live/Greighally/020617/2701.ts
 #EXTINF:1,Australia Plus
@@ -362,7 +360,7 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2607.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2606.ts
 #EXTINF:1,CBS Reality
 http://i.satelliteguys.co.uk/live/Greighally/020617/2605.ts
-#EXTINF:1,Celtic TV
+#EXTINF:1,Celtic TV(sceptic)
 http://i.satelliteguys.co.uk/live/Greighally/020617/2688.ts
 #EXTINF:1,CGTN
 http://i.satelliteguys.co.uk/live/Greighally/020617/2466.ts
@@ -372,7 +370,7 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2465.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2604.ts
 #EXTINF:1,Challenge  1
 http://i.satelliteguys.co.uk/live/Greighally/020617/2687.ts
-#EXTINF:1,UK:Channel 4
+#EXTINF:1,Channel 4
 http://i.satelliteguys.co.uk/live/Greighally/020617/2603.ts
 #EXTINF:1,Channel 4 HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2602.ts
@@ -400,11 +398,11 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2685.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2589.ts
 #EXTINF:1,Community
 http://i.satelliteguys.co.uk/live/Greighally/020617/2588.ts
-#EXTINF:1,UK:Crime Inv
+#EXTINF:1,Crime Inv
 http://i.satelliteguys.co.uk/live/Greighally/020617/2587.ts
 #EXTINF:1,Dave
 http://i.satelliteguys.co.uk/live/Greighally/020617/2586.ts
-#EXTINF:1,UK:Dave ja vu
+#EXTINF:1,Dave ja vu
 http://i.satelliteguys.co.uk/live/Greighally/020617/2585.ts
 #EXTINF:1,Disc History
 http://i.satelliteguys.co.uk/live/Greighally/020617/2584.ts
@@ -412,7 +410,7 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2584.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2583.ts
 #EXTINF:1,Disc Turbo
 http://i.satelliteguys.co.uk/live/Greighally/020617/2582.ts
-#EXTINF:1,UK:Discovery
+#EXTINF:1,Discovery
 http://i.satelliteguys.co.uk/live/Greighally/020617/2581.ts
 #EXTINF:1,Discovery Channel   1
 http://i.satelliteguys.co.uk/live/Greighally/020617/2682.ts
@@ -420,7 +418,7 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2682.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2681.ts
 #EXTINF:1,Discovery Science US
 http://i.satelliteguys.co.uk/live/Greighally/020617/2680.ts
-#EXTINF:1,UK:Discovery Shed
+#EXTINF:1,:Discovery Shed
 http://i.satelliteguys.co.uk/live/Greighally/020617/2580.ts
 #EXTINF:1,Disney Channel  1
 http://i.satelliteguys.co.uk/live/Greighally/020617/2667.ts
@@ -436,7 +434,8 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2576.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2679.ts
 #EXTINF:1,Drama
 http://i.satelliteguys.co.uk/live/Greighally/020617/2575.ts
-#EXTINF:1,UK:E!http://i.satelliteguys.co.uk/live/Greighally/020617/2574.ts
+#EXTINF:1,:E!
+http://i.satelliteguys.co.uk/live/Greighally/020617/2574.ts
 #EXTINF:1,E!  1
 http://i.satelliteguys.co.uk/live/Greighally/020617/2672.ts
 #EXTINF:1,E4
@@ -473,16 +472,20 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2668.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2556.ts
 #EXTINF:1,ITV 2 HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2555.ts
-ITVEncore.uk,UK:ITV Encore,http://i.satelliteguys.co.uk/live/Greighally/020617/2554.ts
-#EXTINF:0,ext,UK:ITV2,http://i.satelliteguys.co.uk/live/Greighally/020617/2552.ts
-ext,UK:ITV4,http://i.satelliteguys.co.uk/live/Greighally/020617/2551.ts
+#EXTINF:1,ITV Encore
+http://i.satelliteguys.co.uk/live/Greighally/020617/2554.ts
+#EXTINF:1,ITV2
+http://i.satelliteguys.co.uk/live/Greighally/020617/2552.ts
+#EXTINF:1,ITV4
+http://i.satelliteguys.co.uk/live/Greighally/020617/2551.ts
 #EXTINF:1,ITVBe
 http://i.satelliteguys.co.uk/live/Greighally/020617/2550.ts
 #EXTINF:1,Kix
 http://i.satelliteguys.co.uk/live/Greighally/020617/2549.ts
-#EXTINF:1,LiverpoolFCTV.uk,UK:LFC TV
+#EXTINF:1,LFC TV
 http://i.satelliteguys.co.uk/live/Greighally/020617/2548.ts
-Lifetime.uk,UK:Lifetime,http://i.satelliteguys.co.uk/live/Greighally/020617/2547.ts
+#EXTINF:1,Lifetime
+http://i.satelliteguys.co.uk/live/Greighally/020617/2547.ts
 #EXTINF:1,Live Sports PPV
 http://i.satelliteguys.co.uk/live/Greighally/020617/2191.ts
 #EXTINF:1,More4
@@ -666,7 +669,7 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2648.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2647.ts
 #EXTINF:1,Live Sports PPV
 http://i.satelliteguys.co.uk/live/Greighally/020617/2191.ts
-#EXTINF:-1,------U.K.------
+#EXTINF:-1,------U.K.----------------------------------------
 http://best-servers.xyz:8000/live/5448569hg745/5448569hg745/2858.ts
 #EXTINF:-1,UK-MUtv
 http://best-servers.xyz:8000/live/5448569hg745/5448569hg745/5802.ts
