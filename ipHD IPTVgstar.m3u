@@ -884,3 +884,2125 @@ http://iptv333.expertshort.net:8000/live/16b2a2cfd1/265452e/1346.ts
 http://iptv333.expertshort.net:8000/live/16b2a2cfd1/265452e/1351.ts
 #EXTINF:-1,UK.BBCTwo
 http://iptv333.expertshort.net:8000/live/16b2a2cfd1/265452e/1350.ts
+#EXTINF:-1,-----------BIG LIST---------
+#EXTM3U
+#EXTINF:-1 tvg-ID="BBC1.uk" tvg-name="101 - BBC 1 HD" tvg-logo="http://guide.overlordtv.tk/logos/101.png" group-title="UK TV",101 - BBC 1 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14063.m3u8
+#EXTINF:-1 tvg-ID="BBC2.uk" tvg-name="102 - BBC 2 HD" tvg-logo="http://guide.overlordtv.tk/logos/102.png" group-title="UK TV",102 - BBC 2 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14064.m3u8
+#EXTINF:-1 tvg-ID="ITV1Anglia.uk" tvg-name="103 - ITV 1 HD" tvg-logo="http://guide.overlordtv.tk/logos/103.png" group-title="UK TV",103 - ITV 1 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14069.m3u8
+#EXTINF:-1 tvg-ID="Channel4.uk" tvg-name="104 - CHANNEL 4 HD" tvg-logo="http://guide.overlordtv.tk/logos/104.png" group-title="UK TV",104 - CHANNEL 4 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14127.m3u8
+#EXTINF:-1 tvg-ID="Channel5.uk" tvg-name="105 - CHANNEL 5 HD" tvg-logo="http://guide.overlordtv.tk/logos/105.png" group-title="UK TV",105 - CHANNEL 5 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14246.m3u8
+#EXTINF:-1 tvg-ID="Sky1.uk" tvg-name="106 - SKY ONE HD" tvg-logo="http://guide.overlordtv.tk/logos/106.png" group-title="UK TV",106 - SKY ONE HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14209.m3u8
+#EXTINF:-1 tvg-ID="Sky2.uk" tvg-name="107 - SKY TWO" tvg-logo="http://guide.overlordtv.tk/logos/107.png" group-title="UK TV",107 - SKY TWO
+http://dreamlord.tk:5454/live/demonbaz666/021956/14179.m3u8
+#EXTINF:-1 tvg-ID="SkyAtlantic.uk" tvg-name="108 - SKY ATLANTIC" tvg-logo="http://guide.overlordtv.tk/logos/SKY ATLANTIC HD.png" group-title="UK TV",108 - SKY ATLANTIC
+http://dreamlord.tk:5454/live/demonbaz666/021956/14182.m3u8
+#EXTINF:-1 tvg-ID="SkyLiving.uk" tvg-name="109 - SKY LIVING HD" tvg-logo="http://guide.overlordtv.tk/logos/SKY LIVING HD.png" group-title="UK TV",109 - SKY LIVING HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14213.m3u8
+#EXTINF:-1 tvg-ID="SkyArts.uk" tvg-name="110 - SKY ARTS HD" tvg-logo="http://guide.overlordtv.tk/logos/SKY ARTS.png" group-title="UK TV",110 - SKY ARTS HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14215.m3u8
+#EXTINF:-1 tvg-ID="ITV2.uk" tvg-name="111 - ITV 2 HD" tvg-logo="http://guide.overlordtv.tk/logos/ITV 2 HD.png" group-title="UK TV",111 - ITV 2 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14070.m3u8
+#EXTINF:-1 tvg-ID="ITV3.uk" tvg-name="112 - ITV 3 HD" tvg-logo="http://guide.overlordtv.tk/logos/ITV 3 HD.png" group-title="UK TV",112 - ITV 3 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14071.m3u8
+#EXTINF:-1 tvg-ID="ITV4.uk" tvg-name="113 - ITV 4 HD" tvg-logo="http://guide.overlordtv.tk/logos/ITV 4 HD.png" group-title="UK TV",113 - ITV 4 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14072.m3u8
+#EXTINF:-1 tvg-ID="ITVBe.uk" tvg-name="114 - ITV BE HD" tvg-logo="http://guide.overlordtv.tk/logos/ITV BE HD.png" group-title="UK TV",114 - ITV BE HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14087.m3u8
+#EXTINF:-1 tvg-ID="ITVEncore.uk" tvg-name="115 - ITV ENCORE" tvg-logo="http://guide.overlordtv.tk/logos/ITV ENCORE HD.png" group-title="UK TV",115 - ITV ENCORE
+http://dreamlord.tk:5454/live/demonbaz666/021956/14208.m3u8
+#EXTINF:-1 tvg-ID="E4.uk" tvg-name="116 - E4 HD" tvg-logo="http://guide.overlordtv.tk/logos/E4 HD.png" group-title="UK TV",116 - E4 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14212.m3u8
+#EXTINF:-1 tvg-ID="More4.uk" tvg-name="117 - MORE 4" tvg-logo="http://guide.overlordtv.tk/logos/MORE 4 HD.png" group-title="UK TV",117 - MORE 4
+http://dreamlord.tk:5454/live/demonbaz666/021956/14217.m3u8
+#EXTINF:-1 tvg-ID="BBC1.uk" tvg-name="118 - BBC1" tvg-logo="http://guide.overlordtv.tk/logos/BBC 1.png" group-title="UK TV",118 - BBC1
+http://dreamlord.tk:5454/live/demonbaz666/021956/14122.m3u8
+#EXTINF:-1 tvg-ID="BBC2.uk" tvg-name="119 - BBC 2" tvg-logo="http://guide.overlordtv.tk/logos/BBC 2.png" group-title="UK TV",119 - BBC 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/14123.m3u8
+#EXTINF:-1 tvg-ID="BBC4.uk" tvg-name="120 - BBC 4" tvg-logo="http://guide.overlordtv.tk/logos/BBC 4.png" group-title="UK TV",120 - BBC 4
+http://dreamlord.tk:5454/live/demonbaz666/021956/14124.m3u8
+#EXTINF:-1 tvg-ID="BBCAlba.uk" tvg-name="121 - BBC ALBA" tvg-logo="http://guide.overlordtv.tk/logos/BBC ALBA.png" group-title="UK TV",121 - BBC ALBA
+http://dreamlord.tk:5454/live/demonbaz666/021956/14235.m3u8
+#EXTINF:-1 tvg-ID="ITV1Anglia.uk" tvg-name="122 - ITV 1" tvg-logo="http://guide.overlordtv.tk/logos/ITV.png" group-title="UK TV",122 - ITV 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/14129.m3u8
+#EXTINF:-1 tvg-ID="ITV2.uk" tvg-name="123 - ITV 2" tvg-logo="http://guide.overlordtv.tk/logos/ITV 2.png" group-title="UK TV",123 - ITV 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/14131.m3u8
+#EXTINF:-1 tvg-ID="ITVEncore.uk" tvg-name="124 - ITV ENCORE" tvg-logo="http://guide.overlordtv.tk/logos/ITV ENCORE.png" group-title="UK TV",124 - ITV ENCORE
+http://dreamlord.tk:5454/live/demonbaz666/021956/14928.m3u8
+#EXTINF:-1 tvg-ID="ITV4.uk" tvg-name="125 - ITV 4" tvg-logo="http://guide.overlordtv.tk/logos/125.png" group-title="UK TV",125 - ITV 4
+http://dreamlord.tk:5454/live/demonbaz666/021956/14927.m3u8
+#EXTINF:-1 tvg-ID="ITV3.uk" tvg-name="126 - ITV 3" tvg-logo="http://guide.overlordtv.tk/logos/ITV 3.png" group-title="UK TV",126 - ITV 3
+http://dreamlord.tk:5454/live/demonbaz666/021956/14926.m3u8
+#EXTINF:-1 tvg-ID="ITVBe.uk" tvg-name="127 - ITV BE" tvg-logo="http://guide.overlordtv.tk/logos/ITV BE.png" group-title="UK TV",127 - ITV BE
+http://dreamlord.tk:5454/live/demonbaz666/021956/14941.m3u8
+#EXTINF:-1 tvg-ID="Channel4.uk" tvg-name="128 - CHANNEL 4" tvg-logo="http://guide.overlordtv.tk/logos/CHANNEL 4.png" group-title="UK TV",128 - CHANNEL 4
+http://dreamlord.tk:5454/live/demonbaz666/021956/14194.m3u8
+#EXTINF:-1 tvg-ID="4Seven.uk" tvg-name="129 - 4 SEVEN HD" tvg-logo="http://guide.overlordtv.tk/logos/4 SEVEN.png" group-title="UK TV",129 - 4 SEVEN HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14116.m3u8
+#EXTINF:-1 tvg-ID="E4.uk" tvg-name="130 - E4" tvg-logo="http://guide.overlordtv.tk/logos/E4.png" group-title="UK TV",130 - E4
+http://dreamlord.tk:5454/live/demonbaz666/021956/14931.m3u8
+#EXTINF:-1 tvg-ID="More4.uk" tvg-name="131 - MORE 4" tvg-logo="http://guide.overlordtv.tk/logos/MORE 4.png" group-title="UK TV",131 - MORE 4
+http://dreamlord.tk:5454/live/demonbaz666/021956/14932.m3u8
+#EXTINF:-1 tvg-ID="Channel5.uk" tvg-name="132 - CHANNEL 5" tvg-logo="http://guide.overlordtv.tk/logos/CHANNEL 5.png" group-title="UK TV",132 - CHANNEL 5
+http://dreamlord.tk:5454/live/demonbaz666/021956/14128.m3u8
+#EXTINF:-1 tvg-ID="5star.uk" tvg-name="133 - 5 STAR" tvg-logo="http://guide.overlordtv.tk/logos/133.png" group-title="UK TV",133 - 5 STAR
+http://dreamlord.tk:5454/live/demonbaz666/021956/14939.m3u8
+#EXTINF:-1 tvg-ID="FiveUSA.uk" tvg-name="134 - 5 USA" tvg-logo="http://guide.overlordtv.tk/logos/5 USA.png" group-title="UK TV",134 - 5 USA
+http://dreamlord.tk:5454/live/demonbaz666/021956/14118.m3u8
+#EXTINF:-1 tvg-ID="SkyLiving.uk" tvg-name="135 - SKY LIVING" tvg-logo="http://guide.overlordtv.tk/logos/SKY LIVING.png" group-title="UK TV",135 - SKY LIVING
+http://dreamlord.tk:5454/live/demonbaz666/021956/14922.m3u8
+#EXTINF:-1 tvg-ID="Sky1.uk" tvg-name="136 - SKY ONE" tvg-logo="http://guide.overlordtv.tk/logos/106.png" group-title="UK TV",136 - SKY ONE
+http://dreamlord.tk:5454/live/demonbaz666/021956/14930.m3u8
+#EXTINF:-1 tvg-ID="CBSAction.uk" tvg-name="137 - CBS ACTION" tvg-logo="" group-title="UK TV",137 - CBS ACTION
+http://dreamlord.tk:5454/live/demonbaz666/021956/14972.m3u8
+#EXTINF:-1 tvg-ID="CBSDrama.uk" tvg-name="138 - CBS DRAMA" tvg-logo="http://guide.overlordtv.tk/logos/507.png" group-title="UK TV",138 - CBS DRAMA
+http://dreamlord.tk:5454/live/demonbaz666/021956/14934.m3u8
+#EXTINF:-1 tvg-ID="CBSReality.uk" tvg-name="139 - CBS REALITY" tvg-logo="http://guide.overlordtv.tk/logos/508.png" group-title="UK TV",139 - CBS REALITY
+http://dreamlord.tk:5454/live/demonbaz666/021956/14933.m3u8
+#EXTINF:-1 tvg-ID="Challenge.uk" tvg-name="140 - CHALLENGE" tvg-logo="http://guide.overlordtv.tk/logos/139.png" group-title="UK TV",140 - CHALLENGE
+http://dreamlord.tk:5454/live/demonbaz666/021956/14153.m3u8
+#EXTINF:-1 tvg-ID="ComedyCentral.uk" tvg-name="141 - COMEDY CENTRAL HD" tvg-logo="http://guide.overlordtv.tk/logos/141.png" group-title="UK TV",141 - COMEDY CENTRAL HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14924.m3u8
+#EXTINF:-1 tvg-ID="ComedyCentral.uk" tvg-name="142 - COMEDY CENTRAL" tvg-logo="http://guide.overlordtv.tk/logos/141.png" group-title="UK TV",142 - COMEDY CENTRAL
+http://dreamlord.tk:5454/live/demonbaz666/021956/14167.m3u8
+#EXTINF:-1 tvg-ID="Dave.uk" tvg-name="143 - DAVE HD" tvg-logo="http://guide.overlordtv.tk/logos/143.png" group-title="UK TV",143 - DAVE HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14214.m3u8
+#EXTINF:-1 tvg-ID="Dave.uk" tvg-name="144 - DAVE" tvg-logo="http://guide.overlordtv.tk/logos/144.png" group-title="UK TV",144 - DAVE
+http://dreamlord.tk:5454/live/demonbaz666/021956/14923.m3u8
+#EXTINF:-1 tvg-ID="Drama.uk" tvg-name="145 - DRAMA" tvg-logo="http://guide.overlordtv.tk/logos/145.png" group-title="UK TV",145 - DRAMA
+http://dreamlord.tk:5454/live/demonbaz666/021956/14937.m3u8
+#EXTINF:-1 tvg-ID="E.uk" tvg-name="146 - E!" tvg-logo="http://guide.overlordtv.tk/logos/146.png" group-title="UK TV",146 - E!
+http://dreamlord.tk:5454/live/demonbaz666/021956/14935.m3u8
+#EXTINF:-1 tvg-ID="Eden.uk" tvg-name="147 - EDEN" tvg-logo="http://guide.overlordtv.tk/logos/147.png" group-title="UK TV",147 - EDEN
+http://dreamlord.tk:5454/live/demonbaz666/021956/14978.m3u8
+#EXTINF:-1 tvg-ID="FOX.uk" tvg-name="148 - FOX UK" tvg-logo="http://guide.overlordtv.tk/logos/148.png" group-title="UK TV",148 - FOX UK
+http://dreamlord.tk:5454/live/demonbaz666/021956/14185.m3u8
+#EXTINF:-1 tvg-ID="GOLD.uk" tvg-name="149 - GOLD" tvg-logo="http://guide.overlordtv.tk/logos/149.png" group-title="UK TV",149 - GOLD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14180.m3u8
+#EXTINF:-1 tvg-ID="GoodFood.uk" tvg-name="150 - GOOD FOOD" tvg-logo="http://guide.overlordtv.tk/logos/150.png" group-title="UK TV",150 - GOOD FOOD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14207.m3u8
+#EXTINF:-1 tvg-ID="Home.uk" tvg-name="151 - HOME" tvg-logo="http://guide.overlordtv.tk/logos/151.png" group-title="UK TV",151 - HOME
+http://dreamlord.tk:5454/live/demonbaz666/021956/14977.m3u8
+#EXTINF:-1 tvg-ID="HorrorChannel.uk" tvg-name="152 - HORROR CHANNEL" tvg-logo="http://guide.overlordtv.tk/logos/152.png" group-title="UK TV",152 - HORROR CHANNEL
+http://dreamlord.tk:5454/live/demonbaz666/021956/14950.m3u8
+#EXTINF:-1 tvg-ID="Lifetime.uk" tvg-name="153 - LIFETIME" tvg-logo="http://guide.overlordtv.tk/logos/153.png" group-title="UK TV",153 - LIFETIME
+http://dreamlord.tk:5454/live/demonbaz666/021956/14936.m3u8
+#EXTINF:-1 tvg-ID="PickTV.uk" tvg-name="154 - PICK TV" tvg-logo="http://guide.overlordtv.tk/logos/154.png" group-title="UK TV",154 - PICK TV
+http://dreamlord.tk:5454/live/demonbaz666/021956/14181.m3u8
+#EXTINF:-1 tvg-ID="Quest.uk" tvg-name="155 - QUEST" tvg-logo="http://guide.overlordtv.tk/logos/155.png" group-title="UK TV",155 - QUEST
+http://dreamlord.tk:5454/live/demonbaz666/021956/14112.m3u8
+#EXTINF:-1 tvg-ID="RealLives.uk" tvg-name="156 - REAL LIVES" tvg-logo="http://guide.overlordtv.tk/logos/156.png" group-title="UK TV",156 - REAL LIVES
+http://dreamlord.tk:5454/live/demonbaz666/021956/14938.m3u8
+#EXTINF:-1 tvg-ID="Really.uk" tvg-name="157 - REALLY" tvg-logo="http://guide.overlordtv.tk/logos/157.png" group-title="UK TV",157 - REALLY
+http://dreamlord.tk:5454/live/demonbaz666/021956/14090.m3u8
+#EXTINF:-1 tvg-ID="RTEOne.ie" tvg-name="158 - RTE ONE" tvg-logo="http://guide.overlordtv.tk/logos/158.png" group-title="UK TV",158 - RTE ONE
+http://dreamlord.tk:5454/live/demonbaz666/021956/14058.m3u8
+#EXTINF:-1 tvg-ID="RTETwo.ie" tvg-name="159 - RTE TWO" tvg-logo="http://guide.overlordtv.tk/logos/159.png" group-title="UK TV",159 - RTE TWO
+http://dreamlord.tk:5454/live/demonbaz666/021956/14258.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="160 - S4C" tvg-logo="http://guide.overlordtv.tk/logos/160.png" group-title="UK TV",160 - S4C
+http://dreamlord.tk:5454/live/demonbaz666/021956/14921.m3u8
+#EXTINF:-1 tvg-ID="Spike.uk" tvg-name="161 - SPIKE UK" tvg-logo="http://guide.overlordtv.tk/logos/161.png" group-title="UK TV",161 - SPIKE UK
+http://dreamlord.tk:5454/live/demonbaz666/021956/14082.m3u8
+#EXTINF:-1 tvg-ID="Syfy.uk" tvg-name="162 - SYFY HD" tvg-logo="http://guide.overlordtv.tk/logos/162.png" group-title="UK TV",162 - SYFY HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14193.m3u8
+#EXTINF:-1 tvg-ID="TG4.ie" tvg-name="163 - TG4" tvg-logo="http://guide.overlordtv.tk/logos/163.png" group-title="UK TV",163 - TG4
+http://dreamlord.tk:5454/live/demonbaz666/021956/14945.m3u8
+#EXTINF:-1 tvg-ID="TLC.uk" tvg-name="164 - TLC HD UK" tvg-logo="http://guide.overlordtv.tk/logos/164.png" group-title="UK TV",164 - TLC HD UK
+http://dreamlord.tk:5454/live/demonbaz666/021956/14114.m3u8
+#EXTINF:-1 tvg-ID="TLC.uk" tvg-name="165 - TLC UK" tvg-logo="http://guide.overlordtv.tk/logos/165.png" group-title="UK TV",165 - TLC UK
+http://dreamlord.tk:5454/live/demonbaz666/021956/14929.m3u8
+#EXTINF:-1 tvg-ID="TrueEntertainment.uk" tvg-name="166 - TRUE ENTERTAINMENT" tvg-logo="http://guide.overlordtv.tk/logos/166.png" group-title="UK TV",166 - TRUE ENTERTAINMENT
+http://dreamlord.tk:5454/live/demonbaz666/021956/14100.m3u8
+#EXTINF:-1 tvg-ID="TV3.ie" tvg-name="167 - TV 3" tvg-logo="http://guide.overlordtv.tk/logos/167.png" group-title="UK TV",167 - TV 3
+http://dreamlord.tk:5454/live/demonbaz666/021956/14133.m3u8
+#EXTINF:-1 tvg-ID="UTVIreland.ie" tvg-name="168 - UTV" tvg-logo="http://guide.overlordtv.tk/logos/168.png" group-title="UK TV",168 - UTV
+http://dreamlord.tk:5454/live/demonbaz666/021956/14252.m3u8
+#EXTINF:-1 tvg-ID="W.uk" tvg-name="169 - WATCH HD" tvg-logo="http://guide.overlordtv.tk/logos/169.png" group-title="UK TV",169 - WATCH HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14229.m3u8
+#EXTINF:-1 tvg-ID="Yesterday.uk" tvg-name="170 - YESTERDAY" tvg-logo="http://guide.overlordtv.tk/logos/170.png" group-title="UK TV",170 - YESTERDAY
+http://dreamlord.tk:5454/live/demonbaz666/021956/14979.m3u8
+#EXTINF:-1 tvg-ID="Alibi.uk" tvg-name="171 - ALIBI" tvg-logo="http://guide.overlordtv.tk/logos/136.png" group-title="UK TV",171 - ALIBI
+http://dreamlord.tk:5454/live/demonbaz666/021956/17909.m3u8
+#EXTINF:-1 tvg-ID="AnimalPlanet.uk" tvg-name="201 - ANIMAL PLANET HD" tvg-logo="http://guide.overlordtv.tk/logos/201.png" group-title="DOCUMENTARY",201 - ANIMAL PLANET HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14224.m3u8
+#EXTINF:-1 tvg-ID="AnimalPlanet.uk" tvg-name="202 - ANIMAL PLANET" tvg-logo="http://guide.overlordtv.tk/logos/202.png" group-title="DOCUMENTARY",202 - ANIMAL PLANET
+http://dreamlord.tk:5454/live/demonbaz666/021956/14980.m3u8
+#EXTINF:-1 tvg-ID="CrimeAndInvestigationNetwork.uk" tvg-name="203 - CRIME & INVESTIGATION" tvg-logo="http://guide.overlordtv.tk/logos/203.png" group-title="DOCUMENTARY",203 - CRIME & INVESTIGATION
+http://dreamlord.tk:5454/live/demonbaz666/021956/14121.m3u8
+#EXTINF:-1 tvg-ID="Discovery.uk" tvg-name="204 - DISCOVERY CHANNEL HD" tvg-logo="http://guide.overlordtv.tk/logos/204.png" group-title="DOCUMENTARY",204 - DISCOVERY CHANNEL HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14216.m3u8
+#EXTINF:-1 tvg-ID="Discovery.uk" tvg-name="205 - DISCOVERY" tvg-logo="http://guide.overlordtv.tk/logos/205.png" group-title="DOCUMENTARY",205 - DISCOVERY
+http://dreamlord.tk:5454/live/demonbaz666/021956/14973.m3u8
+#EXTINF:-1 tvg-ID="DiscoveryHistory.uk" tvg-name="206 - DISCOVERY HISTORY" tvg-logo="http://guide.overlordtv.tk/logos/206.png" group-title="DOCUMENTARY",206 - DISCOVERY HISTORY
+http://dreamlord.tk:5454/live/demonbaz666/021956/14106.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="207 - Unallocated" tvg-logo="" group-title="DOCUMENTARY",207 - Unallocated
+http://dreamlord.tk:5454/live/demonbaz666/021956/14109.m3u8
+#EXTINF:-1 tvg-ID="DiscoveryScience.uk" tvg-name="208 - DISCOVERY SCIENCE" tvg-logo="http://guide.overlordtv.tk/logos/208.png" group-title="DOCUMENTARY",208 - DISCOVERY SCIENCE
+http://dreamlord.tk:5454/live/demonbaz666/021956/14168.m3u8
+#EXTINF:-1 tvg-ID="DiscoveryShed.uk" tvg-name="209 - DISCOVERY SHED" tvg-logo="http://guide.overlordtv.tk/logos/209.png" group-title="DOCUMENTARY",209 - DISCOVERY SHED
+http://dreamlord.tk:5454/live/demonbaz666/021956/14175.m3u8
+#EXTINF:-1 tvg-ID="DiscoveryTurbo.uk" tvg-name="210 - DISCOVERY TURBO" tvg-logo="http://guide.overlordtv.tk/logos/210.png" group-title="DOCUMENTARY",210 - DISCOVERY TURBO
+http://dreamlord.tk:5454/live/demonbaz666/021956/14111.m3u8
+#EXTINF:-1 tvg-ID="History.uk" tvg-name="211 - HISTORY" tvg-logo="http://guide.overlordtv.tk/logos/211.png" group-title="DOCUMENTARY",211 - HISTORY
+http://dreamlord.tk:5454/live/demonbaz666/021956/14130.m3u8
+#EXTINF:-1 tvg-ID="H2.uk" tvg-name="212 - H2" tvg-logo="http://guide.overlordtv.tk/logos/212.png" group-title="DOCUMENTARY",212 - H2
+http://dreamlord.tk:5454/live/demonbaz666/021956/14139.m3u8
+#EXTINF:-1 tvg-ID="Investigation.uk" tvg-name="213 - INVESTIGATION DISCOVERY" tvg-logo="" group-title="DOCUMENTARY",213 - INVESTIGATION DISCOVERY
+http://dreamlord.tk:5454/live/demonbaz666/021956/16879.m3u8
+#EXTINF:-1 tvg-ID="NatGeo.uk" tvg-name="214 - NATIONAL GEOGRAPHICAL HD" tvg-logo="http://guide.overlordtv.tk/logos/214.png" group-title="DOCUMENTARY",214 - NATIONAL GEOGRAPHICAL HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14101.m3u8
+#EXTINF:-1 tvg-ID="NatGeo.uk" tvg-name="215 - NATIONAL GEOGRAPHIC" tvg-logo="http://guide.overlordtv.tk/logos/215.png" group-title="DOCUMENTARY",215 - NATIONAL GEOGRAPHIC
+http://dreamlord.tk:5454/live/demonbaz666/021956/14975.m3u8
+#EXTINF:-1 tvg-ID="NatGeoWild.uk" tvg-name="216 - NAT GEO WILD HD" tvg-logo="http://guide.overlordtv.tk/logos/216.png" group-title="DOCUMENTARY",216 - NAT GEO WILD HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14098.m3u8
+#EXTINF:-1 tvg-ID="NatGeoWild.uk" tvg-name="217 - NAT GEO WILD" tvg-logo="http://guide.overlordtv.tk/logos/217.png" group-title="DOCUMENTARY",217 - NAT GEO WILD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14976.m3u8
+#EXTINF:-1 tvg-ID="218 - ABC NEWS" tvg-name="218 - ABC NEWS" tvg-logo="http://guide.overlordtv.tk/logos/218.png" group-title="NEWS",218 - ABC NEWS
+http://dreamlord.tk:5454/live/demonbaz666/021956/14120.m3u8
+#EXTINF:-1 tvg-ID="BBCNews.uk" tvg-name="219 - BBC NEWS" tvg-logo="http://guide.overlordtv.tk/logos/219.png" group-title="NEWS",219 - BBC NEWS
+http://dreamlord.tk:5454/live/demonbaz666/021956/14066.m3u8
+#EXTINF:-1 tvg-ID="CNN.uk" tvg-name="220 - CNN" tvg-logo="http://guide.overlordtv.tk/logos/220.png" group-title="NEWS",220 - CNN
+http://dreamlord.tk:5454/live/demonbaz666/021956/14110.m3u8
+#EXTINF:-1 tvg-ID="FOXNews.uk" tvg-name="221 - FOX NEWS" tvg-logo="http://guide.overlordtv.tk/logos/221.png" group-title="NEWS",221 - FOX NEWS
+http://dreamlord.tk:5454/live/demonbaz666/021956/14200.m3u8
+#EXTINF:-1 tvg-ID="DunyaNews.sa" tvg-name="222 - DUNYA NEWS" tvg-logo="" group-title="NEWS",222 - DUNYA NEWS
+http://dreamlord.tk:5454/live/demonbaz666/021956/15047.m3u8
+#EXTINF:-1 tvg-ID="SkyNews.uk" tvg-name="223 - SKY NEWS HD" tvg-logo="http://guide.overlordtv.tk/logos/223.png" group-title="NEWS",223 - SKY NEWS HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14068.m3u8
+#EXTINF:-1 tvg-ID="BabyTV.uk" tvg-name="224 - BABY TV" tvg-logo="http://guide.overlordtv.tk/logos/224.png" group-title="KIDS",224 - BABY TV
+http://dreamlord.tk:5454/live/demonbaz666/021956/14219.m3u8
+#EXTINF:-1 tvg-ID="Boomerang.uk" tvg-name="225 - BOOMERANG" tvg-logo="http://guide.overlordtv.tk/logos/225.png" group-title="KIDS",225 - BOOMERANG
+http://dreamlord.tk:5454/live/demonbaz666/021956/14174.m3u8
+#EXTINF:-1 tvg-ID="Cartoonito.uk" tvg-name="226 - CARTOONITO (offline)" tvg-logo="http://guide.overlordtv.tk/logos/226.png" group-title="KIDS",226 - CARTOONITO (offline)
+http://dreamlord.tk:5454/live/demonbaz666/021956/14187.m3u8
+#EXTINF:-1 tvg-ID="CartoonNetwork.uk" tvg-name="227 - CARTOON NETWORK" tvg-logo="http://guide.overlordtv.tk/logos/227.png" group-title="KIDS",227 - CARTOON NETWORK
+http://dreamlord.tk:5454/live/demonbaz666/021956/14981.m3u8
+#EXTINF:-1 tvg-ID="CBBC.uk" tvg-name="228 - CBBC HD" tvg-logo="http://guide.overlordtv.tk/logos/228.png" group-title="KIDS",228 - CBBC HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14065.m3u8
+#EXTINF:-1 tvg-ID="CBeebies.uk" tvg-name="229 - CBEEBIES" tvg-logo="http://guide.overlordtv.tk/logos/229.png" group-title="KIDS",229 - CBEEBIES
+http://dreamlord.tk:5454/live/demonbaz666/021956/14049.m3u8
+#EXTINF:-1 tvg-ID="CITV.uk" tvg-name="230 - CITV" tvg-logo="http://guide.overlordtv.tk/logos/230.png" group-title="KIDS",230 - CITV
+http://dreamlord.tk:5454/live/demonbaz666/021956/14141.m3u8
+#EXTINF:-1 tvg-ID="Disney.uk" tvg-name="231 - DISNEY" tvg-logo="http://guide.overlordtv.tk/logos/231.png" group-title="KIDS",231 - DISNEY
+http://dreamlord.tk:5454/live/demonbaz666/021956/14275.m3u8
+#EXTINF:-1 tvg-ID="DisneyJunior.uk" tvg-name="232 - DISNEY JR" tvg-logo="http://guide.overlordtv.tk/logos/232.png" group-title="KIDS",232 - DISNEY JR
+http://dreamlord.tk:5454/live/demonbaz666/021956/14254.m3u8
+#EXTINF:-1 tvg-ID="DisneyXD.uk" tvg-name="233 - DISNEY XD" tvg-logo="http://guide.overlordtv.tk/logos/233.png" group-title="KIDS",233 - DISNEY XD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14256.m3u8
+#EXTINF:-1 tvg-ID="Nickelodeon.uk" tvg-name="234 - NICKELODEON" tvg-logo="http://guide.overlordtv.tk/logos/234.png" group-title="KIDS",234 - NICKELODEON
+http://dreamlord.tk:5454/live/demonbaz666/021956/14982.m3u8
+#EXTINF:-1 tvg-ID="NickJunior.uk" tvg-name="235 - NICK JR" tvg-logo="http://guide.overlordtv.tk/logos/235.png" group-title="KIDS",235 - NICK JR
+http://dreamlord.tk:5454/live/demonbaz666/021956/14251.m3u8
+#EXTINF:-1 tvg-ID="Nicktoons.uk" tvg-name="236 - NICK TOONS" tvg-logo="http://guide.overlordtv.tk/logos/236.png" group-title="KIDS",236 - NICK TOONS
+http://dreamlord.tk:5454/live/demonbaz666/021956/14172.m3u8
+#EXTINF:-1 tvg-ID="NickJrToo.uk" tvg-name="237 - NICK JR TOO" tvg-logo="http://guide.overlordtv.tk/logos/237.png" group-title="KIDS",237 - NICK JR TOO
+http://dreamlord.tk:5454/live/demonbaz666/021956/14163.m3u8
+#EXTINF:-1 tvg-ID="Pop.uk" tvg-name="238 - POP" tvg-logo="http://guide.overlordtv.tk/logos/238.png" group-title="KIDS",238 - POP
+http://dreamlord.tk:5454/live/demonbaz666/021956/14274.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="239 - Unallocated" tvg-logo="" group-title="KIDS",239 - Unallocated
+http://dreamlord.tk:5454/live/demonbaz666/021956/14985.m3u8
+#EXTINF:-1 tvg-ID="Tinypop.uk" tvg-name="240 - TINY POP" tvg-logo="http://guide.overlordtv.tk/logos/240.png" group-title="KIDS",240 - TINY POP
+http://dreamlord.tk:5454/live/demonbaz666/021956/14983.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="241 - BOX HITS" tvg-logo="" group-title="MUSIC",241 - BOX HITS
+http://dreamlord.tk:5454/live/demonbaz666/021956/14959.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="242 - BOX UP FRONT" tvg-logo="" group-title="MUSIC",242 - BOX UP FRONT
+http://dreamlord.tk:5454/live/demonbaz666/021956/14957.m3u8
+#EXTINF:-1 tvg-ID="ChartshowHits.uk" tvg-name="243 -  CHART SHOW HITS" tvg-logo="http://guide.overlordtv.tk/logos/243.png" group-title="MUSIC",243 -  CHART SHOW HITS
+http://dreamlord.tk:5454/live/demonbaz666/021956/14210.m3u8
+#EXTINF:-1 tvg-ID="ChartShow.uk" tvg-name="244 - CHART SHOW TV" tvg-logo="http://guide.overlordtv.tk/logos/244.png" group-title="MUSIC",244 - CHART SHOW TV
+http://dreamlord.tk:5454/live/demonbaz666/021956/14955.m3u8
+#EXTINF:-1 tvg-ID="Kerrang.uk" tvg-name="245 - KERRANG" tvg-logo="http://guide.overlordtv.tk/logos/.png" group-title="MUSIC",245 - KERRANG
+http://dreamlord.tk:5454/live/demonbaz666/021956/14954.m3u8
+#EXTINF:-1 tvg-ID="KissTV.uk" tvg-name="246 - KISS" tvg-logo="http://guide.overlordtv.tk/logos/.png" group-title="MUSIC",246 - KISS
+http://dreamlord.tk:5454/live/demonbaz666/021956/14243.m3u8
+#EXTINF:-1 tvg-ID="Magic.uk" tvg-name="247 - MAGIC" tvg-logo="http://guide.overlordtv.tk/logos/.png" group-title="MUSIC",247 - MAGIC
+http://dreamlord.tk:5454/live/demonbaz666/021956/14244.m3u8
+#EXTINF:-1 tvg-ID="MTV.uk" tvg-name="248 - MTV" tvg-logo="http://guide.overlordtv.tk/logos/245.png" group-title="MUSIC",248 - MTV
+http://dreamlord.tk:5454/live/demonbaz666/021956/14061.m3u8
+#EXTINF:-1 tvg-ID="MTVBase.uk" tvg-name="249 - MTV BASE" tvg-logo="http://guide.overlordtv.tk/logos/246.png" group-title="MUSIC",249 - MTV BASE
+http://dreamlord.tk:5454/live/demonbaz666/021956/14242.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="250 - MTV CLASSIC" tvg-logo="http://guide.overlordtv.tk/logos/247.png" group-title="MUSIC",250 - MTV CLASSIC
+http://dreamlord.tk:5454/live/demonbaz666/021956/14211.m3u8
+#EXTINF:-1 tvg-ID="MTVDance.uk" tvg-name="251 - MTV DANCE" tvg-logo="http://guide.overlordtv.tk/logos/248.png" group-title="MUSIC",251 - MTV DANCE
+http://dreamlord.tk:5454/live/demonbaz666/021956/14241.m3u8
+#EXTINF:-1 tvg-ID="MTVHits.uk" tvg-name="252 - MTV HITS" tvg-logo="http://guide.overlordtv.tk/logos/246.png" group-title="MUSIC",252 - MTV HITS
+http://dreamlord.tk:5454/live/demonbaz666/021956/14958.m3u8
+#EXTINF:-1 tvg-ID="MTVMusic.uk" tvg-name="253 - MTV MUSIC" tvg-logo="http://guide.overlordtv.tk/logos/244.png" group-title="MUSIC",253 - MTV MUSIC
+http://dreamlord.tk:5454/live/demonbaz666/021956/14099.m3u8
+#EXTINF:-1 tvg-ID="MTVRocks.uk" tvg-name="254 - MTV ROCKS" tvg-logo="http://guide.overlordtv.tk/logos/251.png" group-title="MUSIC",254 - MTV ROCKS
+http://dreamlord.tk:5454/live/demonbaz666/021956/14240.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="255 - Unallocated" tvg-logo="http://guide.overlordtv.tk/logos/xxx.png" group-title="MUSIC",255 - Unallocated
+http://dreamlord.tk:5454/live/demonbaz666/021956/14062.m3u8
+#EXTINF:-1 tvg-ID="NOW80s.uk" tvg-name="256 - NOW 80'S" tvg-logo="" group-title="MUSIC",256 - NOW 80'S
+http://dreamlord.tk:5454/live/demonbaz666/021956/16900.m3u8
+#EXTINF:-1 tvg-ID="Scuzz.uk" tvg-name="257 - SCUZZ" tvg-logo="" group-title="MUSIC",257 - SCUZZ
+http://dreamlord.tk:5454/live/demonbaz666/021956/17908.m3u8
+#EXTINF:-1 tvg-ID="TheBox.uk" tvg-name="258 - THE BOX" tvg-logo="" group-title="MUSIC",258 - THE BOX
+http://dreamlord.tk:5454/live/demonbaz666/021956/17907.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="259 - THE VAULT" tvg-logo="" group-title="MUSIC",259 - THE VAULT
+http://dreamlord.tk:5454/live/demonbaz666/021956/17906.m3u8
+#EXTINF:-1 tvg-ID="AlJazeeraEnglish.uk" tvg-name="270 - ALJAZEERA" tvg-logo="" group-title="ASIAN",270 - ALJAZEERA
+http://dreamlord.tk:5454/live/demonbaz666/021956/16899.m3u8
+#EXTINF:-1 tvg-ID="271 - ARY QTV UK" tvg-name="271 - AAJ TAK" tvg-logo="" group-title="ASIAN",271 - AAJ TAK
+http://dreamlord.tk:5454/live/demonbaz666/021956/16898.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="272 - AL ARABIYA" tvg-logo="" group-title="ASIAN",272 - AL ARABIYA
+http://dreamlord.tk:5454/live/demonbaz666/021956/16897.m3u8
+#EXTINF:-1 tvg-ID="ZeeCinema.uk" tvg-name="273 - ZEE CINEMA" tvg-logo="" group-title="ASIAN",273 - ZEE CINEMA
+http://dreamlord.tk:5454/live/demonbaz666/021956/16896.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="276 - ZEE PUNJABI" tvg-logo="" group-title="ASIAN",276 - ZEE PUNJABI
+http://dreamlord.tk:5454/live/demonbaz666/021956/16893.m3u8
+#EXTINF:-1 tvg-ID="ZeeTV.uk" tvg-name="277 - ZEE TV" tvg-logo="" group-title="ASIAN",277 - ZEE TV
+http://dreamlord.tk:5454/live/demonbaz666/021956/16891.m3u8
+#EXTINF:-1 tvg-ID="Zing.uk" tvg-name="300 - ZING" tvg-logo="" group-title="ASIAN",300 - ZING
+http://dreamlord.tk:5454/live/demonbaz666/021956/16885.m3u8
+#EXTINF:-1 tvg-ID="Film4.uk" tvg-name="301 - FILM 4 HD" tvg-logo="http://guide.overlordtv.tk/logos/301.png" group-title="MOVIES",301 - FILM 4 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14228.m3u8
+#EXTINF:-1 tvg-ID="TrueMovies.uk" tvg-name="302 - TRUE MOVIES" tvg-logo="http://guide.overlordtv.tk/logos/xxx.png" group-title="MOVIES",302 - TRUE MOVIES
+http://dreamlord.tk:5454/live/demonbaz666/021956/14948.m3u8
+#EXTINF:-1 tvg-ID="Movies4Men.uk" tvg-name="303 - MOVIES 4 MEN" tvg-logo="http://guide.overlordtv.tk/logos/303.png" group-title="MOVIES",303 - MOVIES 4 MEN
+http://dreamlord.tk:5454/live/demonbaz666/021956/14952.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="304 - Unallocated" tvg-logo="http://guide.overlordtv.tk/logos/304.png" group-title="MOVIES",304 - Unallocated
+http://dreamlord.tk:5454/live/demonbaz666/021956/14951.m3u8
+#EXTINF:-1 tvg-ID="TCM.uk" tvg-name="305 - TCM HD" tvg-logo="http://guide.overlordtv.tk/logos/305.png" group-title="MOVIES",305 - TCM HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14949.m3u8
+#EXTINF:-1 tvg-ID="SkyMoviesAction.uk" tvg-name="306 - SKY CINEMA ACTION & ADVENTURE HD" tvg-logo="http://guide.overlordtv.tk/logos/306.png" group-title="MOVIES",306 - SKY CINEMA ACTION & ADVENTURE HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14081.m3u8
+#EXTINF:-1 tvg-ID="SkyMoviesComedy.uk" tvg-name="307 - SKY CINEMA COMEDY HD" tvg-logo="http://guide.overlordtv.tk/logos/307.png" group-title="MOVIES",307 - SKY CINEMA COMEDY HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14080.m3u8
+#EXTINF:-1 tvg-ID="SkyCrimeThriller.uk" tvg-name="308 - SKY CINEMA CRIME & THRILLER HD" tvg-logo="http://guide.overlordtv.tk/logos/308.png" group-title="MOVIES",308 - SKY CINEMA CRIME & THRILLER HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14086.m3u8
+#EXTINF:-1 tvg-ID="SkyMoviesDisney.uk" tvg-name="309 - SKY CINEMA DISNEY HD" tvg-logo="http://guide.overlordtv.tk/logos/309.png" group-title="MOVIES",309 - SKY CINEMA DISNEY HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14227.m3u8
+#EXTINF:-1 tvg-ID="SkyMoviesDrama.uk" tvg-name="310 - SKY CINEMA DRAMA & ROMANCE HD" tvg-logo="http://guide.overlordtv.tk/logos/310.png" group-title="MOVIES",310 - SKY CINEMA DRAMA & ROMANCE HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14083.m3u8
+#EXTINF:-1 tvg-ID="SkyMoviesFamily.uk" tvg-name="311 - SKY CINEMA FAMILY HD" tvg-logo="http://guide.overlordtv.tk/logos/311.png" group-title="MOVIES",311 - SKY CINEMA FAMILY HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14085.m3u8
+#EXTINF:-1 tvg-ID="SkyMoviesGreats.uk" tvg-name="312 - SKY CINEMA STAR WARS HD" tvg-logo="http://guide.overlordtv.tk/logos/312.png" group-title="MOVIES",312 - SKY CINEMA STAR WARS HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14223.m3u8
+#EXTINF:-1 tvg-ID="SkyMoviesPremiere.uk" tvg-name="313 - SKY CINEMA PREMIERE HD" tvg-logo="http://guide.overlordtv.tk/logos/313.png" group-title="MOVIES",313 - SKY CINEMA PREMIERE HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14226.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="314 - SKY CINEMA PIRATES HD" tvg-logo="http://guide.overlordtv.tk/logos/315.png" group-title="MOVIES",314 - SKY CINEMA PIRATES HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14186.m3u8
+#EXTINF:-1 tvg-ID="SkySciFiHorror.uk" tvg-name="315 - SKY CINEMA SCI-FI & HORROR HD" tvg-logo="http://guide.overlordtv.tk/logos/314.png" group-title="MOVIES",315 - SKY CINEMA SCI-FI & HORROR HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14218.m3u8
+#EXTINF:-1 tvg-ID="SkySelect.uk" tvg-name="316 - SKY CINEMA SELECT HD" tvg-logo="http://guide.overlordtv.tk/logos/325.png" group-title="MOVIES",316 - SKY CINEMA SELECT HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14093.m3u8
+#EXTINF:-1 tvg-ID="316 - SKY CINEMA ACTION & ADVENTURE" tvg-name="317 - SKY CINEMA ACTION & ADVENTURE" tvg-logo="http://guide.overlordtv.tk/logos/316.png" group-title="MOVIES",317 - SKY CINEMA ACTION & ADVENTURE
+http://dreamlord.tk:5454/live/demonbaz666/021956/14091.m3u8
+#EXTINF:-1 tvg-ID="317 - SKY CINEMA COMEDY" tvg-name="318 - SKY CINEMA COMEDY" tvg-logo="http://guide.overlordtv.tk/logos/317.png" group-title="MOVIES",318 - SKY CINEMA COMEDY
+http://dreamlord.tk:5454/live/demonbaz666/021956/14092.m3u8
+#EXTINF:-1 tvg-ID="318 - SKY CINEMA CRIME & THRILLER" tvg-name="319 - SKY CINEMA CRIME & THRILLER" tvg-logo="http://guide.overlordtv.tk/logos/318.png" group-title="MOVIES",319 - SKY CINEMA CRIME & THRILLER
+http://dreamlord.tk:5454/live/demonbaz666/021956/14096.m3u8
+#EXTINF:-1 tvg-ID="319 - SKY CINEMA DISNEY" tvg-name="320 - SKY CINEMA DISNEY (offline)" tvg-logo="http://guide.overlordtv.tk/logos/319.png" group-title="MOVIES",320 - SKY CINEMA DISNEY (offline)
+http://dreamlord.tk:5454/live/demonbaz666/021956/14947.m3u8
+#EXTINF:-1 tvg-ID="320 - SKY CINEMA DRAMA & ROMANCE" tvg-name="321 - SKY CINEMA DRAMA & ROMANCE" tvg-logo="http://guide.overlordtv.tk/logos/320.png" group-title="MOVIES",321 - SKY CINEMA DRAMA & ROMANCE
+http://dreamlord.tk:5454/live/demonbaz666/021956/14073.m3u8
+#EXTINF:-1 tvg-ID="321 - SKY CINEMA FAMILY" tvg-name="322 - SKY CINEMA FAMILY (offline)" tvg-logo="http://guide.overlordtv.tk/logos/321.png" group-title="MOVIES",322 - SKY CINEMA FAMILY (offline)
+http://dreamlord.tk:5454/live/demonbaz666/021956/14094.m3u8
+#EXTINF:-1 tvg-ID="323 - SKY CINEMA MODERN GREATS" tvg-name="323 - SKY CINEMA MODERN GREATS (offline)" tvg-logo="http://guide.overlordtv.tk/logos/323.png" group-title="MOVIES",323 - SKY CINEMA MODERN GREATS (offline)
+http://dreamlord.tk:5454/live/demonbaz666/021956/14097.m3u8
+#EXTINF:-1 tvg-ID="322 - SKY CINEMA HITS" tvg-name="324 - SKY CINEMA PIXAR (offline)" tvg-logo="http://guide.overlordtv.tk/logos/322.png" group-title="MOVIES",324 - SKY CINEMA PIXAR (offline)
+http://dreamlord.tk:5454/live/demonbaz666/021956/14946.m3u8
+#EXTINF:-1 tvg-ID="324 - SKY CINEMA PREMIERE" tvg-name="325 - SKY CINEMA PREMIERE (offline)" tvg-logo="http://guide.overlordtv.tk/logos/324.png" group-title="MOVIES",325 - SKY CINEMA PREMIERE (offline)
+http://dreamlord.tk:5454/live/demonbaz666/021956/14095.m3u8
+#EXTINF:-1 tvg-ID="326 - SKY CINEMA SCI-FI & HORROR" tvg-name="326 - SKY CINEMA SCI-FI & HORROR (offline)" tvg-logo="http://guide.overlordtv.tk/logos/326.png" group-title="MOVIES",326 - SKY CINEMA SCI-FI & HORROR (offline)
+http://dreamlord.tk:5454/live/demonbaz666/021956/14119.m3u8
+#EXTINF:-1 tvg-ID="BTSport1.uk" tvg-name="327 - BT SPORT 1 HD" tvg-logo="http://guide.overlordtv.tk/logos/327.png" group-title="UK SPORT",327 - BT SPORT 1 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14104.m3u8
+#EXTINF:-1 tvg-ID="BTSport2.uk" tvg-name="328 - BT SPORT 2 HD" tvg-logo="http://guide.overlordtv.tk/logos/328.png" group-title="UK SPORT",328 - BT SPORT 2 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14103.m3u8
+#EXTINF:-1 tvg-ID="BTSport3.uk" tvg-name="329  - BT SPORT 3 HD" tvg-logo="http://guide.overlordtv.tk/logos/329.png" group-title="UK SPORT",329  - BT SPORT 3 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14102.m3u8
+#EXTINF:-1 tvg-ID="BTSportESPN.uk" tvg-name="330 - BT SPORT ESPN HD" tvg-logo="http://guide.overlordtv.tk/logos/330.png" group-title="UK SPORT",330 - BT SPORT ESPN HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14067.m3u8
+#EXTINF:-1 tvg-ID="BTSport1.uk" tvg-name="331 - BT SPORT 1" tvg-logo="http://guide.overlordtv.tk/logos/331.png" group-title="UK SPORT",331 - BT SPORT 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/14205.m3u8
+#EXTINF:-1 tvg-ID="BTSport2.uk" tvg-name="332 - BT SPORT 2" tvg-logo="http://guide.overlordtv.tk/logos/332.png" group-title="UK SPORT",332 - BT SPORT 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/14201.m3u8
+#EXTINF:-1 tvg-ID="BTSport3.uk" tvg-name="333 - BT SPORT 3" tvg-logo="http://guide.overlordtv.tk/logos/333.png" group-title="UK SPORT",333 - BT SPORT 3
+http://dreamlord.tk:5454/live/demonbaz666/021956/14206.m3u8
+#EXTINF:-1 tvg-ID="BTSportESPN.uk" tvg-name="334 - BT SPORT ESPN" tvg-logo="http://guide.overlordtv.tk/logos/334.png" group-title="UK SPORT",334 - BT SPORT ESPN
+http://dreamlord.tk:5454/live/demonbaz666/021956/14964.m3u8
+#EXTINF:-1 tvg-ID="BTSportX1.uk" tvg-name="335 - BT SPORT EXTRA 1" tvg-logo="http://guide.overlordtv.tk/logos/335.png" group-title="UK SPORT",335 - BT SPORT EXTRA 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/14245.m3u8
+#EXTINF:-1 tvg-ID="BTSportX2.uk" tvg-name="336 - BT SPORT EXTRA 2" tvg-logo="http://guide.overlordtv.tk/logos/336.png" group-title="UK SPORT",336 - BT SPORT EXTRA 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/14965.m3u8
+#EXTINF:-1 tvg-ID="BTSportX3.uk" tvg-name="337 - BT SPORT EXTRA 3" tvg-logo="http://guide.overlordtv.tk/logos/337.png" group-title="UK SPORT",337 - BT SPORT EXTRA 3
+http://dreamlord.tk:5454/live/demonbaz666/021956/14966.m3u8
+#EXTINF:-1 tvg-ID="BTSportX4.uk" tvg-name="338 - BT SPORT EXTRA 4" tvg-logo="http://guide.overlordtv.tk/logos/338.png" group-title="UK SPORT",338 - BT SPORT EXTRA 4
+http://dreamlord.tk:5454/live/demonbaz666/021956/14967.m3u8
+#EXTINF:-1 tvg-ID="BTSportX5.uk" tvg-name="339 - BT SPORT EXTRA 5" tvg-logo="http://guide.overlordtv.tk/logos/339.png" group-title="UK SPORT",339 - BT SPORT EXTRA 5
+http://dreamlord.tk:5454/live/demonbaz666/021956/14968.m3u8
+#EXTINF:-1 tvg-ID="BTSportX6.uk" tvg-name="340 - BT SPORT EXTRA 6" tvg-logo="http://guide.overlordtv.tk/logos/340.png" group-title="UK SPORT",340 - BT SPORT EXTRA 6
+http://dreamlord.tk:5454/live/demonbaz666/021956/14969.m3u8
+#EXTINF:-1 tvg-ID="SkySports1.uk" tvg-name="341 - SKY SPORTS 1 HD" tvg-logo="http://guide.overlordtv.tk/logos/341.png" group-title="UK SPORT",341 - SKY SPORTS 1 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14074.m3u8
+#EXTINF:-1 tvg-ID="SkySports2.uk" tvg-name="342 - SKY SPORTS 2 HD" tvg-logo="http://guide.overlordtv.tk/logos/342.png" group-title="UK SPORT",342 - SKY SPORTS 2 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14075.m3u8
+#EXTINF:-1 tvg-ID="SkySports3.uk" tvg-name="343 - SKY SPORTS 3 HD" tvg-logo="http://guide.overlordtv.tk/logos/343.png" group-title="UK SPORT",343 - SKY SPORTS 3 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14076.m3u8
+#EXTINF:-1 tvg-ID="SkySports4.uk" tvg-name="344 - SKY SPORTS 4 HD" tvg-logo="http://guide.overlordtv.tk/logos/344.png" group-title="UK SPORT",344 - SKY SPORTS 4 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14077.m3u8
+#EXTINF:-1 tvg-ID="SkySports5.uk" tvg-name="345 - SKY SPORTS 5 HD" tvg-logo="http://guide.overlordtv.tk/logos/345.png" group-title="UK SPORT",345 - SKY SPORTS 5 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14078.m3u8
+#EXTINF:-1 tvg-ID="SkySportsF1.uk" tvg-name="346 - SKY SPORTS F1 HD" tvg-logo="http://guide.overlordtv.tk/logos/346.png" group-title="UK SPORT",346 - SKY SPORTS F1 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14079.m3u8
+#EXTINF:-1 tvg-ID="SkySportsNews.uk" tvg-name="347 - SKY SPORTS NEWS HD" tvg-logo="http://guide.overlordtv.tk/logos/347.png" group-title="UK SPORT",347 - SKY SPORTS NEWS HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14222.m3u8
+#EXTINF:-1 tvg-ID="SkySportsMix.uk" tvg-name="348 - SKY SPORTS MIX HD" tvg-logo="http://guide.overlordtv.tk/logos/348.png" group-title="UK SPORT",348 - SKY SPORTS MIX HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/16511.m3u8
+#EXTINF:-1 tvg-ID="SkySports1.uk" tvg-name="349 - SKY SPORTS 1" tvg-logo="http://guide.overlordtv.tk/logos/349.png" group-title="UK SPORT",349 - SKY SPORTS 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/14204.m3u8
+#EXTINF:-1 tvg-ID="SkySports2.uk" tvg-name="350 - SKY SPORTS 2" tvg-logo="http://guide.overlordtv.tk/logos/350.png" group-title="UK SPORT",350 - SKY SPORTS 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/14189.m3u8
+#EXTINF:-1 tvg-ID="SkySports3.uk" tvg-name="351 - SKY SPORTS 3" tvg-logo="http://guide.overlordtv.tk/logos/351.png" group-title="UK SPORT",351 - SKY SPORTS 3
+http://dreamlord.tk:5454/live/demonbaz666/021956/14177.m3u8
+#EXTINF:-1 tvg-ID="SkySports4.uk" tvg-name="352 - SKY SPORTS 4" tvg-logo="http://guide.overlordtv.tk/logos/352.png" group-title="UK SPORT",352 - SKY SPORTS 4
+http://dreamlord.tk:5454/live/demonbaz666/021956/14178.m3u8
+#EXTINF:-1 tvg-ID="SkySports5.uk" tvg-name="353 - SKY SPORTS 5" tvg-logo="http://guide.overlordtv.tk/logos/353.png" group-title="UK SPORT",353 - SKY SPORTS 5
+http://dreamlord.tk:5454/live/demonbaz666/021956/14176.m3u8
+#EXTINF:-1 tvg-ID="SkySportsF1.uk" tvg-name="354 - SKY SPORTS F1" tvg-logo="http://guide.overlordtv.tk/logos/354.png" group-title="UK SPORT",354 - SKY SPORTS F1
+http://dreamlord.tk:5454/live/demonbaz666/021956/14183.m3u8
+#EXTINF:-1 tvg-ID="SkySportsNews.uk" tvg-name="355 - SKY SPORTS NEWS" tvg-logo="http://guide.overlordtv.tk/logos/355.png" group-title="UK SPORT",355 - SKY SPORTS NEWS
+http://dreamlord.tk:5454/live/demonbaz666/021956/14055.m3u8
+#EXTINF:-1 tvg-ID="SkySportsMix.uk" tvg-name="356 - SKY SPORTS MIX" tvg-logo="http://guide.overlordtv.tk/logos/356.png" group-title="UK SPORT",356 - SKY SPORTS MIX
+http://dreamlord.tk:5454/live/demonbaz666/021956/14088.m3u8
+#EXTINF:-1 tvg-ID="EirSport1.ie" tvg-name="357 - EIR SPORT 1" tvg-logo="http://guide.overlordtv.tk/logos/357.png" group-title="UK SPORT",357 - EIR SPORT 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/14191.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="358 - EIR SPORT 2" tvg-logo="http://guide.overlordtv.tk/logos/358.png" group-title="UK SPORT",358 - EIR SPORT 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/14188.m3u8
+#EXTINF:-1 tvg-ID="Eurosport1.uk" tvg-name="359 - EUROSPORT 1 HD" tvg-logo="http://guide.overlordtv.tk/logos/359.png" group-title="UK SPORT",359 - EUROSPORT 1 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14962.m3u8
+#EXTINF:-1 tvg-ID="Eurosport2.uk" tvg-name="360 - EUROSPORT 2 HD" tvg-logo="http://guide.overlordtv.tk/logos/360.png" group-title="UK SPORT",360 - EUROSPORT 2 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14963.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="361 - Unallocated" tvg-logo="http://guide.overlordtv.tk/logos/xxx.png" group-title="UK SPORT",361 - Unallocated
+http://dreamlord.tk:5454/live/demonbaz666/021956/15651.m3u8
+#EXTINF:-1 tvg-ID="PremierSports.uk" tvg-name="362 - PREMIER SPORTS HD" tvg-logo="http://guide.overlordtv.tk/logos/362.png" group-title="UK SPORT",362 - PREMIER SPORTS HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14165.m3u8
+#EXTINF:-1 tvg-ID="PremierSports.uk" tvg-name="363 - PREMIER SPORTS" tvg-logo="http://guide.overlordtv.tk/logos/363.png" group-title="UK SPORT",363 - PREMIER SPORTS
+http://dreamlord.tk:5454/live/demonbaz666/021956/14971.m3u8
+#EXTINF:-1 tvg-ID="ChelseaTV.uk" tvg-name="364 - CHELSEA TV" tvg-logo="http://guide.overlordtv.tk/logos/364.png" group-title="UK SPORT",364 - CHELSEA TV
+http://dreamlord.tk:5454/live/demonbaz666/021956/14970.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="365 - ITV BOX OFFICE HD" tvg-logo="http://guide.overlordtv.tk/logos/xxx.png" group-title="UK SPORT",365 - ITV BOX OFFICE HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14105.m3u8
+#EXTINF:-1 tvg-ID="LiverpoolFCTV.uk" tvg-name="366 - LFCTV" tvg-logo="http://guide.overlordtv.tk/logos/365.png" group-title="UK SPORT",366 - LFCTV
+http://dreamlord.tk:5454/live/demonbaz666/021956/14166.m3u8
+#EXTINF:-1 tvg-ID="MUTV.uk" tvg-name="367 - MUTV" tvg-logo="http://guide.overlordtv.tk/logos/367.png" group-title="UK SPORT",367 - MUTV
+http://dreamlord.tk:5454/live/demonbaz666/021956/14134.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="368 - CELTIC TV (LIVE MATCHES ONLY)" tvg-logo="http://guide.overlordtv.tk/logos/368.png" group-title="UK SPORT",368 - CELTIC TV (LIVE MATCHES ONLY)
+http://dreamlord.tk:5454/live/demonbaz666/021956/14195.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="369 - RANGERS TV (MATCHES ONLY)" tvg-logo="http://guide.overlordtv.tk/logos/369.png" group-title="UK SPORT",369 - RANGERS TV (MATCHES ONLY)
+http://dreamlord.tk:5454/live/demonbaz666/021956/14196.m3u8
+#EXTINF:-1 tvg-ID="BoxNation.uk" tvg-name="370 - BOXNATION" tvg-logo="http://guide.overlordtv.tk/logos/533.png" group-title="UK SPORT",370 - BOXNATION
+http://dreamlord.tk:5454/live/demonbaz666/021956/15581.m3u8
+#EXTINF:-1 tvg-ID="AtTheRaces.uk" tvg-name="371 - AT THE RACES" tvg-logo="http://guide.overlordtv.tk/logos/371.png" group-title="UK SPORT",371 - AT THE RACES
+http://dreamlord.tk:5454/live/demonbaz666/021956/14113.m3u8
+#EXTINF:-1 tvg-ID="RacingUK.uk" tvg-name="372 - RACING UK" tvg-logo="http://guide.overlordtv.tk/logos/372.png" group-title="UK SPORT",372 - RACING UK
+http://dreamlord.tk:5454/live/demonbaz666/021956/14190.m3u8
+#EXTINF:-1 tvg-ID="401 - ARENA SPORT 1 (CRO)" tvg-name="401 - ARENA SPORT 1 (CRO)" tvg-logo="http://guide.overlordtv.tk/logos/401.png" group-title="INTERNATIONAL SPORT",401 - ARENA SPORT 1 (CRO)
+http://dreamlord.tk:5454/live/demonbaz666/021956/14056.m3u8
+#EXTINF:-1 tvg-ID="402 - ARENA SPORT 2 (CRO)" tvg-name="402 - ARENA SPORT 2 (CRO)" tvg-logo="http://guide.overlordtv.tk/logos/402.png" group-title="INTERNATIONAL SPORT",402 - ARENA SPORT 2 (CRO)
+http://dreamlord.tk:5454/live/demonbaz666/021956/14267.m3u8
+#EXTINF:-1 tvg-ID="403 - ARENA SPORT 3 (CRO)" tvg-name="403 - ARENA SPORT 3 (CRO)" tvg-logo="http://guide.overlordtv.tk/logos/403.png" group-title="INTERNATIONAL SPORT",403 - ARENA SPORT 3 (CRO)
+http://dreamlord.tk:5454/live/demonbaz666/021956/14260.m3u8
+#EXTINF:-1 tvg-ID="404 - ARENA SPORT 4 (CRO)" tvg-name="404 - ARENA SPORT 4 (CRO)" tvg-logo="http://guide.overlordtv.tk/logos/404.png" group-title="INTERNATIONAL SPORT",404 - ARENA SPORT 4 (CRO)
+http://dreamlord.tk:5454/live/demonbaz666/021956/14268.m3u8
+#EXTINF:-1 tvg-ID="AstroSuperSport.my" tvg-name="405 - ASTRO SUPERSPORT 1 HD" tvg-logo="http://guide.overlordtv.tk/logos/405.png" group-title="INTERNATIONAL SPORT",405 - ASTRO SUPERSPORT 1 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14271.m3u8
+#EXTINF:-1 tvg-ID="AstroSuperSport2.my" tvg-name="406 - ASTRO SUPERSPORT 2 HD" tvg-logo="http://guide.overlordtv.tk/logos/406.png" group-title="INTERNATIONAL SPORT",406 - ASTRO SUPERSPORT 2 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14272.m3u8
+#EXTINF:-1 tvg-ID="AstroSuperSport3.my" tvg-name="407 - ASTRO SUPERSPORT 3 HD" tvg-logo="http://guide.overlordtv.tk/logos/407.png" group-title="INTERNATIONAL SPORT",407 - ASTRO SUPERSPORT 3 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14276.m3u8
+#EXTINF:-1 tvg-ID="AstroSuperSport4.my" tvg-name="408 - ASTRO SUPERSPORT 4 HD" tvg-logo="http://guide.overlordtv.tk/logos/408.png" group-title="INTERNATIONAL SPORT",408 - ASTRO SUPERSPORT 4 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14293.m3u8
+#EXTINF:-1 tvg-ID="409 - beIN HD 1" tvg-name="409 - beIN HD 1" tvg-logo="http://guide.overlordtv.tk/logos/409.png" group-title="INTERNATIONAL SPORT",409 - beIN HD 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/14277.m3u8
+#EXTINF:-1 tvg-ID="410 - beIN HD 2" tvg-name="410 - beIN HD 2" tvg-logo="http://guide.overlordtv.tk/logos/410.png" group-title="INTERNATIONAL SPORT",410 - beIN HD 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/14278.m3u8
+#EXTINF:-1 tvg-ID="411 - beIN HD 3" tvg-name="411 - beIN HD 3" tvg-logo="http://guide.overlordtv.tk/logos/411.png" group-title="INTERNATIONAL SPORT",411 - beIN HD 3
+http://dreamlord.tk:5454/live/demonbaz666/021956/14279.m3u8
+#EXTINF:-1 tvg-ID="412 - beIN HD 4" tvg-name="412 - beIN HD 4" tvg-logo="http://guide.overlordtv.tk/logos/412.png" group-title="INTERNATIONAL SPORT",412 - beIN HD 4
+http://dreamlord.tk:5454/live/demonbaz666/021956/14280.m3u8
+#EXTINF:-1 tvg-ID="413 - beIN HD 5" tvg-name="413 - beIN HD 5" tvg-logo="http://guide.overlordtv.tk/logos/413.png" group-title="INTERNATIONAL SPORT",413 - beIN HD 5
+http://dreamlord.tk:5454/live/demonbaz666/021956/14261.m3u8
+#EXTINF:-1 tvg-ID="414 - beIN HD 6" tvg-name="414 - beIN HD 6" tvg-logo="http://guide.overlordtv.tk/logos/414.png" group-title="INTERNATIONAL SPORT",414 - beIN HD 6
+http://dreamlord.tk:5454/live/demonbaz666/021956/14281.m3u8
+#EXTINF:-1 tvg-ID="415 - beIN HD 7" tvg-name="415 - beIN HD 7" tvg-logo="http://guide.overlordtv.tk/logos/415.png" group-title="INTERNATIONAL SPORT",415 - beIN HD 7
+http://dreamlord.tk:5454/live/demonbaz666/021956/14273.m3u8
+#EXTINF:-1 tvg-ID="416 - beIN HD 8" tvg-name="416 - beIN HD 8" tvg-logo="http://guide.overlordtv.tk/logos/416.png" group-title="INTERNATIONAL SPORT",416 - beIN HD 8
+http://dreamlord.tk:5454/live/demonbaz666/021956/14282.m3u8
+#EXTINF:-1 tvg-ID="417 - beIN HD 9" tvg-name="417 - beIN HD 9" tvg-logo="http://guide.overlordtv.tk/logos/417.png" group-title="INTERNATIONAL SPORT",417 - beIN HD 9
+http://dreamlord.tk:5454/live/demonbaz666/021956/14283.m3u8
+#EXTINF:-1 tvg-ID="418 - beIN HD 10" tvg-name="418 - beIN HD 10" tvg-logo="http://guide.overlordtv.tk/logos/418.png" group-title="INTERNATIONAL SPORT",418 - beIN HD 10
+http://dreamlord.tk:5454/live/demonbaz666/021956/14284.m3u8
+#EXTINF:-1 tvg-ID="419 - beIN HD 11" tvg-name="419 - beIN HD 11" tvg-logo="http://guide.overlordtv.tk/logos/419.png" group-title="INTERNATIONAL SPORT",419 - beIN HD 11
+http://dreamlord.tk:5454/live/demonbaz666/021956/14263.m3u8
+#EXTINF:-1 tvg-ID="420 - beIN HD 12" tvg-name="420 - beIN HD 12" tvg-logo="http://guide.overlordtv.tk/logos/420.png" group-title="INTERNATIONAL SPORT",420 - beIN HD 12
+http://dreamlord.tk:5454/live/demonbaz666/021956/14285.m3u8
+#EXTINF:-1 tvg-ID="421DIGI SPORT 1" tvg-name="421 - DIGI SPORT 1" tvg-logo="" group-title="INTERNATIONAL SPORT",421 - DIGI SPORT 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/16878.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="422 - DIGI SPORT 2" tvg-logo="" group-title="INTERNATIONAL SPORT",422 - DIGI SPORT 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/16877.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="423 - DIGI SPORT 3" tvg-logo="" group-title="INTERNATIONAL SPORT",423 - DIGI SPORT 3
+http://dreamlord.tk:5454/live/demonbaz666/021956/16876.m3u8
+#EXTINF:-1 tvg-ID="424 - ELEVEN HD" tvg-name="424 - ELEVEN" tvg-logo="http://guide.overlordtv.tk/logos/424.png" group-title="INTERNATIONAL SPORT",424 - ELEVEN
+http://dreamlord.tk:5454/live/demonbaz666/021956/15628.m3u8
+#EXTINF:-1 tvg-ID="425 - ELEVEN SPORTS HD" tvg-name="425 - ELEVEN SPORTS" tvg-logo="http://guide.overlordtv.tk/logos/425.png" group-title="INTERNATIONAL SPORT",425 - ELEVEN SPORTS
+http://dreamlord.tk:5454/live/demonbaz666/021956/14247.m3u8
+#EXTINF:-1 tvg-ID="426 - FOX SPORTS 1 (NL) HD" tvg-name="426 - FOX SPORTS 1 (NL) HD" tvg-logo="http://guide.overlordtv.tk/logos/426.png" group-title="INTERNATIONAL SPORT",426 - FOX SPORTS 1 (NL) HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14290.m3u8
+#EXTINF:-1 tvg-ID="427 - FOX SPORTS 2 (NL) HD" tvg-name="427 - FOX SPORTS 2 (NL) HD" tvg-logo="http://guide.overlordtv.tk/logos/427.png" group-title="INTERNATIONAL SPORT",427 - FOX SPORTS 2 (NL) HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14250.m3u8
+#EXTINF:-1 tvg-ID="428 - FOX SPORTS 3 (NL) HD" tvg-name="428 - FOX SPORTS 3 (NL) HD" tvg-logo="http://guide.overlordtv.tk/logos/428.png" group-title="INTERNATIONAL SPORT",428 - FOX SPORTS 3 (NL) HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14253.m3u8
+#EXTINF:-1 tvg-ID="429 - FOX SPORTS 4 (NL) HD" tvg-name="429 - FOX SPORTS 4 (NL) HD" tvg-logo="http://guide.overlordtv.tk/logos/429.png" group-title="INTERNATIONAL SPORT",429 - FOX SPORTS 4 (NL) HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14291.m3u8
+#EXTINF:-1 tvg-ID="430 - FOX SPORTS 5 (NL) HD" tvg-name="430 - FOX SPORTS 5 (NL) HD" tvg-logo="http://guide.overlordtv.tk/logos/430.png" group-title="INTERNATIONAL SPORT",430 - FOX SPORTS 5 (NL) HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14257.m3u8
+#EXTINF:-1 tvg-ID="431 - K PM-HD" tvg-name="431 - K PM-HD" tvg-logo="" group-title="INTERNATIONAL SPORT",431 - K PM-HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/16875.m3u8
+#EXTINF:-1 tvg-ID="432 - K PC-HD" tvg-name="432 - K PC-HD" tvg-logo="" group-title="INTERNATIONAL SPORT",432 - K PC-HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/16874.m3u8
+#EXTINF:-1 tvg-ID="433 - K NS-HD" tvg-name="433 - K NS-HD" tvg-logo="" group-title="INTERNATIONAL SPORT",433 - K NS-HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/16873.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="434 - K 1HD" tvg-logo="" group-title="INTERNATIONAL SPORT",434 - K 1HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/16872.m3u8
+#EXTINF:-1 tvg-ID="435 - LigTV 1" tvg-name="435 - LigTV 1" tvg-logo="" group-title="INTERNATIONAL SPORT",435 - LigTV 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/16871.m3u8
+#EXTINF:-1 tvg-ID="436 - LigTV 2" tvg-name="436 - LigTV 2" tvg-logo="" group-title="INTERNATIONAL SPORT",436 - LigTV 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/16870.m3u8
+#EXTINF:-1 tvg-ID="437 - LigTV 3" tvg-name="437 - LigTV 3" tvg-logo="" group-title="INTERNATIONAL SPORT",437 - LigTV 3
+http://dreamlord.tk:5454/live/demonbaz666/021956/16869.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="438 - BIKE CHANNEL(offline)" tvg-logo="" group-title="INTERNATIONAL SPORT",438 - BIKE CHANNEL(offline)
+http://dreamlord.tk:5454/live/demonbaz666/021956/16868.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="439 - Unallocated" tvg-logo="" group-title="INTERNATIONAL SPORT",439 - Unallocated
+http://dreamlord.tk:5454/live/demonbaz666/021956/14248.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="440 - Unallocated" tvg-logo="" group-title="INTERNATIONAL SPORT",440 - Unallocated
+http://dreamlord.tk:5454/live/demonbaz666/021956/14249.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="441 - Unallocated" tvg-logo="" group-title="INTERNATIONAL SPORT",441 - Unallocated
+http://dreamlord.tk:5454/live/demonbaz666/021956/14060.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="442 - Unallocated" tvg-logo="" group-title="INTERNATIONAL SPORT",442 - Unallocated
+http://dreamlord.tk:5454/live/demonbaz666/021956/14050.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="443 - Unallocated" tvg-logo="" group-title="INTERNATIONAL SPORT",443 - Unallocated
+http://dreamlord.tk:5454/live/demonbaz666/021956/14051.m3u8
+#EXTINF:-1 tvg-ID="444 - OSN Sports 1" tvg-name="444 - OSN SPORT 1" tvg-logo="" group-title="INTERNATIONAL SPORT",444 - OSN SPORT 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/16867.m3u8
+#EXTINF:-1 tvg-ID="445 - OSN Sports 2" tvg-name="445 - OSN SPORT 2" tvg-logo="" group-title="INTERNATIONAL SPORT",445 - OSN SPORT 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/16866.m3u8
+#EXTINF:-1 tvg-ID="446 - OSN Sports 3" tvg-name="446 - OSN SPORT 3" tvg-logo="" group-title="INTERNATIONAL SPORT",446 - OSN SPORT 3
+http://dreamlord.tk:5454/live/demonbaz666/021956/16865.m3u8
+#EXTINF:-1 tvg-ID="447 - OSN Sports 4" tvg-name="447 - OSN SPORT 4" tvg-logo="" group-title="INTERNATIONAL SPORT",447 - OSN SPORT 4
+http://dreamlord.tk:5454/live/demonbaz666/021956/16864.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="448 - Unallocated" tvg-logo="http://guide.overlordtv.tk/logos/xxx.png" group-title="INTERNATIONAL SPORT",448 - Unallocated
+http://dreamlord.tk:5454/live/demonbaz666/021956/15106.m3u8
+#EXTINF:-1 tvg-ID="449 - SKYNET SPORTS 1 SD" tvg-name="449 - SKYNET SPORTS 1 SD" tvg-logo="http://guide.overlordtv.tk/logos/449.png" group-title="INTERNATIONAL SPORT",449 - SKYNET SPORTS 1 SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/15104.m3u8
+#EXTINF:-1 tvg-ID="450 - SKYNET SPORTS 2 SD" tvg-name="450 - SKYNET SPORTS 2 SD" tvg-logo="http://guide.overlordtv.tk/logos/450.png" group-title="INTERNATIONAL SPORT",450 - SKYNET SPORTS 2 SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/15103.m3u8
+#EXTINF:-1 tvg-ID="451 - SKYNET SPORTS 3 SD" tvg-name="451 - SKYNET SPORTS 3 SD" tvg-logo="http://guide.overlordtv.tk/logos/451.png" group-title="INTERNATIONAL SPORT",451 - SKYNET SPORTS 3 SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/15102.m3u8
+#EXTINF:-1 tvg-ID="452 - SKYNET SPORTS 4 SD" tvg-name="452 - SKYNET SPORTS 4 SD" tvg-logo="http://guide.overlordtv.tk/logos/452.png" group-title="INTERNATIONAL SPORT",452 - SKYNET SPORTS 4 SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/15101.m3u8
+#EXTINF:-1 tvg-ID="453 - SKYNET SPORTS 5 SD" tvg-name="453 - SKYNET SPORTS 5 SD" tvg-logo="http://guide.overlordtv.tk/logos/453.png" group-title="INTERNATIONAL SPORT",453 - SKYNET SPORTS 5 SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/15100.m3u8
+#EXTINF:-1 tvg-ID="454 - SKYNET SPORTS 6 SD" tvg-name="454 - SKYNET SPORTS 6 SD" tvg-logo="http://guide.overlordtv.tk/logos/454.png" group-title="INTERNATIONAL SPORT",454 - SKYNET SPORTS 6 SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/15099.m3u8
+#EXTINF:-1 tvg-ID="455 - SPORT KLUB HD 1 (CRO)" tvg-name="455 - SPORT KLUB HD 1 (CRO)" tvg-logo="http://guide.overlordtv.tk/logos/455.png" group-title="INTERNATIONAL SPORT",455 - SPORT KLUB HD 1 (CRO)
+http://dreamlord.tk:5454/live/demonbaz666/021956/14265.m3u8
+#EXTINF:-1 tvg-ID="456 - SPORT KLUB HD 2 (CRO)" tvg-name="456 - SPORT KLUB HD 2 (CRO)" tvg-logo="http://guide.overlordtv.tk/logos/456.png" group-title="INTERNATIONAL SPORT",456 - SPORT KLUB HD 2 (CRO)
+http://dreamlord.tk:5454/live/demonbaz666/021956/14259.m3u8
+#EXTINF:-1 tvg-ID="457 - SPORT KLUB HD 3 (CRO)" tvg-name="457 - SPORT KLUB HD 3 (CRO)" tvg-logo="http://guide.overlordtv.tk/logos/457.png" group-title="INTERNATIONAL SPORT",457 - SPORT KLUB HD 3 (CRO)
+http://dreamlord.tk:5454/live/demonbaz666/021956/14266.m3u8
+#EXTINF:-1 tvg-ID="458 - STAR SPORTS 1" tvg-name="458 - STAR SPORTS 1" tvg-logo="" group-title="INTERNATIONAL SPORT",458 - STAR SPORTS 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/16863.m3u8
+#EXTINF:-1 tvg-ID="459 - STAR SPORTS 2" tvg-name="459 - STAR SPORTS 2" tvg-logo="" group-title="INTERNATIONAL SPORT",459 - STAR SPORTS 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/16862.m3u8
+#EXTINF:-1 tvg-ID="460 - STAR SPORTS 3" tvg-name="460 - STAR SPORTS 3" tvg-logo="" group-title="INTERNATIONAL SPORT",460 - STAR SPORTS 3
+http://dreamlord.tk:5454/live/demonbaz666/021956/16861.m3u8
+#EXTINF:-1 tvg-ID="461 - STAR SPORTS 4" tvg-name="461 - STAR SPORTS 4" tvg-logo="" group-title="INTERNATIONAL SPORT",461 - STAR SPORTS 4
+http://dreamlord.tk:5454/live/demonbaz666/021956/16860.m3u8
+#EXTINF:-1 tvg-ID="462 - SUPER SPORT 1 HD" tvg-name="462 - SUPER SPORT 1 HD" tvg-logo="http://guide.overlordtv.tk/logos/462.png" group-title="INTERNATIONAL SPORT",462 - SUPER SPORT 1 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/15040.m3u8
+#EXTINF:-1 tvg-ID="463 - SUPER SPORT 2 HD" tvg-name="463 - SUPER SPORT 2 HD" tvg-logo="http://guide.overlordtv.tk/logos/463.png" group-title="INTERNATIONAL SPORT",463 - SUPER SPORT 2 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/15043.m3u8
+#EXTINF:-1 tvg-ID="464 - SUPER SPORT 3 HD" tvg-name="464 - SUPER SPORT 3 HD" tvg-logo="http://guide.overlordtv.tk/logos/464.png" group-title="INTERNATIONAL SPORT",464 - SUPER SPORT 3 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/15042.m3u8
+#EXTINF:-1 tvg-ID="465 - SUPER SPORT 4 HD" tvg-name="465 - SUPER SPORT 4 HD" tvg-logo="http://guide.overlordtv.tk/logos/465.png" group-title="INTERNATIONAL SPORT",465 - SUPER SPORT 4 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/15041.m3u8
+#EXTINF:-1 tvg-ID="466 - ZIGGO SPORT EXTRA 1" tvg-name="466 - ZIGGO SPORT EXTRA 1" tvg-logo="" group-title="INTERNATIONAL SPORT",466 - ZIGGO SPORT EXTRA 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/16859.m3u8
+#EXTINF:-1 tvg-ID="467 - ZIGGO SPORT EXTRA 2" tvg-name="467 - ZIGGO SPORT EXTRA 2" tvg-logo="" group-title="INTERNATIONAL SPORT",467 - ZIGGO SPORT EXTRA 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/16858.m3u8
+#EXTINF:-1 tvg-ID="468 - ZIGGO SPORT VOETBALL" tvg-name="468 - ZIGGO SPORT VOETBALL" tvg-logo="" group-title="INTERNATIONAL SPORT",468 - ZIGGO SPORT VOETBALL
+http://dreamlord.tk:5454/live/demonbaz666/021956/16857.m3u8
+#EXTINF:-1 tvg-ID="AETV.us" tvg-name="501 - A&E HD" tvg-logo="" group-title="US TV",501 - A&E HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17675.m3u8
+#EXTINF:-1 tvg-ID="AETV.us" tvg-name="502 - A&E" tvg-logo="" group-title="US TV",502 - A&E
+http://dreamlord.tk:5454/live/demonbaz666/021956/17674.m3u8
+#EXTINF:-1 tvg-ID="ABC.us" tvg-name="503 - ABC HD" tvg-logo="" group-title="US TV",503 - ABC HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17673.m3u8
+#EXTINF:-1 tvg-ID="ABC.us" tvg-name="504 - ABC" tvg-logo="" group-title="US TV",504 - ABC
+http://dreamlord.tk:5454/live/demonbaz666/021956/17672.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="505 - AFN MOVIE" tvg-logo="" group-title="US TV",505 - AFN MOVIE
+http://dreamlord.tk:5454/live/demonbaz666/021956/17671.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="506 - AFN NEWS" tvg-logo="" group-title="NEWS",506 - AFN NEWS
+http://dreamlord.tk:5454/live/demonbaz666/021956/17670.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="507 - AFN PRIME ATLANTA" tvg-logo="" group-title="US TV",507 - AFN PRIME ATLANTA
+http://dreamlord.tk:5454/live/demonbaz666/021956/17669.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="508 - AFN PRIME ATLANTIC" tvg-logo="" group-title="US TV",508 - AFN PRIME ATLANTIC
+http://dreamlord.tk:5454/live/demonbaz666/021956/17668.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="509 - AFN PRIME PACIFIC" tvg-logo="" group-title="US TV",509 - AFN PRIME PACIFIC
+http://dreamlord.tk:5454/live/demonbaz666/021956/17667.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="510 - AFN PULSE" tvg-logo="" group-title="US TV",510 - AFN PULSE
+http://dreamlord.tk:5454/live/demonbaz666/021956/17666.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="511 - AFN SPECTRUM" tvg-logo="" group-title="US TV",511 - AFN SPECTRUM
+http://dreamlord.tk:5454/live/demonbaz666/021956/17665.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="512 - AFN SPORTS" tvg-logo="" group-title="US SPORT",512 - AFN SPORTS
+http://dreamlord.tk:5454/live/demonbaz666/021956/17664.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="513 - AFN SPORTS 2" tvg-logo="" group-title="US SPORT",513 - AFN SPORTS 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/17663.m3u8
+#EXTINF:-1 tvg-ID="AMC.us" tvg-name="514 - AMC HD" tvg-logo="" group-title="US TV",514 - AMC HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17662.m3u8
+#EXTINF:-1 tvg-ID="AMC.us" tvg-name="515 - AMC" tvg-logo="" group-title="US TV",515 - AMC
+http://dreamlord.tk:5454/live/demonbaz666/021956/17661.m3u8
+#EXTINF:-1 tvg-ID="AnimalPlanet.us" tvg-name="516 - ANIMAL PLANET HD" tvg-logo="" group-title="US TV",516 - ANIMAL PLANET HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17660.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="517 - ANTENNA" tvg-logo="" group-title="US TV",517 - ANTENNA
+http://dreamlord.tk:5454/live/demonbaz666/021956/17659.m3u8
+#EXTINF:-1 tvg-ID="Bravo.us" tvg-name="518 - BRAVO HD" tvg-logo="" group-title="US TV",518 - BRAVO HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17658.m3u8
+#EXTINF:-1 tvg-ID="Bravo.us" tvg-name="519 - BRAVO" tvg-logo="" group-title="US TV",519 - BRAVO
+http://dreamlord.tk:5454/live/demonbaz666/021956/17657.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="520 - BUZZER" tvg-logo="" group-title="US TV",520 - BUZZER
+http://dreamlord.tk:5454/live/demonbaz666/021956/17656.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="521 - CARTOON NETWORK" tvg-logo="" group-title="US TV",521 - CARTOON NETWORK
+http://dreamlord.tk:5454/live/demonbaz666/021956/17655.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="522 - CBS HD" tvg-logo="" group-title="US TV",522 - CBS HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17654.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="523 - CBS" tvg-logo="" group-title="US TV",523 - CBS
+http://dreamlord.tk:5454/live/demonbaz666/021956/17653.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="524 - CBS ACTION" tvg-logo="" group-title="US TV",524 - CBS ACTION
+http://dreamlord.tk:5454/live/demonbaz666/021956/17652.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="525 - CBS DRAMA" tvg-logo="" group-title="US TV",525 - CBS DRAMA
+http://dreamlord.tk:5454/live/demonbaz666/021956/17651.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="526 - CBS REALITY" tvg-logo="" group-title="US TV",526 - CBS REALITY
+http://dreamlord.tk:5454/live/demonbaz666/021956/17650.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="527 - CBS SPORTS" tvg-logo="" group-title="US SPORT",527 - CBS SPORTS
+http://dreamlord.tk:5454/live/demonbaz666/021956/17649.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="528 - CI HD" tvg-logo="" group-title="US TV",528 - CI HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17648.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="529 - CINEMAX HD" tvg-logo="" group-title="US TV",529 - CINEMAX HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17647.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="530 - CINEMAX MOREMAX HD" tvg-logo="" group-title="US TV",530 - CINEMAX MOREMAX HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17646.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="531 - CINEMAX THRILLERMAX HD" tvg-logo="" group-title="US TV",531 - CINEMAX THRILLERMAX HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17645.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="532 - CNBC-US (NBC AT 3PM)" tvg-logo="" group-title="US TV",532 - CNBC-US (NBC AT 3PM)
+http://dreamlord.tk:5454/live/demonbaz666/021956/17644.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="533 - CNN HD" tvg-logo="" group-title="US TV",533 - CNN HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17643.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="534 - COMEDY CENTRAL" tvg-logo="" group-title="US TV",534 - COMEDY CENTRAL
+http://dreamlord.tk:5454/live/demonbaz666/021956/17642.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="535 - COZI" tvg-logo="" group-title="US TV",535 - COZI
+http://dreamlord.tk:5454/live/demonbaz666/021956/17641.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="536 - CPAC" tvg-logo="" group-title="US TV",536 - CPAC
+http://dreamlord.tk:5454/live/demonbaz666/021956/17640.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="537 - USA CP24" tvg-logo="" group-title="US TV",537 - USA CP24
+http://dreamlord.tk:5454/live/demonbaz666/021956/17639.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="538 - CW HD" tvg-logo="" group-title="US TV",538 - CW HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17638.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="539 - CW" tvg-logo="" group-title="US TV",539 - CW
+http://dreamlord.tk:5454/live/demonbaz666/021956/17637.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="540 - DISCOVERY HD" tvg-logo="" group-title="US TV",540 - DISCOVERY HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17636.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="541 - USA DISCOVERY" tvg-logo="" group-title="US TV",541 - USA DISCOVERY
+http://dreamlord.tk:5454/live/demonbaz666/021956/17635.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="542 - DISCOVERY SCIENCE" tvg-logo="" group-title="US TV",542 - DISCOVERY SCIENCE
+http://dreamlord.tk:5454/live/demonbaz666/021956/17634.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="543 - DIY NETWORK HD" tvg-logo="" group-title="US TV",543 - DIY NETWORK HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17633.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="544 - USA DIY NETWORK" tvg-logo="" group-title="US TV",544 - USA DIY NETWORK
+http://dreamlord.tk:5454/live/demonbaz666/021956/17632.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="545 - E!" tvg-logo="" group-title="US TV",545 - E!
+http://dreamlord.tk:5454/live/demonbaz666/021956/17631.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="546 - ESPN" tvg-logo="" group-title="US SPORT",546 - ESPN
+http://dreamlord.tk:5454/live/demonbaz666/021956/17630.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="547 - ESPN 2" tvg-logo="" group-title="US SPORT",547 - ESPN 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/17629.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="548 - ESPN NEWS" tvg-logo="" group-title="NEWS",548 - ESPN NEWS
+http://dreamlord.tk:5454/live/demonbaz666/021956/17628.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="549 - FIGHT NETWORK" tvg-logo="" group-title="US SPORT",549 - FIGHT NETWORK
+http://dreamlord.tk:5454/live/demonbaz666/021956/17627.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="550 - FOOD NETWORK HD" tvg-logo="" group-title="US TV",550 - FOOD NETWORK HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17626.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="551 - FOX" tvg-logo="" group-title="US TV",551 - FOX
+http://dreamlord.tk:5454/live/demonbaz666/021956/17625.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="552 - FOX NEWS HD" tvg-logo="" group-title="NEWS",552 - FOX NEWS HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17624.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="553 - USA FOX NEWS" tvg-logo="" group-title="NEWS",553 - USA FOX NEWS
+http://dreamlord.tk:5454/live/demonbaz666/021956/17623.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="554 - FOX SPORTS 1 HD" tvg-logo="" group-title="US SPORT",554 - FOX SPORTS 1 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17622.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="555 - FOX SPORTS 2 HD" tvg-logo="" group-title="US SPORT",555 - FOX SPORTS 2 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17621.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="556 - FOX 5 HD" tvg-logo="" group-title="US TV",556 - FOX 5 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17620.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="557 - FOX 11" tvg-logo="" group-title="US TV",557 - FOX 11
+http://dreamlord.tk:5454/live/demonbaz666/021956/17619.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="558 - FREEFORM HD" tvg-logo="" group-title="US TV",558 - FREEFORM HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17618.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="559 - FX HD" tvg-logo="" group-title="US TV",559 - FX HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17617.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="560 - USA FX" tvg-logo="" group-title="US TV",560 - USA FX
+http://dreamlord.tk:5454/live/demonbaz666/021956/17616.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="561 - FXX" tvg-logo="" group-title="US TV",561 - FXX
+http://dreamlord.tk:5454/live/demonbaz666/021956/17615.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="562 - GETTV" tvg-logo="" group-title="US TV",562 - GETTV
+http://dreamlord.tk:5454/live/demonbaz666/021956/17614.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="563 - GOLF HD" tvg-logo="" group-title="US SPORT",563 - GOLF HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17613.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="564 - GRIT" tvg-logo="" group-title="US TV",564 - GRIT
+http://dreamlord.tk:5454/live/demonbaz666/021956/17612.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="565 - H2" tvg-logo="" group-title="US TV",565 - H2
+http://dreamlord.tk:5454/live/demonbaz666/021956/17611.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="566 - H&I" tvg-logo="" group-title="US TV",566 - H&I
+http://dreamlord.tk:5454/live/demonbaz666/021956/17610.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="567 - HALLMARK HD" tvg-logo="" group-title="US TV",567 - HALLMARK HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17609.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="568 - HALLMARK" tvg-logo="" group-title="US TV",568 - HALLMARK
+http://dreamlord.tk:5454/live/demonbaz666/021956/17608.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="569 - HBO" tvg-logo="" group-title="US TV",569 - HBO
+http://dreamlord.tk:5454/live/demonbaz666/021956/17607.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="570 - HBO COMEDY (NBC AT 3PM)" tvg-logo="" group-title="US TV",570 - HBO COMEDY (NBC AT 3PM)
+http://dreamlord.tk:5454/live/demonbaz666/021956/17606.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="571 - HBO HD 1" tvg-logo="" group-title="US TV",571 - HBO HD 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/17605.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="572 - HBO HD 2" tvg-logo="" group-title="US TV",572 - HBO HD 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/17604.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="573 - HBO SIGNATURE" tvg-logo="" group-title="US TV",573 - HBO SIGNATURE
+http://dreamlord.tk:5454/live/demonbaz666/021956/17603.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="574 - HBO FAMILY" tvg-logo="" group-title="US TV",574 - HBO FAMILY
+http://dreamlord.tk:5454/live/demonbaz666/021956/17602.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="575 - HBO ZONE" tvg-logo="" group-title="US TV",575 - HBO ZONE
+http://dreamlord.tk:5454/live/demonbaz666/021956/17601.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="576 - HGTV" tvg-logo="" group-title="US TV",576 - HGTV
+http://dreamlord.tk:5454/live/demonbaz666/021956/17600.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="577 - HISTORY" tvg-logo="" group-title="US TV",577 - HISTORY
+http://dreamlord.tk:5454/live/demonbaz666/021956/17599.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="578 - INVESTIGATION DISCOVERY HD" tvg-logo="" group-title="US TV",578 - INVESTIGATION DISCOVERY HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17598.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="579 - INVESTIGATION DISCOVERY" tvg-logo="" group-title="US TV",579 - INVESTIGATION DISCOVERY
+http://dreamlord.tk:5454/live/demonbaz666/021956/17597.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="580 - ION" tvg-logo="" group-title="US TV",580 - ION
+http://dreamlord.tk:5454/live/demonbaz666/021956/17596.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="581 - IONLIFE" tvg-logo="" group-title="US TV",581 - IONLIFE
+http://dreamlord.tk:5454/live/demonbaz666/021956/17595.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="582 - KTLA5" tvg-logo="" group-title="US TV",582 - KTLA5
+http://dreamlord.tk:5454/live/demonbaz666/021956/17594.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="583 - LIFETIME" tvg-logo="" group-title="US TV",583 - LIFETIME
+http://dreamlord.tk:5454/live/demonbaz666/021956/17593.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="584 - MLB NETWORK" tvg-logo="" group-title="US SPORT",584 - MLB NETWORK
+http://dreamlord.tk:5454/live/demonbaz666/021956/17592.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="585 - MOVIE CHANNEL" tvg-logo="" group-title="US TV",585 - MOVIE CHANNEL
+http://dreamlord.tk:5454/live/demonbaz666/021956/17591.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="586 - MOVIES!" tvg-logo="" group-title="US TV",586 - MOVIES!
+http://dreamlord.tk:5454/live/demonbaz666/021956/17590.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="587 - MY13" tvg-logo="" group-title="US TV",587 - MY13
+http://dreamlord.tk:5454/live/demonbaz666/021956/17589.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="588 - NATIONAL GEOGRAPHIC" tvg-logo="" group-title="US TV",588 - NATIONAL GEOGRAPHIC
+http://dreamlord.tk:5454/live/demonbaz666/021956/17588.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="589 - NASA TV HD" tvg-logo="" group-title="US TV",589 - NASA TV HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17587.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="590 - NBA HD" tvg-logo="" group-title="US SPORT",590 - NBA HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17586.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="591 - NBA" tvg-logo="" group-title="US SPORT",591 - NBA
+http://dreamlord.tk:5454/live/demonbaz666/021956/17585.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="592 - NBC" tvg-logo="" group-title="US TV",592 - NBC
+http://dreamlord.tk:5454/live/demonbaz666/021956/17584.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="593 - NBC GOLF" tvg-logo="" group-title="US SPORT",593 - NBC GOLF
+http://dreamlord.tk:5454/live/demonbaz666/021956/17583.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="594 - NBC SPORT" tvg-logo="" group-title="US SPORT",594 - NBC SPORT
+http://dreamlord.tk:5454/live/demonbaz666/021956/17582.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="595 - NBCSN HD" tvg-logo="" group-title="US SPORT",595 - NBCSN HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17581.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="596 - NBCSN F1" tvg-logo="" group-title="US SPORT",596 - NBCSN F1
+http://dreamlord.tk:5454/live/demonbaz666/021956/17580.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="597 - NFL NETWORK" tvg-logo="" group-title="US SPORT",597 - NFL NETWORK
+http://dreamlord.tk:5454/live/demonbaz666/021956/17579.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="598 - NFL NOW" tvg-logo="" group-title="US SPORT",598 - NFL NOW
+http://dreamlord.tk:5454/live/demonbaz666/021956/17578.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="599 - NHL NETWORK (NBC GOALRUSH AT 3PM)" tvg-logo="" group-title="US SPORT",599 - NHL NETWORK (NBC GOALRUSH AT 3PM)
+http://dreamlord.tk:5454/live/demonbaz666/021956/17577.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="600 - NICK" tvg-logo="" group-title="US TV",600 - NICK
+http://dreamlord.tk:5454/live/demonbaz666/021956/17576.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="601 - NICK JR" tvg-logo="" group-title="US TV",601 - NICK JR
+http://dreamlord.tk:5454/live/demonbaz666/021956/17575.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="602 - OMINI" tvg-logo="" group-title="US TV",602 - OMINI
+http://dreamlord.tk:5454/live/demonbaz666/021956/17574.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="603 - PAC ARIZONA" tvg-logo="" group-title="US SPORT",603 - PAC ARIZONA
+http://dreamlord.tk:5454/live/demonbaz666/021956/17573.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="604 - PAC BAY" tvg-logo="" group-title="US SPORT",604 - PAC BAY
+http://dreamlord.tk:5454/live/demonbaz666/021956/17572.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="605 - PAC LA" tvg-logo="" group-title="US SPORT",605 - PAC LA
+http://dreamlord.tk:5454/live/demonbaz666/021956/17571.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="606 - PAC MOUNTAIN" tvg-logo="" group-title="US SPORT",606 - PAC MOUNTAIN
+http://dreamlord.tk:5454/live/demonbaz666/021956/17570.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="607 - PAC ORAGIN" tvg-logo="" group-title="US SPORT",607 - PAC ORAGIN
+http://dreamlord.tk:5454/live/demonbaz666/021956/17569.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="608 - PAC 12 WASHINGTON HD" tvg-logo="" group-title="US SPORT",608 - PAC 12 WASHINGTON HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17568.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="609 - PBS HD" tvg-logo="" group-title="US TV",609 - PBS HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17567.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="610 - PBS" tvg-logo="" group-title="US TV",610 - PBS
+http://dreamlord.tk:5454/live/demonbaz666/021956/17566.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="611 - QUBO" tvg-logo="" group-title="US TV",611 - QUBO
+http://dreamlord.tk:5454/live/demonbaz666/021956/17565.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="612 - SHOWTIME" tvg-logo="" group-title="US TV",612 - SHOWTIME
+http://dreamlord.tk:5454/live/demonbaz666/021956/17564.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="613 - SHOWTIME 2 HD" tvg-logo="" group-title="US TV",613 - SHOWTIME 2 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17563.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="614 - SHOWTIME NEXT" tvg-logo="" group-title="US TV",614 - SHOWTIME NEXT
+http://dreamlord.tk:5454/live/demonbaz666/021956/17562.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="615 - SHOWTIME SHOWCASE" tvg-logo="" group-title="US TV",615 - SHOWTIME SHOWCASE
+http://dreamlord.tk:5454/live/demonbaz666/021956/17561.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="616 - SPIKE HD" tvg-logo="" group-title="US TV",616 - SPIKE HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17560.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="617 - SPIKE" tvg-logo="" group-title="US TV",617 - SPIKE
+http://dreamlord.tk:5454/live/demonbaz666/021956/17559.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="618 - SPORTS2" tvg-logo="" group-title="US SPORT",618 - SPORTS2
+http://dreamlord.tk:5454/live/demonbaz666/021956/17558.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="619 - SPORTS NET 360 HD" tvg-logo="" group-title="US SPORT",619 - SPORTS NET 360 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17557.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="620 - SPORTS NET ONE HD" tvg-logo="" group-title="US SPORT",620 - SPORTS NET ONE HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17556.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="621 - SPORTS NET ONTARIO HD" tvg-logo="" group-title="US SPORT",621 - SPORTS NET ONTARIO HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17555.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="622 - SPORTS NET WORLD HD" tvg-logo="" group-title="US SPORT",622 - SPORTS NET WORLD HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17554.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="623 - STARZ HD" tvg-logo="" group-title="US TV",623 - STARZ HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17553.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="624 - STARZ CINEMA HD" tvg-logo="" group-title="US TV",624 - STARZ CINEMA HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17552.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="625 - STARZ EAST" tvg-logo="" group-title="US TV",625 - STARZ EAST
+http://dreamlord.tk:5454/live/demonbaz666/021956/17551.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="626 - SYFY HD" tvg-logo="" group-title="US TV",626 - SYFY HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17550.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="627 - SYFY" tvg-logo="" group-title="US TV",627 - SYFY
+http://dreamlord.tk:5454/live/demonbaz666/021956/17549.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="628 - TBS" tvg-logo="" group-title="US TV",628 - TBS
+http://dreamlord.tk:5454/live/demonbaz666/021956/17548.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="629 - TENNIS CHANNEL HD" tvg-logo="" group-title="US SPORT",629 - TENNIS CHANNEL HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17547.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="630 - THISTV" tvg-logo="" group-title="US TV",630 - THISTV
+http://dreamlord.tk:5454/live/demonbaz666/021956/17546.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="631 - TLC HD" tvg-logo="" group-title="US TV",631 - TLC HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17545.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="632 - TNT HD" tvg-logo="" group-title="US TV",632 - TNT HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17544.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="633 - TRU TV HD" tvg-logo="" group-title="US TV",633 - TRU TV HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17543.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="634 - UNID" tvg-logo="" group-title="US TV",634 - UNID
+http://dreamlord.tk:5454/live/demonbaz666/021956/17542.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="635 - UNIVERSAL HD" tvg-logo="" group-title="US TV",635 - UNIVERSAL HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17541.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="636 - USA NETWORK HD" tvg-logo="" group-title="US TV",636 - USA NETWORK HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17540.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="637 - USA NETWORK" tvg-logo="" group-title="US TV",637 - USA NETWORK
+http://dreamlord.tk:5454/live/demonbaz666/021956/17539.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="638 - WILLOW CRICKET" tvg-logo="" group-title="US SPORT",638 - WILLOW CRICKET
+http://dreamlord.tk:5454/live/demonbaz666/021956/17538.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="639 - WWE NETWORK HD" tvg-logo="" group-title="US SPORT",639 - WWE NETWORK HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17537.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="701 - A & E SD" tvg-logo="" group-title="US TV",701 - A & E SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17536.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="702 - ABC EAST SD" tvg-logo="" group-title="US TV",702 - ABC EAST SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17535.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="703 - ABC SPARK SD" tvg-logo="" group-title="US TV",703 - ABC SPARK SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17534.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="704 - ABC WEST SD" tvg-logo="" group-title="US TV",704 - ABC WEST SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17533.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="705 - AMC SD" tvg-logo="" group-title="US TV",705 - AMC SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17532.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="706 - ANIMAL PLANET" tvg-logo="" group-title="US TV",706 - ANIMAL PLANET
+http://dreamlord.tk:5454/live/demonbaz666/021956/17531.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="707 - ASSEMBLY QUEBEC" tvg-logo="" group-title="US TV",707 - ASSEMBLY QUEBEC
+http://dreamlord.tk:5454/live/demonbaz666/021956/17530.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="708 - BBC WORLD NEWS SD" tvg-logo="" group-title="NEWS",708 - BBC WORLD NEWS SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17529.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="709 - BNN SD" tvg-logo="" group-title="US TV",709 - BNN SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17528.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="710 - BOOK TV SD" tvg-logo="" group-title="US TV",710 - BOOK TV SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17527.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="711 - CANAL D SD" tvg-logo="" group-title="US TV",711 - CANAL D SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17526.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="712 - CANAL SAVOIR" tvg-logo="" group-title="US TV",712 - CANAL SAVOIR
+http://dreamlord.tk:5454/live/demonbaz666/021956/17525.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="713 - CBC MONTREAL" tvg-logo="" group-title="US TV",713 - CBC MONTREAL
+http://dreamlord.tk:5454/live/demonbaz666/021956/17524.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="714 - CBC TORONTO SD" tvg-logo="" group-title="US TV",714 - CBC TORONTO SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17523.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="715 - CHCH SD" tvg-logo="" group-title="US TV",715 - CHCH SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17522.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="716 - CITY CALGARY SD" tvg-logo="" group-title="US TV",716 - CITY CALGARY SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17521.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="717 - CITY TORONTO SD" tvg-logo="" group-title="US TV",717 - CITY TORONTO SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17520.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="718 - CITY VANCOUVER SD" tvg-logo="" group-title="US TV",718 - CITY VANCOUVER SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17519.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="719 - CITY WINNIPEG SD" tvg-logo="" group-title="US TV",719 - CITY WINNIPEG SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17518.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="720 - CMT CANADA SD" tvg-logo="" group-title="US TV",720 - CMT CANADA SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17517.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="721 - CNN USA SD" tvg-logo="" group-title="NEWS",721 - CNN USA SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17516.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="722 - COMEDY GOLD SD" tvg-logo="" group-title="US TV",722 - COMEDY GOLD SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17515.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="723 - COMEDY WEST SD" tvg-logo="" group-title="US TV",723 - COMEDY WEST SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17514.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="724 - COSMO SD" tvg-logo="" group-title="US TV",724 - COSMO SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17513.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="725 - COTTAGE LIFE SD" tvg-logo="" group-title="US TV",725 - COTTAGE LIFE SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17512.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="726 - CP 24 SD" tvg-logo="" group-title="US TV",726 - CP 24 SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17511.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="727 - CPAC SD" tvg-logo="" group-title="US TV",727 - CPAC SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17510.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="728 - CRIME INVESTIGATION CANADA" tvg-logo="" group-title="US TV",728 - CRIME INVESTIGATION CANADA
+http://dreamlord.tk:5454/live/demonbaz666/021956/17509.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="729 - CTV 2 VANVOUVER" tvg-logo="" group-title="US TV",729 - CTV 2 VANVOUVER
+http://dreamlord.tk:5454/live/demonbaz666/021956/17508.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="730 - CTV NEWS SD" tvg-logo="" group-title="NEWS",730 - CTV NEWS SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17507.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="731 - CTV OTTAWA SD" tvg-logo="" group-title="US TV",731 - CTV OTTAWA SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17506.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="732 - CTV TORONTO SD" tvg-logo="" group-title="US TV",732 - CTV TORONTO SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17505.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="733 - CTV VANCOUVER SD" tvg-logo="" group-title="US TV",733 - CTV VANCOUVER SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17504.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="734 - CW-11 SD" tvg-logo="" group-title="US TV",734 - CW-11 SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17503.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="735 - CW HD" tvg-logo="" group-title="US TV",735 - CW HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17502.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="736 - CP24" tvg-logo="" group-title="US TV",736 - CP24
+http://dreamlord.tk:5454/live/demonbaz666/021956/17501.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="737 - D TOUR SD" tvg-logo="" group-title="US TV",737 - D TOUR SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17500.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="738 - DAY STAR SD" tvg-logo="" group-title="US TV",738 - DAY STAR SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17499.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="739 - DEJA VIEW SD" tvg-logo="" group-title="US TV",739 - DEJA VIEW SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17498.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="740 - DISCOVERY SCIENCE SD" tvg-logo="" group-title="US TV",740 - DISCOVERY SCIENCE SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17497.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="741 - DISNEY FRENCH SD" tvg-logo="" group-title="US TV",741 - DISNEY FRENCH SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17496.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="742 - DOCUMENTARY SD" tvg-logo="" group-title="US TV",742 - DOCUMENTARY SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17495.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="743 - EVASION SD" tvg-logo="" group-title="US TV",743 - EVASION SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17494.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="744 - FAMILY JR. SD" tvg-logo="" group-title="US TV",744 - FAMILY JR. SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17493.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="745 - FAMILY WEST SD" tvg-logo="" group-title="US TV",745 - FAMILY WEST SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17492.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="746 - FIGHT NETWORK SD" tvg-logo="" group-title="US SPORT",746 - FIGHT NETWORK SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17491.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="747 - FOOD NETWORK SD" tvg-logo="" group-title="US TV",747 - FOOD NETWORK SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17490.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="748 - FOX EAST SD" tvg-logo="" group-title="US TV",748 - FOX EAST SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17489.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="749 - FOX NEWS SD" tvg-logo="" group-title="NEWS",749 - FOX NEWS SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17488.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="750 - FOX WEST SD" tvg-logo="" group-title="US TV",750 - FOX WEST SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17487.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="751 - FYI SD" tvg-logo="" group-title="US TV",751 - FYI SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17486.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="752 - FOX HD" tvg-logo="" group-title="US TV",752 - FOX HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17485.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="753 - FXX HD" tvg-logo="" group-title="US TV",753 - FXX HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17484.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="754 - GOLF SD" tvg-logo="" group-title="US SPORT",754 - GOLF SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17483.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="755 - GSN SD" tvg-logo="" group-title="US TV",755 - GSN SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17482.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="756 - HBO 1 SD" tvg-logo="" group-title="US TV",756 - HBO 1 SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17481.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="757 - HGTV SD" tvg-logo="" group-title="US TV",757 - HGTV SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17480.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="758 - HISTORIO SD" tvg-logo="" group-title="US TV",758 - HISTORIO SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17479.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="759 - HISTORY SD" tvg-logo="" group-title="US TV",759 - HISTORY SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17478.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="760 - ICI RADIO CANADA OTTAWA-GATINEAU SD" tvg-logo="" group-title="US TV",760 - ICI RADIO CANADA OTTAWA-GATINEAU SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17477.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="761 - ICI VANVOUVER SD" tvg-logo="" group-title="US TV",761 - ICI VANVOUVER SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17476.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="762 - ICI-MONTREAL SD" tvg-logo="" group-title="US TV",762 - ICI-MONTREAL SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17475.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="763 - ID CANADA SD" tvg-logo="" group-title="US TV",763 - ID CANADA SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17474.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="764 - LCN SD" tvg-logo="" group-title="US TV",764 - LCN SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17473.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="765 - M-TIME SD" tvg-logo="" group-title="US TV",765 - M-TIME SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17472.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="766 - MAGIO SD" tvg-logo="" group-title="US TV",766 - MAGIO SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17471.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="767 - MOI SD" tvg-logo="" group-title="US TV",767 - MOI SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17470.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="768 - MTV SD" tvg-logo="" group-title="US TV",768 - MTV SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17469.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="769 - MUSI MAX SD" tvg-logo="" group-title="US TV",769 - MUSI MAX SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17468.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="770 - MUSIC PLUS SD" tvg-logo="" group-title="US TV",770 - MUSIC PLUS SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17467.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="771 - NBA TV SD" tvg-logo="" group-title="US SPORT",771 - NBA TV SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17466.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="772 - NBC EAST SD" tvg-logo="" group-title="US TV",772 - NBC EAST SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17465.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="773 - NBC WEST SD" tvg-logo="" group-title="US TV",773 - NBC WEST SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17464.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="774 - NICKTOON SD" tvg-logo="" group-title="US TV",774 - NICKTOON SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17463.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="775 - NTV SD" tvg-logo="" group-title="US TV",775 - NTV SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17462.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="776 - OLN SD" tvg-logo="" group-title="US TV",776 - OLN SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17461.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="777 - OMNI 1 SD" tvg-logo="" group-title="US TV",777 - OMNI 1 SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17460.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="778 - OMNI 2 SD" tvg-logo="" group-title="US TV",778 - OMNI 2 SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17459.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="779 - OMNI-BC SD" tvg-logo="" group-title="US TV",779 - OMNI-BC SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17458.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="780 - ONE SD" tvg-logo="" group-title="US TV",780 - ONE SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17457.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="781 - OUT-TV SD" tvg-logo="" group-title="US TV",781 - OUT-TV SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17456.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="782 - OWN SD" tvg-logo="" group-title="US TV",782 - OWN SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17455.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="783 - PBS EAST" tvg-logo="" group-title="US TV",783 - PBS EAST
+http://dreamlord.tk:5454/live/demonbaz666/021956/17454.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="784 - PBS WEST SD" tvg-logo="" group-title="US TV",784 - PBS WEST SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17453.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="785 - PEACH TREE SD" tvg-logo="" group-title="US TV",785 - PEACH TREE SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17452.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="786 - SHOPPING CHANNEL SD" tvg-logo="" group-title="US TV",786 - SHOPPING CHANNEL SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17451.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="787 - SHOWCASE EAST SD" tvg-logo="" group-title="US TV",787 - SHOWCASE EAST SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17450.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="788 - SILVER SCREEN CLASSICS SD" tvg-logo="" group-title="US TV",788 - SILVER SCREEN CLASSICS SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17449.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="789 - SONY SD" tvg-logo="" group-title="US TV",789 - SONY SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17448.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="790 - SPACE SD" tvg-logo="" group-title="US TV",790 - SPACE SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17447.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="791 - SPIKE TV SD" tvg-logo="" group-title="US TV",791 - SPIKE TV SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17446.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="792 - SPORTNET EAST SD" tvg-logo="" group-title="US SPORT",792 - SPORTNET EAST SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17445.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="793 - SPORTNET PACIFIC SD" tvg-logo="" group-title="US SPORT",793 - SPORTNET PACIFIC SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17444.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="794 - SPORTNET WEST SD" tvg-logo="" group-title="US SPORT",794 - SPORTNET WEST SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17443.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="795 - SPORTSNET 360 SD" tvg-logo="" group-title="US SPORT",795 - SPORTSNET 360 SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17442.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="796 - SPORTSNET ONTARIO SD" tvg-logo="" group-title="US SPORT",796 - SPORTSNET ONTARIO SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17441.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="797 - SUPER CHANNEL 1 SD" tvg-logo="" group-title="US TV",797 - SUPER CHANNEL 1 SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17440.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="798 - SUPER CHANNEL 2 SD" tvg-logo="" group-title="US TV",798 - SUPER CHANNEL 2 SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17439.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="799 - SUPER CHANNEL 3 SD" tvg-logo="" group-title="US TV",799 - SUPER CHANNEL 3 SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17438.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="800 - SUPER ECRAN 1 SD" tvg-logo="" group-title="US TV",800 - SUPER ECRAN 1 SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17437.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="801 - SUPER ECRAN 2 SD" tvg-logo="" group-title="US TV",801 - SUPER ECRAN 2 SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17436.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="802 - SUPER ECRAN 3 SD" tvg-logo="" group-title="US TV",802 - SUPER ECRAN 3 SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17435.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="803 - SUPER ECRAN 4 SD" tvg-logo="" group-title="US TV",803 - SUPER ECRAN 4 SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17434.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="804 - GLOBAL TORONTO SD" tvg-logo="" group-title="US TV",804 - GLOBAL TORONTO SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17433.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="805 - SPORTSNET 360 HD" tvg-logo="" group-title="US SPORT",805 - SPORTSNET 360 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17432.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="806 - SPORTSNET EAST HD" tvg-logo="" group-title="US SPORT",806 - SPORTSNET EAST HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17431.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="807 - SPORTSNET ONE HD" tvg-logo="" group-title="US SPORT",807 - SPORTSNET ONE HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17430.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="808 - SPORTSNET ONTARIO HD" tvg-logo="" group-title="US SPORT",808 - SPORTSNET ONTARIO HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17429.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="809 - SPORTSNET PACIFIC HD" tvg-logo="" group-title="US SPORT",809 - SPORTSNET PACIFIC HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17428.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="810 - SPORTSNET WEST HD" tvg-logo="" group-title="US SPORT",810 - SPORTSNET WEST HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17427.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="811 - SPORTSNET WORLD HD" tvg-logo="" group-title="US SPORT",811 - SPORTSNET WORLD HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17426.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="812 - TMN HD" tvg-logo="" group-title="US TV",812 - TMN HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17425.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="813 - TRU TV HD" tvg-logo="" group-title="US TV",813 - TRU TV HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17424.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="814 - TSN 1 HD" tvg-logo="" group-title="US SPORT",814 - TSN 1 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17423.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="815 - TSN 2 HD" tvg-logo="" group-title="US SPORT",815 - TSN 2 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17422.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="816 - TSN 3 HD" tvg-logo="" group-title="US SPORT",816 - TSN 3 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17421.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="817 - TSN 4 HD" tvg-logo="" group-title="US SPORT",817 - TSN 4 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17420.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="818 - TSN 5 HD" tvg-logo="" group-title="US SPORT",818 - TSN 5 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17419.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="819 - TECH SD" tvg-logo="" group-title="US TV",819 - TECH SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17418.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="820 - THE CARTOON NETWORK" tvg-logo="" group-title="US TV",820 - THE CARTOON NETWORK
+http://dreamlord.tk:5454/live/demonbaz666/021956/17417.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="821 - THE MOVIE NETWORK ENCORE 1 EAST SD (304)" tvg-logo="" group-title="US TV",821 - THE MOVIE NETWORK ENCORE 1 EAST SD (304)
+http://dreamlord.tk:5454/live/demonbaz666/021956/17416.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="822 - TLC SD" tvg-logo="" group-title="US TV",822 - TLC SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17415.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="823 - TVA SPORTS SD" tvg-logo="" group-title="US SPORT",823 - TVA SPORTS SD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17414.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="824 - W NETWORK HD" tvg-logo="" group-title="US TV",824 - W NETWORK HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17413.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="901 - LIVE 1 - SCOTTISH CUP FINAL 720p HD" tvg-logo="" group-title="LIVE EVENTS",901 - LIVE 1 - SCOTTISH CUP FINAL 720p HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/16829.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="902 - LIVE 2 - FA CUP FINAL 720p HD" tvg-logo="" group-title="LIVE EVENTS",902 - LIVE 2 - FA CUP FINAL 720p HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/16830.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="903 - LIVE 3 -PPV" tvg-logo="" group-title="LIVE EVENTS",903 - LIVE 3 -PPV
+http://dreamlord.tk:5454/live/demonbaz666/021956/16831.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="904 - LIVE 4 - PPV" tvg-logo="" group-title="LIVE EVENTS",904 - LIVE 4 - PPV
+http://dreamlord.tk:5454/live/demonbaz666/021956/16832.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="905 - LIVE 5 - PPV" tvg-logo="" group-title="LIVE EVENTS",905 - LIVE 5 - PPV
+http://dreamlord.tk:5454/live/demonbaz666/021956/16833.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="906 - LIVE 6 - PPV" tvg-logo="" group-title="LIVE EVENTS",906 - LIVE 6 - PPV
+http://dreamlord.tk:5454/live/demonbaz666/021956/16834.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="907 - LIVE 7 - PPV" tvg-logo="" group-title="LIVE EVENTS",907 - LIVE 7 - PPV
+http://dreamlord.tk:5454/live/demonbaz666/021956/16821.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="908 - LIVE 8" tvg-logo="" group-title="LIVE EVENTS",908 - LIVE 8
+http://dreamlord.tk:5454/live/demonbaz666/021956/16486.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="909 - LIVE 9" tvg-logo="" group-title="LIVE EVENTS",909 - LIVE 9
+http://dreamlord.tk:5454/live/demonbaz666/021956/16487.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="910 - LIVE 10" tvg-logo="" group-title="LIVE EVENTS",910 - LIVE 10
+http://dreamlord.tk:5454/live/demonbaz666/021956/16488.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="911 - LIVE 11" tvg-logo="" group-title="LIVE EVENTS",911 - LIVE 11
+http://dreamlord.tk:5454/live/demonbaz666/021956/16489.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="912 - LIVE 12" tvg-logo="" group-title="LIVE EVENTS",912 - LIVE 12
+http://dreamlord.tk:5454/live/demonbaz666/021956/16490.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="913 - LIVE 13" tvg-logo="" group-title="LIVE EVENTS",913 - LIVE 13
+http://dreamlord.tk:5454/live/demonbaz666/021956/16491.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="914 - LIVE 14" tvg-logo="" group-title="LIVE EVENTS",914 - LIVE 14
+http://dreamlord.tk:5454/live/demonbaz666/021956/16492.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="915 - LIVE 15" tvg-logo="" group-title="LIVE EVENTS",915 - LIVE 15
+http://dreamlord.tk:5454/live/demonbaz666/021956/16493.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="916 - LIVE 16" tvg-logo="" group-title="LIVE EVENTS",916 - LIVE 16
+http://dreamlord.tk:5454/live/demonbaz666/021956/16880.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="917 - LIVE 17" tvg-logo="" group-title="LIVE EVENTS",917 - LIVE 17
+http://dreamlord.tk:5454/live/demonbaz666/021956/16881.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="918 - LIVE 18" tvg-logo="" group-title="LIVE EVENTS",918 - LIVE 18
+http://dreamlord.tk:5454/live/demonbaz666/021956/16882.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="919 - LIVE 19" tvg-logo="" group-title="LIVE EVENTS",919 - LIVE 19
+http://dreamlord.tk:5454/live/demonbaz666/021956/16883.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="920 - LIVE 20" tvg-logo="" group-title="LIVE EVENTS",920 - LIVE 20
+http://dreamlord.tk:5454/live/demonbaz666/021956/16884.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1001 -  TF1 HD" tvg-logo="" group-title="FRANCE",1001 -  TF1 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18046.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1002 -  FRANCE O" tvg-logo="" group-title="FRANCE",1002 -  FRANCE O
+http://dreamlord.tk:5454/live/demonbaz666/021956/18045.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1003 -  FRANCE 2" tvg-logo="" group-title="FRANCE",1003 -  FRANCE 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/18044.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1004 -  FRANCE 3" tvg-logo="" group-title="FRANCE",1004 -  FRANCE 3
+http://dreamlord.tk:5454/live/demonbaz666/021956/18043.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1005 -  FRANCE 4" tvg-logo="" group-title="FRANCE",1005 -  FRANCE 4
+http://dreamlord.tk:5454/live/demonbaz666/021956/18042.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1006 - FRANCE 5" tvg-logo="" group-title="FRANCE",1006 - FRANCE 5
+http://dreamlord.tk:5454/live/demonbaz666/021956/18041.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1007 - CANAL  HD" tvg-logo="" group-title="FRANCE",1007 - CANAL  HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18040.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1008 - CANAL   SERIE HD" tvg-logo="" group-title="FRANCE",1008 - CANAL   SERIE HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18039.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1009 - CANAL   FAMILY HD" tvg-logo="" group-title="FRANCE",1009 - CANAL   FAMILY HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18038.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1010 - CANAL   DECALE HD" tvg-logo="" group-title="FRANCE",1010 - CANAL   DECALE HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18037.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1011 - CANAL   CINEMA HD" tvg-logo="" group-title="FRANCE",1011 - CANAL   CINEMA HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18036.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1012 - CINE  PREMIER HD" tvg-logo="" group-title="FRANCE",1012 - CINE  PREMIER HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18035.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1013 - CINE  FAMIZ HD" tvg-logo="" group-title="FRANCE",1013 - CINE  FAMIZ HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18034.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1014 - CINE  EMOTION HD" tvg-logo="" group-title="FRANCE",1014 - CINE  EMOTION HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18033.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1015 - CINE  CLASSIC HD" tvg-logo="" group-title="FRANCE",1015 - CINE  CLASSIC HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18032.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1016 - CINE FX" tvg-logo="" group-title="FRANCE",1016 - CINE FX
+http://dreamlord.tk:5454/live/demonbaz666/021956/18031.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1017 - CINE POLAR" tvg-logo="" group-title="FRANCE",1017 - CINE POLAR
+http://dreamlord.tk:5454/live/demonbaz666/021956/18030.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1018 - OCS MAX HD" tvg-logo="" group-title="FRANCE",1018 - OCS MAX HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18029.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1019 - OCS GEANTS HD" tvg-logo="" group-title="FRANCE",1019 - OCS GEANTS HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18028.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1020 - OCS CITY HD" tvg-logo="" group-title="FRANCE",1020 - OCS CITY HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18027.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1021 - PARIS PREMIERE HD" tvg-logo="" group-title="FRANCE",1021 - PARIS PREMIERE HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18026.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1022 - SERIE CLUB HD" tvg-logo="" group-title="FRANCE",1022 - SERIE CLUB HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18025.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1023 - BOOMRANG HD" tvg-logo="" group-title="FRANCE",1023 - BOOMRANG HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18024.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1024 - DISNEY CINEMA HD" tvg-logo="" group-title="FRANCE",1024 - DISNEY CINEMA HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18023.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1025 -  CARTOON NETWORK HD" tvg-logo="" group-title="FRANCE",1025 -  CARTOON NETWORK HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18022.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1026 -  DISNEY JR FR HD" tvg-logo="" group-title="FRANCE",1026 -  DISNEY JR FR HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18021.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1027 -  DISNEY CHANNEL HD" tvg-logo="" group-title="FRANCE",1027 -  DISNEY CHANNEL HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18020.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1028 - BOOMERANG" tvg-logo="" group-title="FRANCE",1028 - BOOMERANG
+http://dreamlord.tk:5454/live/demonbaz666/021956/18019.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1029 - TELETOON HD" tvg-logo="" group-title="FRANCE",1029 - TELETOON HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18018.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1030 - CANAL J" tvg-logo="" group-title="FRANCE",1030 - CANAL J
+http://dreamlord.tk:5454/live/demonbaz666/021956/18017.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1031 -  MANGA" tvg-logo="" group-title="FRANCE",1031 -  MANGA
+http://dreamlord.tk:5454/live/demonbaz666/021956/18016.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1032 - TIJI HD" tvg-logo="" group-title="FRANCE",1032 - TIJI HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18015.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1033 - PIWI HD" tvg-logo="" group-title="FRANCE",1033 - PIWI HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18014.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1034 - GULLI HD" tvg-logo="" group-title="FRANCE",1034 - GULLI HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18013.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1035 -  NRJ12 HD" tvg-logo="" group-title="FRANCE",1035 -  NRJ12 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18012.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1036 - VOYAGE" tvg-logo="" group-title="FRANCE",1036 - VOYAGE
+http://dreamlord.tk:5454/live/demonbaz666/021956/18011.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1037 - TOUT LHISTOIRE" tvg-logo="" group-title="FRANCE",1037 - TOUT LHISTOIRE
+http://dreamlord.tk:5454/live/demonbaz666/021956/18010.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1038 - DISCOVERY HD" tvg-logo="" group-title="FRANCE",1038 - DISCOVERY HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18009.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1039 -  DISCOVERY SCIENCE HD" tvg-logo="" group-title="FRANCE",1039 -  DISCOVERY SCIENCE HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18008.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1040 -  NAT GEO WILD HD" tvg-logo="" group-title="FRANCE",1040 -  NAT GEO WILD HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18007.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1041 -  NAT GEO HD" tvg-logo="" group-title="FRANCE",1041 -  NAT GEO HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18006.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1042 -  ANIMAUX HD" tvg-logo="" group-title="FRANCE",1042 -  ANIMAUX HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18005.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1043 - USHUAIA HD" tvg-logo="" group-title="FRANCE",1043 - USHUAIA HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18004.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1044 - CHASSE PECHE" tvg-logo="" group-title="FRANCE",1044 - CHASSE PECHE
+http://dreamlord.tk:5454/live/demonbaz666/021956/18003.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1045 -  PLANETE" tvg-logo="" group-title="FRANCE",1045 -  PLANETE
+http://dreamlord.tk:5454/live/demonbaz666/021956/18002.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1046 -  PLANETE  CI" tvg-logo="" group-title="FRANCE",1046 -  PLANETE  CI
+http://dreamlord.tk:5454/live/demonbaz666/021956/18001.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1047 - RTL9 HD" tvg-logo="" group-title="FRANCE",1047 - RTL9 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18000.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1048 - HD1" tvg-logo="" group-title="FRANCE",1048 - HD1
+http://dreamlord.tk:5454/live/demonbaz666/021956/17999.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1049 - ACTION" tvg-logo="" group-title="FRANCE",1049 - ACTION
+http://dreamlord.tk:5454/live/demonbaz666/021956/17998.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1050 - CLUB RTL" tvg-logo="" group-title="FRANCE",1050 - CLUB RTL
+http://dreamlord.tk:5454/live/demonbaz666/021956/17997.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1051 - TCM CINEMA" tvg-logo="" group-title="FRANCE",1051 - TCM CINEMA
+http://dreamlord.tk:5454/live/demonbaz666/021956/17996.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1052 - TMC" tvg-logo="" group-title="FRANCE",1052 - TMC
+http://dreamlord.tk:5454/live/demonbaz666/021956/17995.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1053 - GOLF" tvg-logo="" group-title="FRANCE",1053 - GOLF
+http://dreamlord.tk:5454/live/demonbaz666/021956/17994.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1054 - FOOT  24" tvg-logo="" group-title="FRANCE",1054 - FOOT  24
+http://dreamlord.tk:5454/live/demonbaz666/021956/17993.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1055 - CANAL SPORT HD" tvg-logo="" group-title="FRANCE",1055 - CANAL SPORT HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17992.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1056 - COMBAT SPORT HD" tvg-logo="" group-title="FRANCE",1056 - COMBAT SPORT HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17991.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1057 - BEIN SPORT 3 HD" tvg-logo="" group-title="FRANCE",1057 - BEIN SPORT 3 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17990.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1058 - BEIN SPORT 2 HD" tvg-logo="" group-title="FRANCE",1058 - BEIN SPORT 2 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17989.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1059 - BEIN SPORT 1 HD" tvg-logo="" group-title="FRANCE",1059 - BEIN SPORT 1 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17988.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1060 - SFR SPORT 1" tvg-logo="" group-title="FRANCE",1060 - SFR SPORT 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/17987.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1061 - SFR SPORT 2" tvg-logo="" group-title="FRANCE",1061 - SFR SPORT 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/17986.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1062 - BEIN SPORT MAX 4" tvg-logo="" group-title="FRANCE",1062 - BEIN SPORT MAX 4
+http://dreamlord.tk:5454/live/demonbaz666/021956/17985.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1063 - BEIN SPORT MAX 5" tvg-logo="" group-title="FRANCE",1063 - BEIN SPORT MAX 5
+http://dreamlord.tk:5454/live/demonbaz666/021956/17984.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1064 - BEIN SPORT MAX 6" tvg-logo="" group-title="FRANCE",1064 - BEIN SPORT MAX 6
+http://dreamlord.tk:5454/live/demonbaz666/021956/17983.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1065 - BEIN SPORT MAX 7" tvg-logo="" group-title="FRANCE",1065 - BEIN SPORT MAX 7
+http://dreamlord.tk:5454/live/demonbaz666/021956/17982.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1066 -  INFOSPORT" tvg-logo="" group-title="FRANCE",1066 -  INFOSPORT
+http://dreamlord.tk:5454/live/demonbaz666/021956/17981.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1067 - EUROSPORT" tvg-logo="" group-title="FRANCE",1067 - EUROSPORT
+http://dreamlord.tk:5454/live/demonbaz666/021956/17980.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1068 - EUROSPORT 2" tvg-logo="" group-title="FRANCE",1068 - EUROSPORT 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/17979.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1069 - EQUIDIA LIVE HD" tvg-logo="" group-title="FRANCE",1069 - EQUIDIA LIVE HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17978.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1070 - VIRGIN HD" tvg-logo="" group-title="FRANCE",1070 - VIRGIN HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17977.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1071 - NICKELODEON JUNIOR" tvg-logo="" group-title="FRANCE",1071 - NICKELODEON JUNIOR
+http://dreamlord.tk:5454/live/demonbaz666/021956/17976.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1072 - AB1" tvg-logo="" group-title="FRANCE",1072 - AB1
+http://dreamlord.tk:5454/live/demonbaz666/021956/17975.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1073 - MEZZO HD" tvg-logo="" group-title="FRANCE",1073 - MEZZO HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17974.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1074 - E ENTERTAINEMENT" tvg-logo="" group-title="FRANCE",1074 - E ENTERTAINEMENT
+http://dreamlord.tk:5454/live/demonbaz666/021956/17973.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1075 - MTV" tvg-logo="" group-title="FRANCE",1075 - MTV
+http://dreamlord.tk:5454/live/demonbaz666/021956/17972.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1076 - W9" tvg-logo="" group-title="FRANCE",1076 - W9
+http://dreamlord.tk:5454/live/demonbaz666/021956/17971.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1077 - ARTE HD" tvg-logo="" group-title="FRANCE",1077 - ARTE HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17970.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1078 - 13EME RUE" tvg-logo="" group-title="FRANCE",1078 - 13EME RUE
+http://dreamlord.tk:5454/live/demonbaz666/021956/17969.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1079 - 6TER" tvg-logo="" group-title="FRANCE",1079 - 6TER
+http://dreamlord.tk:5454/live/demonbaz666/021956/17968.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1080 -  M6 HD" tvg-logo="" group-title="FRANCE",1080 -  M6 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/17967.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1081 -  TEVA" tvg-logo="" group-title="FRANCE",1081 -  TEVA
+http://dreamlord.tk:5454/live/demonbaz666/021956/17966.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1082 - GULLI" tvg-logo="" group-title="FRANCE",1082 - GULLI
+http://dreamlord.tk:5454/live/demonbaz666/021956/17965.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1083 - FRANCE24" tvg-logo="" group-title="FRANCE",1083 - FRANCE24
+http://dreamlord.tk:5454/live/demonbaz666/021956/17964.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1084 - C8" tvg-logo="" group-title="FRANCE",1084 - C8
+http://dreamlord.tk:5454/live/demonbaz666/021956/17963.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1085 - C STAR" tvg-logo="" group-title="FRANCE",1085 - C STAR
+http://dreamlord.tk:5454/live/demonbaz666/021956/17962.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1086 - TV5" tvg-logo="" group-title="FRANCE",1086 - TV5
+http://dreamlord.tk:5454/live/demonbaz666/021956/17961.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1087 -  WEO" tvg-logo="" group-title="FRANCE",1087 -  WEO
+http://dreamlord.tk:5454/live/demonbaz666/021956/17960.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1088 - LEQUIPE 21" tvg-logo="" group-title="FRANCE",1088 - LEQUIPE 21
+http://dreamlord.tk:5454/live/demonbaz666/021956/17959.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1089 - NT1" tvg-logo="" group-title="FRANCE",1089 - NT1
+http://dreamlord.tk:5454/live/demonbaz666/021956/17958.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1090 - CHÉRIE 25" tvg-logo="" group-title="FRANCE",1090 - CHÉRIE 25
+http://dreamlord.tk:5454/live/demonbaz666/021956/17957.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1091 - RTS UN" tvg-logo="" group-title="FRANCE",1091 - RTS UN
+http://dreamlord.tk:5454/live/demonbaz666/021956/17956.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1092 -  COMEDIE" tvg-logo="" group-title="FRANCE",1092 -  COMEDIE
+http://dreamlord.tk:5454/live/demonbaz666/021956/17955.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1093 - AB3" tvg-logo="" group-title="FRANCE",1093 - AB3
+http://dreamlord.tk:5454/live/demonbaz666/021956/17954.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1094 - M6 MUSIC" tvg-logo="" group-title="FRANCE",1094 - M6 MUSIC
+http://dreamlord.tk:5454/live/demonbaz666/021956/17953.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1095 - MTV BASE" tvg-logo="" group-title="FRANCE",1095 - MTV BASE
+http://dreamlord.tk:5454/live/demonbaz666/021956/17952.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1096 - SEASONS" tvg-logo="" group-title="FRANCE",1096 - SEASONS
+http://dreamlord.tk:5454/live/demonbaz666/021956/17951.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1097 - TREK" tvg-logo="" group-title="FRANCE",1097 - TREK
+http://dreamlord.tk:5454/live/demonbaz666/021956/17950.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1098 - ZOUZOU TV" tvg-logo="" group-title="FRANCE",1098 - ZOUZOU TV
+http://dreamlord.tk:5454/live/demonbaz666/021956/17949.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1099 - D8" tvg-logo="" group-title="FRANCE",1099 - D8
+http://dreamlord.tk:5454/live/demonbaz666/021956/17948.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1100 - BFM TV" tvg-logo="" group-title="FRANCE",1100 - BFM TV
+http://dreamlord.tk:5454/live/demonbaz666/021956/17947.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1101 - J-ONE" tvg-logo="" group-title="FRANCE",1101 - J-ONE
+http://dreamlord.tk:5454/live/demonbaz666/021956/17946.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1102 - A.LA.CARTE.1" tvg-logo="" group-title="FRANCE",1102 - A.LA.CARTE.1
+http://dreamlord.tk:5454/live/demonbaz666/021956/17945.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1103 - A.LA.CARTE.2" tvg-logo="" group-title="FRANCE",1103 - A.LA.CARTE.2
+http://dreamlord.tk:5454/live/demonbaz666/021956/17944.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1104 - A.LA.CARTE.3" tvg-logo="" group-title="FRANCE",1104 - A.LA.CARTE.3
+http://dreamlord.tk:5454/live/demonbaz666/021956/17943.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1105 - A.LA.CARTE.4" tvg-logo="" group-title="FRANCE",1105 - A.LA.CARTE.4
+http://dreamlord.tk:5454/live/demonbaz666/021956/17942.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1106 - A.LA.CARTE.5" tvg-logo="" group-title="FRANCE",1106 - A.LA.CARTE.5
+http://dreamlord.tk:5454/live/demonbaz666/021956/17941.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1107 - A.LA.CARTE.6" tvg-logo="" group-title="FRANCE",1107 - A.LA.CARTE.6
+http://dreamlord.tk:5454/live/demonbaz666/021956/17940.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1108 - CANAL PLAY 1" tvg-logo="" group-title="FRANCE",1108 - CANAL PLAY 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/17939.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1109 - CANAL PLAY 2" tvg-logo="" group-title="FRANCE",1109 - CANAL PLAY 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/17938.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1110 - CANAL PLAY 3" tvg-logo="" group-title="FRANCE",1110 - CANAL PLAY 3
+http://dreamlord.tk:5454/live/demonbaz666/021956/17937.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1111 - CANAL PLAY 4" tvg-logo="" group-title="FRANCE",1111 - CANAL PLAY 4
+http://dreamlord.tk:5454/live/demonbaz666/021956/17936.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1112 - CANAL PLAY 5" tvg-logo="" group-title="FRANCE",1112 - CANAL PLAY 5
+http://dreamlord.tk:5454/live/demonbaz666/021956/17935.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1113 - CANAL PLAY 6" tvg-logo="" group-title="FRANCE",1113 - CANAL PLAY 6
+http://dreamlord.tk:5454/live/demonbaz666/021956/17934.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1114 - CANAL PLAY 7" tvg-logo="" group-title="FRANCE",1114 - CANAL PLAY 7
+http://dreamlord.tk:5454/live/demonbaz666/021956/17933.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1200 - ZDF HD" tvg-logo="" group-title="GERMANY",1200 - ZDF HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18129.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1201 - ZDF" tvg-logo="" group-title="GERMANY",1201 - ZDF
+http://dreamlord.tk:5454/live/demonbaz666/021956/18128.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1202 - WDR HD" tvg-logo="" group-title="GERMANY",1202 - WDR HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18127.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1203 - VOX HD" tvg-logo="" group-title="GERMANY",1203 - VOX HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18126.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1204 - FOX" tvg-logo="" group-title="GERMANY",1204 - FOX
+http://dreamlord.tk:5454/live/demonbaz666/021956/18125.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1205 - AXN HD" tvg-logo="" group-title="GERMANY",1205 - AXN HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18124.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1206 - ARTE" tvg-logo="" group-title="GERMANY",1206 - ARTE
+http://dreamlord.tk:5454/live/demonbaz666/021956/18123.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1207 - ARD HD" tvg-logo="" group-title="GERMANY",1207 - ARD HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18122.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1208 - 3SAT HD" tvg-logo="" group-title="GERMANY",1208 - 3SAT HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18121.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1209 - ZDF" tvg-logo="" group-title="GERMANY",1209 - ZDF
+http://dreamlord.tk:5454/live/demonbaz666/021956/18120.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1210 - WDR-HD" tvg-logo="" group-title="GERMANY",1210 - WDR-HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18119.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1211 - SYFY HD" tvg-logo="" group-title="GERMANY",1211 - SYFY HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18118.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1212 - PRO7 HD" tvg-logo="" group-title="GERMANY",1212 - PRO7 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18117.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1213 - SAT1 HD" tvg-logo="" group-title="GERMANY",1213 - SAT1 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18116.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1214 - ORF2 HD" tvg-logo="" group-title="GERMANY",1214 - ORF2 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18115.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1215 - ORF1 HD" tvg-logo="" group-title="GERMANY",1215 - ORF1 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18114.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1216 - NDR HD" tvg-logo="" group-title="GERMANY",1216 - NDR HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18113.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1217 - RTL HD" tvg-logo="" group-title="GERMANY",1217 - RTL HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18112.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1218 - RTL2 HD" tvg-logo="" group-title="GERMANY",1218 - RTL2 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18111.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1219 - SUPER RTL HD" tvg-logo="" group-title="GERMANY",1219 - SUPER RTL HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18110.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1220 - RTL PASSION" tvg-logo="" group-title="GERMANY",1220 - RTL PASSION
+http://dreamlord.tk:5454/live/demonbaz666/021956/18109.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1221 - RTL NITRO HD" tvg-logo="" group-title="GERMANY",1221 - RTL NITRO HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18108.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1222 - RTL LIVING HD" tvg-logo="" group-title="GERMANY",1222 - RTL LIVING HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18107.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1223 - RTL CRIME" tvg-logo="" group-title="GERMANY",1223 - RTL CRIME
+http://dreamlord.tk:5454/live/demonbaz666/021956/18106.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1224 - UNIVERSAL HD" tvg-logo="" group-title="GERMANY",1224 - UNIVERSAL HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18105.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1225 - SKY TNT SERIE HD" tvg-logo="" group-title="GERMANY",1225 - SKY TNT SERIE HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18104.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1226 - SKY TNT FILM HD" tvg-logo="" group-title="GERMANY",1226 - SKY TNT FILM HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18103.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1227 - SKY TNT COMEDY HD" tvg-logo="" group-title="GERMANY",1227 - SKY TNT COMEDY HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18102.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1228 - SKY KRIMI" tvg-logo="" group-title="GERMANY",1228 - SKY KRIMI
+http://dreamlord.tk:5454/live/demonbaz666/021956/18101.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1229 - SKY DMAX HD" tvg-logo="" group-title="GERMANY",1229 - SKY DMAX HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18100.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1230 - SFR HD" tvg-logo="" group-title="GERMANY",1230 - SFR HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18099.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1231 - DISNEY JUNIORE" tvg-logo="" group-title="GERMANY",1231 - DISNEY JUNIORE
+http://dreamlord.tk:5454/live/demonbaz666/021956/18098.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1232 - NICKELODEON" tvg-logo="" group-title="GERMANY",1232 - NICKELODEON
+http://dreamlord.tk:5454/live/demonbaz666/021956/18097.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1233 - DISNEY XD" tvg-logo="" group-title="GERMANY",1233 - DISNEY XD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18096.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1234 - DISNEY CINEMA MAGIC" tvg-logo="" group-title="GERMANY",1234 - DISNEY CINEMA MAGIC
+http://dreamlord.tk:5454/live/demonbaz666/021956/18095.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1235 - JUNIOR HD" tvg-logo="" group-title="GERMANY",1235 - JUNIOR HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18094.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1236 - DISNEY CHANNEL HD" tvg-logo="" group-title="GERMANY",1236 - DISNEY CHANNEL HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18093.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1237 - CARTOON NETWORK" tvg-logo="" group-title="GERMANY",1237 - CARTOON NETWORK
+http://dreamlord.tk:5454/live/demonbaz666/021956/18092.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1238 - BOOMERANG" tvg-logo="" group-title="GERMANY",1238 - BOOMERANG
+http://dreamlord.tk:5454/live/demonbaz666/021956/18091.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1239 - KIKA" tvg-logo="" group-title="GERMANY",1239 - KIKA
+http://dreamlord.tk:5454/live/demonbaz666/021956/18090.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1240 - SKY MGM HD" tvg-logo="" group-title="GERMANY",1240 - SKY MGM HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18089.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1241 - SKY HITS HD" tvg-logo="" group-title="GERMANY",1241 - SKY HITS HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18088.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1242 - SPORT 1 HD" tvg-logo="" group-title="GERMANY",1242 - SPORT 1 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18087.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1243 - SKY-CINEMA" tvg-logo="" group-title="GERMANY",1243 - SKY-CINEMA
+http://dreamlord.tk:5454/live/demonbaz666/021956/18086.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1244 - SKY CINEMA 1" tvg-logo="" group-title="GERMANY",1244 - SKY CINEMA 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/18085.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1245 - SKY CINEMA24" tvg-logo="" group-title="GERMANY",1245 - SKY CINEMA24
+http://dreamlord.tk:5454/live/demonbaz666/021956/18084.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1246 - SKY-ATLANTIC-HD" tvg-logo="" group-title="GERMANY",1246 - SKY-ATLANTIC-HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18083.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1247 - SKY EMOTION" tvg-logo="" group-title="GERMANY",1247 - SKY EMOTION
+http://dreamlord.tk:5454/live/demonbaz666/021956/18082.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1248 - SKY ACTION" tvg-logo="" group-title="GERMANY",1248 - SKY ACTION
+http://dreamlord.tk:5454/live/demonbaz666/021956/18081.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1249 - COMEDY CENTRALE" tvg-logo="" group-title="GERMANY",1249 - COMEDY CENTRALE
+http://dreamlord.tk:5454/live/demonbaz666/021956/18080.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1250 - SKY 13TH STREET HD" tvg-logo="" group-title="GERMANY",1250 - SKY 13TH STREET HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18079.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1251 - NAT GEO WILD" tvg-logo="" group-title="GERMANY",1251 - NAT GEO WILD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18078.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1252 - NAT GEO HD" tvg-logo="" group-title="GERMANY",1252 - NAT GEO HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18077.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1253 - NAT GEO" tvg-logo="" group-title="GERMANY",1253 - NAT GEO
+http://dreamlord.tk:5454/live/demonbaz666/021956/18076.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1254 - HISTORY CHANNEL" tvg-logo="" group-title="GERMANY",1254 - HISTORY CHANNEL
+http://dreamlord.tk:5454/live/demonbaz666/021956/18075.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1255 - DISCOVERY CHANNEL HD" tvg-logo="" group-title="GERMANY",1255 - DISCOVERY CHANNEL HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18074.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1256 - KABEL 1 HD" tvg-logo="" group-title="GERMANY",1256 - KABEL 1 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18073.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1257 - SKY SPORT NEW.HD" tvg-logo="" group-title="GERMANY",1257 - SKY SPORT NEW.HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18072.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1258 - SKY SPORT NEW HD" tvg-logo="" group-title="GERMANY",1258 - SKY SPORT NEW HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18071.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1259 - SKY-SPORT-1HD" tvg-logo="" group-title="GERMANY",1259 - SKY-SPORT-1HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18070.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1260 -  SKY SPORT 2HD" tvg-logo="" group-title="GERMANY",1260 -  SKY SPORT 2HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18069.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1261 - SKY BUNDESLIGA  HD 1" tvg-logo="" group-title="GERMANY",1261 - SKY BUNDESLIGA  HD 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/18068.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1262 - SKY BUNDESLIGA 2" tvg-logo="" group-title="GERMANY",1262 - SKY BUNDESLIGA 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/18067.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1263 - SKY BUNDESLIGA 3" tvg-logo="" group-title="GERMANY",1263 - SKY BUNDESLIGA 3
+http://dreamlord.tk:5454/live/demonbaz666/021956/18066.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1264 - SKY BUNDESLIGA 4" tvg-logo="" group-title="GERMANY",1264 - SKY BUNDESLIGA 4
+http://dreamlord.tk:5454/live/demonbaz666/021956/18065.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1265 - SKY BUNDESLIGA 5" tvg-logo="" group-title="GERMANY",1265 - SKY BUNDESLIGA 5
+http://dreamlord.tk:5454/live/demonbaz666/021956/18064.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1266 - SKY BUNDESLIGA 6" tvg-logo="" group-title="GERMANY",1266 - SKY BUNDESLIGA 6
+http://dreamlord.tk:5454/live/demonbaz666/021956/18063.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1267 - SKY SPORT AUSTRIA HD" tvg-logo="" group-title="GERMANY",1267 - SKY SPORT AUSTRIA HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18062.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1268 - SPORTDIGITAL" tvg-logo="" group-title="GERMANY",1268 - SPORTDIGITAL
+http://dreamlord.tk:5454/live/demonbaz666/021956/18061.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1269 - ORF SPORT  HD" tvg-logo="" group-title="GERMANY",1269 - ORF SPORT  HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18060.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1270 - SPORT 1 US HD" tvg-logo="" group-title="GERMANY",1270 - SPORT 1 US HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18059.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1271 - SPORT 1 HD" tvg-logo="" group-title="GERMANY",1271 - SPORT 1 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18058.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1272 - EUROSPORT HD" tvg-logo="" group-title="GERMANY",1272 - EUROSPORT HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18057.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1273 - SKY SELECT 1 HD" tvg-logo="" group-title="GERMANY",1273 - SKY SELECT 1 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18056.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1274 - SKY SELECT 2 HD" tvg-logo="" group-title="GERMANY",1274 - SKY SELECT 2 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18055.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1275 - SKY SELECT 3 HD" tvg-logo="" group-title="GERMANY",1275 - SKY SELECT 3 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18054.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1276 - SKY SELECT 4 HD" tvg-logo="" group-title="GERMANY",1276 - SKY SELECT 4 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18053.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1277 - SKY SELECT 5 HD" tvg-logo="" group-title="GERMANY",1277 - SKY SELECT 5 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18052.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1278 - SKY SELECT 6 HD" tvg-logo="" group-title="GERMANY",1278 - SKY SELECT 6 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18051.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1279 - SKY SELECT 7 HD" tvg-logo="" group-title="GERMANY",1279 - SKY SELECT 7 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18050.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1280 - SKY SELCT 8 HD" tvg-logo="" group-title="GERMANY",1280 - SKY SELCT 8 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18049.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1281 - SKY SELECT 9" tvg-logo="" group-title="GERMANY",1281 - SKY SELECT 9
+http://dreamlord.tk:5454/live/demonbaz666/021956/18048.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1300 - PREMIUM SPORT HD" tvg-logo="" group-title="ITALY",1300 - PREMIUM SPORT HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18236.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1301 - PREMIUN SPORT 2 HD" tvg-logo="" group-title="ITALY",1301 - PREMIUN SPORT 2 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18235.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1302 - SKY SUPERCALCIO HD" tvg-logo="" group-title="ITALY",1302 - SKY SUPERCALCIO HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18234.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1303 - RAI PREMIUM" tvg-logo="" group-title="ITALY",1303 - RAI PREMIUM
+http://dreamlord.tk:5454/live/demonbaz666/021956/18233.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1304 - PREMIUM STUDIO UNIVERSAL" tvg-logo="" group-title="ITALY",1304 - PREMIUM STUDIO UNIVERSAL
+http://dreamlord.tk:5454/live/demonbaz666/021956/18232.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1305 - PREMIUM JOY" tvg-logo="" group-title="ITALY",1305 - PREMIUM JOY
+http://dreamlord.tk:5454/live/demonbaz666/021956/18231.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1306 - PREMIUM EMOTION-" tvg-logo="" group-title="ITALY",1306 - PREMIUM EMOTION-
+http://dreamlord.tk:5454/live/demonbaz666/021956/18230.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1307 - PREMIUM DISCOVERY" tvg-logo="" group-title="ITALY",1307 - PREMIUM DISCOVERY
+http://dreamlord.tk:5454/live/demonbaz666/021956/18229.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1308 - PREMIUM CRIME HD" tvg-logo="" group-title="ITALY",1308 - PREMIUM CRIME HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18228.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1309 - PREMIUM CRIME 24" tvg-logo="" group-title="ITALY",1309 - PREMIUM CRIME 24
+http://dreamlord.tk:5454/live/demonbaz666/021956/18227.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1310 - PREMIUM CINEMA HD" tvg-logo="" group-title="ITALY",1310 - PREMIUM CINEMA HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18226.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1311 - PREMIUM CINEMA ENERGY" tvg-logo="" group-title="ITALY",1311 - PREMIUM CINEMA ENERGY
+http://dreamlord.tk:5454/live/demonbaz666/021956/18225.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1312 - PREMIUM CINEMA COMEDY" tvg-logo="" group-title="ITALY",1312 - PREMIUM CINEMA COMEDY
+http://dreamlord.tk:5454/live/demonbaz666/021956/18224.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1313 - PREMIUM CINEMA 2 HD" tvg-logo="" group-title="ITALY",1313 - PREMIUM CINEMA 2 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18223.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1314 - PREMIUM CINEMA 2 24" tvg-logo="" group-title="ITALY",1314 - PREMIUM CINEMA 2 24
+http://dreamlord.tk:5454/live/demonbaz666/021956/18222.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1315 - PREMIUM CALCIO HD" tvg-logo="" group-title="ITALY",1315 - PREMIUM CALCIO HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18221.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1316 - PREMIUM ACTION HD" tvg-logo="" group-title="ITALY",1316 - PREMIUM ACTION HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18220.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1317 - PREMIUM ACTION 24" tvg-logo="" group-title="ITALY",1317 - PREMIUM ACTION 24
+http://dreamlord.tk:5454/live/demonbaz666/021956/18219.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1318 - DISNEY CHANNEL" tvg-logo="" group-title="ITALY",1318 - DISNEY CHANNEL
+http://dreamlord.tk:5454/live/demonbaz666/021956/18218.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1319 - GAMBERO ROSSO" tvg-logo="" group-title="ITALY",1319 - GAMBERO ROSSO
+http://dreamlord.tk:5454/live/demonbaz666/021956/18217.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1320 - FOX SPORT" tvg-logo="" group-title="ITALY",1320 - FOX SPORT
+http://dreamlord.tk:5454/live/demonbaz666/021956/18216.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1321 - CIELO" tvg-logo="" group-title="ITALY",1321 - CIELO
+http://dreamlord.tk:5454/live/demonbaz666/021956/18215.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1322 - SKY PRIMAFILA 1 HD" tvg-logo="" group-title="ITALY",1322 - SKY PRIMAFILA 1 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18214.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1323 - SKY PRIMAFILA 2 HD" tvg-logo="" group-title="ITALY",1323 - SKY PRIMAFILA 2 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18213.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1324 - SKY PRIMAFILA 3 HD" tvg-logo="" group-title="ITALY",1324 - SKY PRIMAFILA 3 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18212.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1325 - SKY PRIMAFILA 4 HD" tvg-logo="" group-title="ITALY",1325 - SKY PRIMAFILA 4 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18211.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1326 - SKY PRIMAFILA 5 HD" tvg-logo="" group-title="ITALY",1326 - SKY PRIMAFILA 5 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18210.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1327 - SKY PRIMAFILA 6 HD" tvg-logo="" group-title="ITALY",1327 - SKY PRIMAFILA 6 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18209.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1328 - SKY PRIMAFILA 7 HD" tvg-logo="" group-title="ITALY",1328 - SKY PRIMAFILA 7 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18208.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1329 - SKY PRIMAFILA 8 HD" tvg-logo="" group-title="ITALY",1329 - SKY PRIMAFILA 8 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18207.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1330 - SKY PRIMAFILA 9 HD" tvg-logo="" group-title="ITALY",1330 - SKY PRIMAFILA 9 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18206.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1331 - SKY PRIMAFILA 10 HD" tvg-logo="" group-title="ITALY",1331 - SKY PRIMAFILA 10 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18205.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1332 - SKY PRIMAFILA 11 HD" tvg-logo="" group-title="ITALY",1332 - SKY PRIMAFILA 11 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18204.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1333 - REAL TIME" tvg-logo="" group-title="ITALY",1333 - REAL TIME
+http://dreamlord.tk:5454/live/demonbaz666/021956/18203.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1334 - SKY CALCIO 1" tvg-logo="" group-title="ITALY",1334 - SKY CALCIO 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/18202.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1335 - SKY CALCIO 2" tvg-logo="" group-title="ITALY",1335 - SKY CALCIO 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/18201.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1336 - SKY  CALCIO 3" tvg-logo="" group-title="ITALY",1336 - SKY  CALCIO 3
+http://dreamlord.tk:5454/live/demonbaz666/021956/18200.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1337 - SKY CALCIO 4" tvg-logo="" group-title="ITALY",1337 - SKY CALCIO 4
+http://dreamlord.tk:5454/live/demonbaz666/021956/18199.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1338 - PREMIUM CALCIO 1 HD" tvg-logo="" group-title="ITALY",1338 - PREMIUM CALCIO 1 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18198.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1339 - PREMIUM CALCIO 2 HD" tvg-logo="" group-title="ITALY",1339 - PREMIUM CALCIO 2 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18197.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1340 - PREMIUM CALCIO 3 HD" tvg-logo="" group-title="ITALY",1340 - PREMIUM CALCIO 3 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18196.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1341 - SKY SPORT 1" tvg-logo="" group-title="ITALY",1341 - SKY SPORT 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/18195.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1342 - SKY SPORT 2" tvg-logo="" group-title="ITALY",1342 - SKY SPORT 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/18194.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1343 - SKY SPORT 3 HD" tvg-logo="" group-title="ITALY",1343 - SKY SPORT 3 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18193.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1344 - SKY SPORT 24HD" tvg-logo="" group-title="ITALY",1344 - SKY SPORT 24HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18192.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1345 - SKY F1" tvg-logo="" group-title="ITALY",1345 - SKY F1
+http://dreamlord.tk:5454/live/demonbaz666/021956/18191.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1346 - SKY MOTO GP" tvg-logo="" group-title="ITALY",1346 - SKY MOTO GP
+http://dreamlord.tk:5454/live/demonbaz666/021956/18190.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1347 - RAI SPORT 2" tvg-logo="" group-title="ITALY",1347 - RAI SPORT 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/18189.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1348 - RAI SPORT 1" tvg-logo="" group-title="ITALY",1348 - RAI SPORT 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/18188.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1349 - RSI LA 2 HD" tvg-logo="" group-title="ITALY",1349 - RSI LA 2 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18187.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1350 - RSI LA 1 HD" tvg-logo="" group-title="ITALY",1350 - RSI LA 1 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18186.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1351 - ALICE" tvg-logo="" group-title="ITALY",1351 - ALICE
+http://dreamlord.tk:5454/live/demonbaz666/021956/18185.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1352 - FINE LIVING" tvg-logo="" group-title="ITALY",1352 - FINE LIVING
+http://dreamlord.tk:5454/live/demonbaz666/021956/18184.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1353 - DISCOVERY CHANNEL" tvg-logo="" group-title="ITALY",1353 - DISCOVERY CHANNEL
+http://dreamlord.tk:5454/live/demonbaz666/021956/18183.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1354 - ITALIA 1" tvg-logo="" group-title="ITALY",1354 - ITALIA 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/18182.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1355 - FOX  HD" tvg-logo="" group-title="ITALY",1355 - FOX  HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18181.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1356 - SKY UNO" tvg-logo="" group-title="ITALY",1356 - SKY UNO
+http://dreamlord.tk:5454/live/demonbaz666/021956/18180.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1357 - BOING" tvg-logo="" group-title="ITALY",1357 - BOING
+http://dreamlord.tk:5454/live/demonbaz666/021956/18179.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1358 - LA 7" tvg-logo="" group-title="ITALY",1358 - LA 7
+http://dreamlord.tk:5454/live/demonbaz666/021956/18178.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1359 - IRIS" tvg-logo="" group-title="ITALY",1359 - IRIS
+http://dreamlord.tk:5454/live/demonbaz666/021956/18177.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1360 - RAI 5" tvg-logo="" group-title="ITALY",1360 - RAI 5
+http://dreamlord.tk:5454/live/demonbaz666/021956/18176.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1361 - CANAL 5" tvg-logo="" group-title="ITALY",1361 - CANAL 5
+http://dreamlord.tk:5454/live/demonbaz666/021956/18175.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1362 - PREMIUM DISNEY" tvg-logo="" group-title="ITALY",1362 - PREMIUM DISNEY
+http://dreamlord.tk:5454/live/demonbaz666/021956/18174.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1363 - PREMUIM CINEMA HD" tvg-logo="" group-title="ITALY",1363 - PREMUIM CINEMA HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18173.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1364 - RAI YOYO" tvg-logo="" group-title="ITALY",1364 - RAI YOYO
+http://dreamlord.tk:5454/live/demonbaz666/021956/18172.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1365 - RAI1" tvg-logo="" group-title="ITALY",1365 - RAI1
+http://dreamlord.tk:5454/live/demonbaz666/021956/18171.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1366 - RAI2" tvg-logo="" group-title="ITALY",1366 - RAI2
+http://dreamlord.tk:5454/live/demonbaz666/021956/18170.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1367 - RAI3" tvg-logo="" group-title="ITALY",1367 - RAI3
+http://dreamlord.tk:5454/live/demonbaz666/021956/18169.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1368 - RAI4" tvg-logo="" group-title="ITALY",1368 - RAI4
+http://dreamlord.tk:5454/live/demonbaz666/021956/18168.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1369 - RSI LA1 HD" tvg-logo="" group-title="ITALY",1369 - RSI LA1 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18167.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1370 - SKY ATLANTIC" tvg-logo="" group-title="ITALY",1370 - SKY ATLANTIC
+http://dreamlord.tk:5454/live/demonbaz666/021956/18166.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1371 - SKY CARTOON NETWORK" tvg-logo="" group-title="ITALY",1371 - SKY CARTOON NETWORK
+http://dreamlord.tk:5454/live/demonbaz666/021956/18165.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1372 - SKY CINEMA 1" tvg-logo="" group-title="ITALY",1372 - SKY CINEMA 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/18164.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1373 - SKY CINEMA 24" tvg-logo="" group-title="ITALY",1373 - SKY CINEMA 24
+http://dreamlord.tk:5454/live/demonbaz666/021956/18163.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1374 - SKY CINEMA COMEDY" tvg-logo="" group-title="ITALY",1374 - SKY CINEMA COMEDY
+http://dreamlord.tk:5454/live/demonbaz666/021956/18162.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1375 - SKY CINEMA CULT HD" tvg-logo="" group-title="ITALY",1375 - SKY CINEMA CULT HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18161.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1376 - SKY CINEMA FAMILY HD" tvg-logo="" group-title="ITALY",1376 - SKY CINEMA FAMILY HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18160.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1377 - SKY CINEMA MAX" tvg-logo="" group-title="ITALY",1377 - SKY CINEMA MAX
+http://dreamlord.tk:5454/live/demonbaz666/021956/18159.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1378 - SKY CINEMA CLASSIC" tvg-logo="" group-title="ITALY",1378 - SKY CINEMA CLASSIC
+http://dreamlord.tk:5454/live/demonbaz666/021956/18158.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1379 - SKY NATIONAL GEOGRAPHIC" tvg-logo="" group-title="ITALY",1379 - SKY NATIONAL GEOGRAPHIC
+http://dreamlord.tk:5454/live/demonbaz666/021956/18157.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1380 - TELETICINO HD" tvg-logo="" group-title="ITALY",1380 - TELETICINO HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18156.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1381 - SUPER TENNIS HD" tvg-logo="" group-title="ITALY",1381 - SUPER TENNIS HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18155.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1382 - SUPER" tvg-logo="" group-title="ITALY",1382 - SUPER
+http://dreamlord.tk:5454/live/demonbaz666/021956/18154.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1383 - RETE 4 HD" tvg-logo="" group-title="ITALY",1383 - RETE 4 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18153.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1384 - RAI YOYO" tvg-logo="" group-title="ITALY",1384 - RAI YOYO
+http://dreamlord.tk:5454/live/demonbaz666/021956/18152.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1385 - RAI SCUOLA" tvg-logo="" group-title="ITALY",1385 - RAI SCUOLA
+http://dreamlord.tk:5454/live/demonbaz666/021956/18151.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1386 - RAI NEWS 24" tvg-logo="" group-title="ITALY",1386 - RAI NEWS 24
+http://dreamlord.tk:5454/live/demonbaz666/021956/18150.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1387 - RAI MOVIE" tvg-logo="" group-title="ITALY",1387 - RAI MOVIE
+http://dreamlord.tk:5454/live/demonbaz666/021956/18149.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1388 - RAI GULP" tvg-logo="" group-title="ITALY",1388 - RAI GULP
+http://dreamlord.tk:5454/live/demonbaz666/021956/18148.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1389 - PREMIUM STORIES HD" tvg-logo="" group-title="ITALY",1389 - PREMIUM STORIES HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18147.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1390 - MEDIASET EXTRA" tvg-logo="" group-title="ITALY",1390 - MEDIASET EXTRA
+http://dreamlord.tk:5454/live/demonbaz666/021956/18146.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1391 - ITALIA 2" tvg-logo="" group-title="ITALY",1391 - ITALIA 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/18145.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1392 - EUROSPORT HD" tvg-logo="" group-title="ITALY",1392 - EUROSPORT HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18144.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1393 - EUROSPORT 2 HD" tvg-logo="" group-title="ITALY",1393 - EUROSPORT 2 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18143.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1394 - DISCOVERY SCI HD" tvg-logo="" group-title="ITALY",1394 - DISCOVERY SCI HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18142.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1395 - NAT GEO PEOPLE HD" tvg-logo="" group-title="ITALY",1395 - NAT GEO PEOPLE HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18141.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1396 - TOP CRIME" tvg-logo="" group-title="ITALY",1396 - TOP CRIME
+http://dreamlord.tk:5454/live/demonbaz666/021956/18140.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1397 - AXN HD" tvg-logo="" group-title="ITALY",1397 - AXN HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18139.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1398 - FOX CRIME" tvg-logo="" group-title="ITALY",1398 - FOX CRIME
+http://dreamlord.tk:5454/live/demonbaz666/021956/18138.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1399 - FOX COMEDY" tvg-logo="" group-title="ITALY",1399 - FOX COMEDY
+http://dreamlord.tk:5454/live/demonbaz666/021956/18137.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1400 - DMAX ITALY" tvg-logo="" group-title="ITALY",1400 - DMAX ITALY
+http://dreamlord.tk:5454/live/demonbaz666/021956/18136.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1401 - CARTOONITO" tvg-logo="" group-title="ITALY",1401 - CARTOONITO
+http://dreamlord.tk:5454/live/demonbaz666/021956/18135.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1402 - INTER MILAN TV" tvg-logo="" group-title="ITALY",1402 - INTER MILAN TV
+http://dreamlord.tk:5454/live/demonbaz666/021956/18134.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1403 - JUVENTUS TV" tvg-logo="" group-title="ITALY",1403 - JUVENTUS TV
+http://dreamlord.tk:5454/live/demonbaz666/021956/18133.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1404 - MILAN CHANNEL" tvg-logo="" group-title="ITALY",1404 - MILAN CHANNEL
+http://dreamlord.tk:5454/live/demonbaz666/021956/18132.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1405 - ROMA CHANNEL" tvg-logo="" group-title="ITALY",1405 - ROMA CHANNEL
+http://dreamlord.tk:5454/live/demonbaz666/021956/18131.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1425 - FILM 1 ACTION" tvg-logo="" group-title="NETHERLANDS",1425 - FILM 1 ACTION
+http://dreamlord.tk:5454/live/demonbaz666/021956/18277.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1426 - FILM 1 COMEDY KIDS" tvg-logo="" group-title="NETHERLANDS",1426 - FILM 1 COMEDY KIDS
+http://dreamlord.tk:5454/live/demonbaz666/021956/18276.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1427 - FILM 1 PREMIER HD" tvg-logo="" group-title="NETHERLANDS",1427 - FILM 1 PREMIER HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18275.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1428 - FILM1 SUNDANCE" tvg-logo="" group-title="NETHERLANDS",1428 - FILM1 SUNDANCE
+http://dreamlord.tk:5454/live/demonbaz666/021956/18274.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1429 - FILM1 FAMILLY" tvg-logo="" group-title="NETHERLANDS",1429 - FILM1 FAMILLY
+http://dreamlord.tk:5454/live/demonbaz666/021956/18273.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1430 - COMEDY CENTRAL EXTRA" tvg-logo="" group-title="NETHERLANDS",1430 - COMEDY CENTRAL EXTRA
+http://dreamlord.tk:5454/live/demonbaz666/021956/18272.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1431 - FOX" tvg-logo="" group-title="NETHERLANDS",1431 - FOX
+http://dreamlord.tk:5454/live/demonbaz666/021956/18271.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1432 - FOX SPORTS 1 HD" tvg-logo="" group-title="NETHERLANDS",1432 - FOX SPORTS 1 HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18270.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1433 - FOX SPORTS 2" tvg-logo="" group-title="NETHERLANDS",1433 - FOX SPORTS 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/18269.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1434 - FOX SPORTS 3" tvg-logo="" group-title="NETHERLANDS",1434 - FOX SPORTS 3
+http://dreamlord.tk:5454/live/demonbaz666/021956/18268.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1435 - FOX SPORT 4" tvg-logo="" group-title="NETHERLANDS",1435 - FOX SPORT 4
+http://dreamlord.tk:5454/live/demonbaz666/021956/18267.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1436 - FOX SPORT 5" tvg-logo="" group-title="NETHERLANDS",1436 - FOX SPORT 5
+http://dreamlord.tk:5454/live/demonbaz666/021956/18266.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1437 - FOX SPORT 6" tvg-logo="" group-title="NETHERLANDS",1437 - FOX SPORT 6
+http://dreamlord.tk:5454/live/demonbaz666/021956/18265.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1438 - SPORT 1 VOETBAL" tvg-logo="" group-title="NETHERLANDS",1438 - SPORT 1 VOETBAL
+http://dreamlord.tk:5454/live/demonbaz666/021956/18264.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1439 - ZIGGO SPORT EXTRA  2" tvg-logo="" group-title="NETHERLANDS",1439 - ZIGGO SPORT EXTRA  2
+http://dreamlord.tk:5454/live/demonbaz666/021956/18263.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1440 - ZIGGO SPORT EXTRA  1" tvg-logo="" group-title="NETHERLANDS",1440 - ZIGGO SPORT EXTRA  1
+http://dreamlord.tk:5454/live/demonbaz666/021956/18262.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1441 - ZIGGO SPORT RACING" tvg-logo="" group-title="NETHERLANDS",1441 - ZIGGO SPORT RACING
+http://dreamlord.tk:5454/live/demonbaz666/021956/18261.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1442 - SPORT 1 GOLF" tvg-logo="" group-title="NETHERLANDS",1442 - SPORT 1 GOLF
+http://dreamlord.tk:5454/live/demonbaz666/021956/18260.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1443 - EUROSPORT" tvg-logo="" group-title="NETHERLANDS",1443 - EUROSPORT
+http://dreamlord.tk:5454/live/demonbaz666/021956/18259.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1444 - DISCOVERY" tvg-logo="" group-title="NETHERLANDS",1444 - DISCOVERY
+http://dreamlord.tk:5454/live/demonbaz666/021956/18258.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1445 - SPORT 1 SELECT" tvg-logo="" group-title="NETHERLANDS",1445 - SPORT 1 SELECT
+http://dreamlord.tk:5454/live/demonbaz666/021956/18257.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1446 - HBO 1" tvg-logo="" group-title="NETHERLANDS",1446 - HBO 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/18256.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1447 - HBO 2" tvg-logo="" group-title="NETHERLANDS",1447 - HBO 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/18255.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1448 - HBO 3" tvg-logo="" group-title="NETHERLANDS",1448 - HBO 3
+http://dreamlord.tk:5454/live/demonbaz666/021956/18254.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1449 - NET 5" tvg-logo="" group-title="NETHERLANDS",1449 - NET 5
+http://dreamlord.tk:5454/live/demonbaz666/021956/18253.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1450 - NPO 1" tvg-logo="" group-title="NETHERLANDS",1450 - NPO 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/18252.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1451 - NPO 2" tvg-logo="" group-title="NETHERLANDS",1451 - NPO 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/18251.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1452 - NPO 3" tvg-logo="" group-title="NETHERLANDS",1452 - NPO 3
+http://dreamlord.tk:5454/live/demonbaz666/021956/18250.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1453 - RTL 4" tvg-logo="" group-title="NETHERLANDS",1453 - RTL 4
+http://dreamlord.tk:5454/live/demonbaz666/021956/18249.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1454 - RTL 7" tvg-logo="" group-title="NETHERLANDS",1454 - RTL 7
+http://dreamlord.tk:5454/live/demonbaz666/021956/18248.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1455 - RTL 8" tvg-logo="" group-title="NETHERLANDS",1455 - RTL 8
+http://dreamlord.tk:5454/live/demonbaz666/021956/18247.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1456 - SBS 6" tvg-logo="" group-title="NETHERLANDS",1456 - SBS 6
+http://dreamlord.tk:5454/live/demonbaz666/021956/18246.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1457 - SBS 9" tvg-logo="" group-title="NETHERLANDS",1457 - SBS 9
+http://dreamlord.tk:5454/live/demonbaz666/021956/18245.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1458 - TLC" tvg-logo="" group-title="NETHERLANDS",1458 - TLC
+http://dreamlord.tk:5454/live/demonbaz666/021956/18244.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1459 - RTV DRENTHE" tvg-logo="" group-title="NETHERLANDS",1459 - RTV DRENTHE
+http://dreamlord.tk:5454/live/demonbaz666/021956/18243.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1460 - NICK JR" tvg-logo="" group-title="NETHERLANDS",1460 - NICK JR
+http://dreamlord.tk:5454/live/demonbaz666/021956/18242.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1461 - KITCHEN" tvg-logo="" group-title="NETHERLANDS",1461 - KITCHEN
+http://dreamlord.tk:5454/live/demonbaz666/021956/18241.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1462 - NATIONAL GEOGRAPHIC" tvg-logo="" group-title="NETHERLANDS",1462 - NATIONAL GEOGRAPHIC
+http://dreamlord.tk:5454/live/demonbaz666/021956/18240.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1463 - DISCOVERY INVESTIGATION" tvg-logo="" group-title="NETHERLANDS",1463 - DISCOVERY INVESTIGATION
+http://dreamlord.tk:5454/live/demonbaz666/021956/18239.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1464 - DISCOVERY HD" tvg-logo="" group-title="NETHERLANDS",1464 - DISCOVERY HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18238.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1470 - C MORE SPORT" tvg-logo="" group-title="SWEDEN AND NORWAY",1470 - C MORE SPORT
+http://dreamlord.tk:5454/live/demonbaz666/021956/18307.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1471 - C MORE LIVE" tvg-logo="" group-title="SWEDEN AND NORWAY",1471 - C MORE LIVE
+http://dreamlord.tk:5454/live/demonbaz666/021956/18306.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1472 - C MORE HITS" tvg-logo="" group-title="SWEDEN AND NORWAY",1472 - C MORE HITS
+http://dreamlord.tk:5454/live/demonbaz666/021956/18305.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1473 - C MORE FOTBALL" tvg-logo="" group-title="SWEDEN AND NORWAY",1473 - C MORE FOTBALL
+http://dreamlord.tk:5454/live/demonbaz666/021956/18304.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1474 - C MORE FIRST" tvg-logo="" group-title="SWEDEN AND NORWAY",1474 - C MORE FIRST
+http://dreamlord.tk:5454/live/demonbaz666/021956/18303.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1475 - VIASAT FILM COMEDY" tvg-logo="" group-title="SWEDEN AND NORWAY",1475 - VIASAT FILM COMEDY
+http://dreamlord.tk:5454/live/demonbaz666/021956/18302.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1476 - C MORE TENIS" tvg-logo="" group-title="SWEDEN AND NORWAY",1476 - C MORE TENIS
+http://dreamlord.tk:5454/live/demonbaz666/021956/18301.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1477 - C MORE SERIE" tvg-logo="" group-title="SWEDEN AND NORWAY",1477 - C MORE SERIE
+http://dreamlord.tk:5454/live/demonbaz666/021956/18300.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1478 - VIASAT HISTORY" tvg-logo="" group-title="SWEDEN AND NORWAY",1478 - VIASAT HISTORY
+http://dreamlord.tk:5454/live/demonbaz666/021956/18299.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1479 - CANAL 5" tvg-logo="" group-title="SWEDEN AND NORWAY",1479 - CANAL 5
+http://dreamlord.tk:5454/live/demonbaz666/021956/18298.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1480 - TV3 SPORT 1" tvg-logo="" group-title="SWEDEN AND NORWAY",1480 - TV3 SPORT 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/18297.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1481 - CANAL 9" tvg-logo="" group-title="SWEDEN AND NORWAY",1481 - CANAL 9
+http://dreamlord.tk:5454/live/demonbaz666/021956/18296.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1482 - TV2 SPORT" tvg-logo="" group-title="SWEDEN AND NORWAY",1482 - TV2 SPORT
+http://dreamlord.tk:5454/live/demonbaz666/021956/18295.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1483 - TV3 SPORT 2" tvg-logo="" group-title="SWEDEN AND NORWAY",1483 - TV3 SPORT 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/18294.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1484 - SVT 2" tvg-logo="" group-title="SWEDEN AND NORWAY",1484 - SVT 2
+http://dreamlord.tk:5454/live/demonbaz666/021956/18293.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1485 - SVT 1" tvg-logo="" group-title="SWEDEN AND NORWAY",1485 - SVT 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/18292.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1486 - NAT GEO" tvg-logo="" group-title="SWEDEN AND NORWAY",1486 - NAT GEO
+http://dreamlord.tk:5454/live/demonbaz666/021956/18291.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1487 - TV6" tvg-logo="" group-title="SWEDEN AND NORWAY",1487 - TV6
+http://dreamlord.tk:5454/live/demonbaz666/021956/18290.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1488 - VIASAT FILM FAMILLY" tvg-logo="" group-title="SWEDEN AND NORWAY",1488 - VIASAT FILM FAMILLY
+http://dreamlord.tk:5454/live/demonbaz666/021956/18289.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1489 - VIASAT FILM PREMIERE" tvg-logo="" group-title="SWEDEN AND NORWAY",1489 - VIASAT FILM PREMIERE
+http://dreamlord.tk:5454/live/demonbaz666/021956/18288.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1490 - DK4" tvg-logo="" group-title="SWEDEN AND NORWAY",1490 - DK4
+http://dreamlord.tk:5454/live/demonbaz666/021956/18287.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1491 - DR2" tvg-logo="" group-title="SWEDEN AND NORWAY",1491 - DR2
+http://dreamlord.tk:5454/live/demonbaz666/021956/18286.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1492 - NATIONAL GEO WILD" tvg-logo="" group-title="SWEDEN AND NORWAY",1492 - NATIONAL GEO WILD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18285.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1493 - TV2 NEWS" tvg-logo="" group-title="SWEDEN AND NORWAY",1493 - TV2 NEWS
+http://dreamlord.tk:5454/live/demonbaz666/021956/18284.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1494 - TV 4 FILM" tvg-logo="" group-title="SWEDEN AND NORWAY",1494 - TV 4 FILM
+http://dreamlord.tk:5454/live/demonbaz666/021956/18283.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1495 - NRK 1" tvg-logo="" group-title="SWEDEN AND NORWAY",1495 - NRK 1
+http://dreamlord.tk:5454/live/demonbaz666/021956/18282.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1496 - TV4 GULD" tvg-logo="" group-title="SWEDEN AND NORWAY",1496 - TV4 GULD
+http://dreamlord.tk:5454/live/demonbaz666/021956/18281.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1497 - DR1" tvg-logo="" group-title="SWEDEN AND NORWAY",1497 - DR1
+http://dreamlord.tk:5454/live/demonbaz666/021956/18280.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="1498 - DISCOVERY" tvg-logo="" group-title="SWEDEN AND NORWAY",1498 - DISCOVERY
+http://dreamlord.tk:5454/live/demonbaz666/021956/18279.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="10 Cloverfield Lane" tvg-logo="http://dreamlord.tk:5454/images/1179933.jpg" group-title="Movies On Demand",10 Cloverfield Lane
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17680.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="13 Hours: The Secret Soldiers Of Benghazi" tvg-logo="http://dreamlord.tk:5454/images/4172430.jpg" group-title="Movies On Demand",13 Hours: The Secret Soldiers Of Benghazi
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17795.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="31" tvg-logo="http://dreamlord.tk:5454/images/3835080.jpg" group-title="Movies On Demand",31
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17796.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Monster Calls" tvg-logo="http://dreamlord.tk:5454/images/3416532.jpg" group-title="Movies On Demand",A Monster Calls
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17797.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Street Cat Named Bob" tvg-logo="http://dreamlord.tk:5454/images/3606888.jpg" group-title="Movies On Demand",A Street Cat Named Bob
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17798.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Alice Through The Looking Glass" tvg-logo="http://dreamlord.tk:5454/images/2567026.jpg" group-title="Movies On Demand",Alice Through The Looking Glass
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17799.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="All We Had" tvg-logo="http://dreamlord.tk:5454/images/3910814.jpg" group-title="Movies On Demand",All We Had
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17800.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Allegiant" tvg-logo="http://dreamlord.tk:5454/images/3410834.jpg" group-title="Movies On Demand",Allegiant
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17801.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Allied" tvg-logo="http://dreamlord.tk:5454/images/3640424.jpg" group-title="Movies On Demand",Allied
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17802.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Altitude" tvg-logo="http://dreamlord.tk:5454/images/4556370.jpg" group-title="Movies On Demand",Altitude
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17803.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="American Violence" tvg-logo="http://dreamlord.tk:5454/images/5848714.jpg" group-title="Movies On Demand",American Violence
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17804.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Angry Birds" tvg-logo="http://dreamlord.tk:5454/images/1985949.jpg" group-title="Movies On Demand",Angry Birds
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17805.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Anthropoid" tvg-logo="http://dreamlord.tk:5454/images/4190530.jpg" group-title="Movies On Demand",Anthropoid
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17806.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Assassin's Creed" tvg-logo="http://dreamlord.tk:5454/images/2094766.jpg" group-title="Movies On Demand",Assassin's Creed
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17807.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Atomica" tvg-logo="http://dreamlord.tk:5454/images/2406566.jpg" group-title="Movies On Demand",Atomica
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17808.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Ballerina" tvg-logo="http://dreamlord.tk:5454/images/2261287.jpg" group-title="Movies On Demand",Ballerina
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17809.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Barbershop The Next Cut" tvg-logo="http://dreamlord.tk:5454/images/3628584.jpg" group-title="Movies On Demand",Barbershop The Next Cut
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17810.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Bastille Day" tvg-logo="http://dreamlord.tk:5454/images/2368619.jpg" group-title="Movies On Demand",Bastille Day
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17811.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Batman V Superman: Dawn Of Justice" tvg-logo="http://dreamlord.tk:5454/images/2975590.jpg" group-title="Movies On Demand",Batman V Superman: Dawn Of Justice
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17812.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Before I Wake" tvg-logo="http://dreamlord.tk:5454/images/3174376.jpg" group-title="Movies On Demand",Before I Wake
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17814.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Below Her Mouth" tvg-logo="http://dreamlord.tk:5454/images/5073620.jpg" group-title="Movies On Demand",Below Her Mouth
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17815.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Beyond The Gates" tvg-logo="http://dreamlord.tk:5454/images/4687358.jpg" group-title="Movies On Demand",Beyond The Gates
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17816.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Blowtorch" tvg-logo="http://dreamlord.tk:5454/images/2556676.jpg" group-title="Movies On Demand",Blowtorch
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17817.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Borstal" tvg-logo="http://dreamlord.tk:5454/images/5876322.jpg" group-title="Movies On Demand",Borstal
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17818.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Boxing: Anthony Joshua Vs Wladimir Klitschko" tvg-logo="http://dreamlord.tk:5454/images/5876322.jpg" group-title="Movies On Demand",Boxing: Anthony Joshua Vs Wladimir Klitschko
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17819.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Breaking Bad: The Movie" tvg-logo="http://dreamlord.tk:5454/images/4669580.jpg" group-title="Movies On Demand",Breaking Bad: The Movie
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17820.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Bridget Jones's Baby" tvg-logo="http://dreamlord.tk:5454/images/1473832.jpg" group-title="Movies On Demand",Bridget Jones's Baby
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17821.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Brotherhood" tvg-logo="http://dreamlord.tk:5454/images/5193784.jpg" group-title="Movies On Demand",Brotherhood
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17822.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Burning Sands" tvg-logo="http://dreamlord.tk:5454/images/5826432.jpg" group-title="Movies On Demand",Burning Sands
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17823.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Cabin Fever" tvg-logo="http://dreamlord.tk:5454/images/0303816.jpg" group-title="Movies On Demand",Cabin Fever
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17824.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Cell" tvg-logo="http://dreamlord.tk:5454/images/0775440.jpg" group-title="Movies On Demand",Cell
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17825.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Central Intelligence" tvg-logo="http://dreamlord.tk:5454/images/1489889.jpg" group-title="Movies On Demand",Central Intelligence
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17826.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Clinical" tvg-logo="http://dreamlord.tk:5454/images/5577742.jpg" group-title="Movies On Demand",Clinical
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17827.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Coin Heist" tvg-logo="http://dreamlord.tk:5454/images/5740806.jpg" group-title="Movies On Demand",Coin Heist
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17828.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Criminal" tvg-logo="http://dreamlord.tk:5454/images/3014866.jpg" group-title="Movies On Demand",Criminal
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17829.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Crouching Tiger Hidden Dragon Sword Of Destiny" tvg-logo="http://dreamlord.tk:5454/images/2652118.jpg" group-title="Movies On Demand",Crouching Tiger Hidden Dragon Sword Of Destiny
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17830.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Dad's Army" tvg-logo="http://dreamlord.tk:5454/images/4104054.jpg" group-title="Movies On Demand",Dad's Army
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17831.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Dark Web" tvg-logo="http://dreamlord.tk:5454/images/5247042.jpg" group-title="Movies On Demand",Dark Web
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17832.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Dead Story" tvg-logo="http://dreamlord.tk:5454/images/4282872.jpg" group-title="Movies On Demand",Dead Story
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17833.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Deepwater Horizon" tvg-logo="http://dreamlord.tk:5454/images/1860357.jpg" group-title="Movies On Demand",Deepwater Horizon
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17835.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Doctor Strange" tvg-logo="http://dreamlord.tk:5454/images/1211837.jpg" group-title="Movies On Demand",Doctor Strange
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17836.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Don't Hang Up" tvg-logo="http://dreamlord.tk:5454/images/3610746.jpg" group-title="Movies On Demand",Don't Hang Up
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17837.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Don't Breathe" tvg-logo="http://dreamlord.tk:5454/images/4160708.jpg" group-title="Movies On Demand",Don't Breathe
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17838.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Dont Knock Twice" tvg-logo="http://dreamlord.tk:5454/images/3622110.jpg" group-title="Movies On Demand",Dont Knock Twice
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17839.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Exorcist: House Of Evil" tvg-logo="http://dreamlord.tk:5454/images/4864584.jpg" group-title="Movies On Demand",Exorcist: House Of Evil
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17840.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Fifty Shades Darker" tvg-logo="http://dreamlord.tk:5454/images/4465564.jpg" group-title="Movies On Demand",Fifty Shades Darker
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17842.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Fifty Shades Of Black" tvg-logo="http://dreamlord.tk:5454/images/4667094.jpg" group-title="Movies On Demand",Fifty Shades Of Black
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17843.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Finding Dory" tvg-logo="http://dreamlord.tk:5454/images/2277860.jpg" group-title="Movies On Demand",Finding Dory
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17844.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Forced To Kill" tvg-logo="http://dreamlord.tk:5454/images/4513560.jpg" group-title="Movies On Demand",Forced To Kill
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17845.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="From Straight A's" tvg-logo="http://dreamlord.tk:5454/images/6237208.jpg" group-title="Movies On Demand",From Straight A's
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17846.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Ghostbusters" tvg-logo="http://dreamlord.tk:5454/images/1289401.jpg" group-title="Movies On Demand",Ghostbusters
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17848.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Hacksaw Ridge" tvg-logo="http://dreamlord.tk:5454/images/2119532.jpg" group-title="Movies On Demand",Hacksaw Ridge
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17849.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Home Invasion" tvg-logo="http://dreamlord.tk:5454/images/5351000.jpg" group-title="Movies On Demand",Home Invasion
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17850.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Iboy" tvg-logo="http://dreamlord.tk:5454/images/3171832.jpg" group-title="Movies On Demand",Iboy
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17851.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Independence Day: Resurgence" tvg-logo="http://dreamlord.tk:5454/images/1628841.jpg" group-title="Movies On Demand",Independence Day: Resurgence
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17852.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Inferno" tvg-logo="http://dreamlord.tk:5454/images/3062096.jpg" group-title="Movies On Demand",Inferno
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17853.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Jack Reacher" tvg-logo="http://dreamlord.tk:5454/images/0790724.jpg" group-title="Movies On Demand",Jack Reacher
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17854.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Jackie" tvg-logo="http://dreamlord.tk:5454/images/1619029.jpg" group-title="Movies On Demand",Jackie
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17855.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kingsglaive Final Fantasy Xv" tvg-logo="http://dreamlord.tk:5454/images/5595168.jpg" group-title="Movies On Demand",Kingsglaive Final Fantasy Xv
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17856.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kong: Skull Island" tvg-logo="http://dreamlord.tk:5454/images/3731562.jpg" group-title="Movies On Demand",Kong: Skull Island
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17857.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kung Fu Yoga" tvg-logo="http://dreamlord.tk:5454/images/4217392.jpg" group-title="Movies On Demand",Kung Fu Yoga
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17858.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="La La Land" tvg-logo="http://dreamlord.tk:5454/images/3783958.jpg" group-title="Movies On Demand",La La Land
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17859.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Lake Eerie" tvg-logo="http://dreamlord.tk:5454/images/2948078.jpg" group-title="Movies On Demand",Lake Eerie
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17860.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Logan" tvg-logo="http://dreamlord.tk:5454/images/3315342.jpg" group-title="Movies On Demand",Logan
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17861.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="London Has Fallen" tvg-logo="http://dreamlord.tk:5454/images/3300542.jpg" group-title="Movies On Demand",London Has Fallen
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17862.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Manchester By The Sea" tvg-logo="http://dreamlord.tk:5454/images/4034228.jpg" group-title="Movies On Demand",Manchester By The Sea
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17864.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Miss Peregrines Home For Peculiar Children" tvg-logo="http://dreamlord.tk:5454/images/1935859.jpg" group-title="Movies On Demand",Miss Peregrines Home For Peculiar Children
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17865.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Moana" tvg-logo="http://dreamlord.tk:5454/images/3521164.jpg" group-title="Movies On Demand",Moana
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17866.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Monster Trucks" tvg-logo="http://dreamlord.tk:5454/images/3095734.jpg" group-title="Movies On Demand",Monster Trucks
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17867.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Moonlight" tvg-logo="http://dreamlord.tk:5454/images/4975722.jpg" group-title="Movies On Demand",Moonlight
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17868.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Now You See Me 2" tvg-logo="http://dreamlord.tk:5454/images/3110958.jpg" group-title="Movies On Demand",Now You See Me 2
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17869.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Olympus Has Fallen" tvg-logo="http://dreamlord.tk:5454/images/2302755.jpg" group-title="Movies On Demand",Olympus Has Fallen
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17870.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Operator" tvg-logo="http://dreamlord.tk:5454/images/5052524.jpg" group-title="Movies On Demand",Operator
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17871.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Ouija: Origin Of Evil" tvg-logo="http://dreamlord.tk:5454/images/4361050.jpg" group-title="Movies On Demand",Ouija: Origin Of Evil
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17872.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Pandemic" tvg-logo="http://dreamlord.tk:5454/images/3774802.jpg" group-title="Movies On Demand",Pandemic
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17873.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Resident Evil The Final Chapter" tvg-logo="http://dreamlord.tk:5454/images/not-found.jpg" group-title="Movies On Demand",Resident Evil The Final Chapter
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17875.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Rings" tvg-logo="http://dreamlord.tk:5454/images/0498381.jpg" group-title="Movies On Demand",Rings
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17876.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Rogue One: A Star Wars Story" tvg-logo="http://dreamlord.tk:5454/images/3748528.jpg" group-title="Movies On Demand",Rogue One: A Star Wars Story
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17877.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Sandy Wexler" tvg-logo="http://dreamlord.tk:5454/images/5893332.jpg" group-title="Movies On Demand",Sandy Wexler
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17878.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Snowden" tvg-logo="http://dreamlord.tk:5454/images/3774114.jpg" group-title="Movies On Demand",Snowden
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17879.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Star Trek Beyond" tvg-logo="http://dreamlord.tk:5454/images/2660888.jpg" group-title="Movies On Demand",Star Trek Beyond
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17881.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Storks" tvg-logo="http://dreamlord.tk:5454/images/4624424.jpg" group-title="Movies On Demand",Storks
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17882.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Tangled Before Ever After" tvg-logo="http://dreamlord.tk:5454/images/5533228.jpg" group-title="Movies On Demand",Tangled Before Ever After
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17884.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Teenage Mutant Ninja Turtles: Out Of The Shadows" tvg-logo="http://dreamlord.tk:5454/images/3949660.jpg" group-title="Movies On Demand",Teenage Mutant Ninja Turtles: Out Of The Shadows
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17885.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Bfg" tvg-logo="http://dreamlord.tk:5454/images/3691740.jpg" group-title="Movies On Demand",The Bfg
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17886.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Girl On The Train" tvg-logo="http://dreamlord.tk:5454/images/3631112.jpg" group-title="Movies On Demand",The Girl On The Train
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17887.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Junglebook" tvg-logo="http://dreamlord.tk:5454/images/3040964.jpg" group-title="Movies On Demand",The Junglebook
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17888.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Polar Express" tvg-logo="http://dreamlord.tk:5454/images/0338348.jpg" group-title="Movies On Demand",The Polar Express
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17889.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The 5th Wave" tvg-logo="http://dreamlord.tk:5454/images/2304933.jpg" group-title="Movies On Demand",The 5th Wave
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17890.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Abduction Of Jennifer Grayson" tvg-logo="http://dreamlord.tk:5454/images/3118920.jpg" group-title="Movies On Demand",The Abduction Of Jennifer Grayson
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17891.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Covenant" tvg-logo="http://dreamlord.tk:5454/images/0475944.jpg" group-title="Movies On Demand",The Covenant
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17892.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Discovery" tvg-logo="http://dreamlord.tk:5454/images/5155780.jpg" group-title="Movies On Demand",The Discovery
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17893.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Institute" tvg-logo="http://dreamlord.tk:5454/images/5788136.jpg" group-title="Movies On Demand",The Institute
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17894.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Purge Elect Year" tvg-logo="http://dreamlord.tk:5454/images/4094724.jpg" group-title="Movies On Demand",The Purge Elect Year
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17895.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Raking" tvg-logo="http://dreamlord.tk:5454/images/4897358.jpg" group-title="Movies On Demand",The Raking
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17896.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Secret Life Of Pets" tvg-logo="http://dreamlord.tk:5454/images/2709768.jpg" group-title="Movies On Demand",The Secret Life Of Pets
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17897.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Space Between Us" tvg-logo="http://dreamlord.tk:5454/images/3922818.jpg" group-title="Movies On Demand",The Space Between Us
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17898.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Swan Princess Royally Undercover" tvg-logo="http://dreamlord.tk:5454/images/6687748.jpg" group-title="Movies On Demand",The Swan Princess Royally Undercover
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17899.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Toy Story" tvg-logo="http://dreamlord.tk:5454/images/0114709.jpg" group-title="Movies On Demand",Toy Story
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17900.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Toy Story 2" tvg-logo="http://dreamlord.tk:5454/images/0120363.jpg" group-title="Movies On Demand",Toy Story 2
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17901.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Toy Story 3" tvg-logo="http://dreamlord.tk:5454/images/0435761.jpg" group-title="Movies On Demand",Toy Story 3
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17902.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Underworld Blood Wars" tvg-logo="http://dreamlord.tk:5454/images/3717252.jpg" group-title="Movies On Demand",Underworld Blood Wars
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17903.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Zoolander 2" tvg-logo="http://dreamlord.tk:5454/images/1608290.jpg" group-title="Movies On Demand",Zoolander 2
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17905.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Annabelle" tvg-logo="http://dreamlord.tk:5454/images/3322940.jpg" group-title="Movies On Demand",Annabelle
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17931.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Beauty And The Beast" tvg-logo="http://dreamlord.tk:5454/images/2771200.jpg" group-title="Movies On Demand",Beauty And The Beast
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17929.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Before I Fall" tvg-logo="http://dreamlord.tk:5454/images/1691916.jpg" group-title="Movies On Demand",Before I Fall
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17930.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Deadpool" tvg-logo="http://dreamlord.tk:5454/images/1431045.jpg" group-title="Movies On Demand",Deadpool
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17928.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Fantastic Beasts And Where To Find Them" tvg-logo="http://dreamlord.tk:5454/images/3183660.jpg" group-title="Movies On Demand",Fantastic Beasts And Where To Find Them
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17927.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Fist Fight" tvg-logo="http://dreamlord.tk:5454/images/3401882.jpg" group-title="Movies On Demand",Fist Fight
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17925.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Get Out" tvg-logo="http://dreamlord.tk:5454/images/5052448.jpg" group-title="Movies On Demand",Get Out
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17926.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Ghost In The Shell" tvg-logo="http://dreamlord.tk:5454/images/1219827.jpg" group-title="Movies On Demand",Ghost In The Shell
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17923.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Gifted" tvg-logo="http://dreamlord.tk:5454/images/4481414.jpg" group-title="Movies On Demand",Gifted
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17924.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Jason Bourne" tvg-logo="http://dreamlord.tk:5454/images/4196776.jpg" group-title="Movies On Demand",Jason Bourne
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17922.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Mechanic: Resurrection" tvg-logo="http://dreamlord.tk:5454/images/3522806.jpg" group-title="Movies On Demand",Mechanic: Resurrection
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17921.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Mindhorn" tvg-logo="http://dreamlord.tk:5454/images/4799064.jpg" group-title="Movies On Demand",Mindhorn
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17920.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Sing" tvg-logo="http://dreamlord.tk:5454/images/3470600.jpg" group-title="Movies On Demand",Sing
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17919.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Split" tvg-logo="http://dreamlord.tk:5454/images/4972582.jpg" group-title="Movies On Demand",Split
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17918.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Suicide Squad" tvg-logo="http://dreamlord.tk:5454/images/1386697.jpg" group-title="Movies On Demand",Suicide Squad
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17917.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="T2 Trainspotting" tvg-logo="http://dreamlord.tk:5454/images/2763304.jpg" group-title="Movies On Demand",T2 Trainspotting
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17913.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Boss Baby" tvg-logo="http://dreamlord.tk:5454/images/3874544.jpg" group-title="Movies On Demand",The Boss Baby
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17910.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Fate Of The Furious" tvg-logo="http://dreamlord.tk:5454/images/4630562.jpg" group-title="Movies On Demand",The Fate Of The Furious
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17915.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Hunters Prayer" tvg-logo="http://dreamlord.tk:5454/images/2674358.jpg" group-title="Movies On Demand",The Hunters Prayer
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17916.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Lego Batman Movie" tvg-logo="http://dreamlord.tk:5454/images/4116284.jpg" group-title="Movies On Demand",The Lego Batman Movie
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17914.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Shack" tvg-logo="http://dreamlord.tk:5454/images/2872518.jpg" group-title="Movies On Demand",The Shack
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17912.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Xxx Return Of Xander Cage" tvg-logo="http://dreamlord.tk:5454/images/1293847.jpg" group-title="Movies On Demand",Xxx Return Of Xander Cage
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17911.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="John Wick: Chapter 2" tvg-logo="http://dreamlord.tk:5454/images/4425200.jpg" group-title="",John Wick: Chapter 2
+http://dreamlord.tk:5454/movie/demonbaz666/021956/17932.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Boxing: Andrew Selby v Cristofer Rosales - 2017.05.26" tvg-logo="http://dreamlord.tk:5454/images/4425200.jpg" group-title="Movies On Demand",Boxing: Andrew Selby v Cristofer Rosales - 2017.05.26
+http://dreamlord.tk:5454/movie/demonbaz666/021956/18309.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Boxing: George Groves v Fedor Chudinov - 2017.05.27" tvg-logo="http://dreamlord.tk:5454/images/4425200.jpg" group-title="Movies On Demand",Boxing: George Groves v Fedor Chudinov - 2017.05.27
+http://dreamlord.tk:5454/movie/demonbaz666/021956/18310.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Boxing: Kell Brook v Errol Spence JR - 2017.05.27" tvg-logo="http://dreamlord.tk:5454/images/4425200.jpg" group-title="Movies On Demand",Boxing: Kell Brook v Errol Spence JR - 2017.05.27
+http://dreamlord.tk:5454/movie/demonbaz666/021956/18311.mp4
