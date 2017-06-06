@@ -145,11 +145,11 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2618.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2467.ts
 #EXTINF:1,Boomerang UK
 http://i.satelliteguys.co.uk/live/Greighally/020617/2617.ts
-#EXTINF:1,BOXNATION
+#EXTINF:1,tvg-ID="" tvg-name=" - BOXNATION "  group-title="UK SPORT", - BOXNATION
 http://i.satelliteguys.co.uk/live/Greighally/020617/2698.ts
-#EXTINF:1,BT Sport 1 HD 
+#EXTINF:1,tvg-ID="" tvg-name=" - BT Sport 1"  group-title="UK SPORT",BT Sport 1 HD 
 http://i.satelliteguys.co.uk/live/Greighally/020617/2722.ts
-#EXTINF:1,BT Sport ESPN HD
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK SPORT",BT Sport ESPN HDs
 http://i.satelliteguys.co.uk/live/Greighally/020617/2721.ts
 #EXTINF:1,BT SPORT EUROPE
 http://i.satelliteguys.co.uk/live/Greighally/020617/2709.ts
