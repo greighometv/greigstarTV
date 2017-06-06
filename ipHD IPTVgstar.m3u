@@ -725,7 +725,15 @@ http://iptv333.expertshort.net:8000/live/16b2a2cfd1/265452e/1351.ts
 #EXTINF:-1,UK.BBCTwo
 http://iptv333.expertshort.net:8000/live/16b2a2cfd1/265452e/1350.ts
 #EXTINF:-1,-----------BIG LIST---------
-#EXTM3U
+#EXTINF:-1,OLD FIRM GAMES
+#EXTINF:1,tvg-ID="" tvg-name="183 - RANGERS TV (GOING FOR 55)" group-title="OLD FIRM",183 - RANGERS TV (GOING FOR 55)
+http://i.satelliteguys.co.uk/live/Greighally/020617/2652.ts
+#EXTINF:1,tvg-ID="" tvg-name="102 - Celtic TV(sceptic)" group-title="OLD FIRM",102 - Celtic TV(sceptic)
+http://i.satelliteguys.co.uk/live/Greighally/020617/2688.ts
+#EXTINF:-1 tvg-ID="" tvg-name="368 - CELTIC TV (LIVE MATCHES ONLY)" tvg-logo="http://guide.overlordtv.tk/logos/368.png" group-title="OLD FIRM",368 - CELTIC TV (LIVE MATCHES ONLY)
+http://dreamlord.tk:5454/live/demonbaz666/021956/14195.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="369 - RANGERS TV (MATCHES ONLY)" tvg-logo="http://guide.overlordtv.tk/logos/369.png" group-title="OLD FIRM",369 - RANGERS TV (MATCHES ONLY)
+http://dreamlord.tk:5454/live/demonbaz666/021956/14196.m3u8
 #EXTINF:-1 tvg-ID="BBC1.uk" tvg-name="101 - BBC 1 HD" tvg-logo="http://guide.overlordtv.tk/logos/101.png" group-title="UK TV",101 - BBC 1 HD
 http://dreamlord.tk:5454/live/demonbaz666/021956/14063.m3u8
 #EXTINF:-1 tvg-ID="BBC2.uk" tvg-name="102 - BBC 2 HD" tvg-logo="HTTP:KK/logos/102.png" group-title="UK TV",102 - BBC 2 HD
@@ -2255,12 +2263,3 @@ http://dreamlord.tk:5454/movie/demonbaz666/021956/18309.mp4
 http://dreamlord.tk:5454/movie/demonbaz666/021956/18310.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Boxing: Kell Brook v Errol Spence JR - 2017.05.27" tvg-logo="http://dreamlord.tk:5454/images/4425200.jpg" group-title="Movies On Demand",Boxing: Kell Brook v Errol Spence JR - 2017.05.27
 http://dreamlord.tk:5454/movie/demonbaz666/021956/18311.mp4
-#EXTINF:-1,OLD FIRM GAMES
-#EXTINF:1,tvg-ID="" tvg-name="183 - RANGERS TV (GOING FOR 55)" group-title="OLD FIRM",183 - RANGERS TV (GOING FOR 55)
-http://i.satelliteguys.co.uk/live/Greighally/020617/2652.ts
-#EXTINF:1,tvg-ID="" tvg-name="102 - Celtic TV(sceptic)" group-title="OLD FIRM",102 - Celtic TV(sceptic)
-http://i.satelliteguys.co.uk/live/Greighally/020617/2688.ts
-#EXTINF:-1 tvg-ID="" tvg-name="368 - CELTIC TV (LIVE MATCHES ONLY)" tvg-logo="http://guide.overlordtv.tk/logos/368.png" group-title="OLD FIRM",368 - CELTIC TV (LIVE MATCHES ONLY)
-http://dreamlord.tk:5454/live/demonbaz666/021956/14195.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="369 - RANGERS TV (MATCHES ONLY)" tvg-logo="http://guide.overlordtv.tk/logos/369.png" group-title="OLD FIRM",369 - RANGERS TV (MATCHES ONLY)
-http://dreamlord.tk:5454/live/demonbaz666/021956/14196.m3u8
