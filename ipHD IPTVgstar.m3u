@@ -364,8 +364,7 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2459.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2524.ts
 #EXTINF:1,Racing UK HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2653.ts
-#EXTINF:1,tvg-ID="" tvg-name="183 - RANGERS TV (GOING FOR 55)" group-title="OLD FIRM",183 - RANGERS TV (GOING FOR 55)
-http://i.satelliteguys.co.uk/live/Greighally/020617/2652.ts
+#EXTINF:1,
 #EXTINF:1,UK:Real Lives
 http://i.satelliteguys.co.uk/live/Greighally/020617/2523.ts
 #EXTINF:1,Real Lives  1
@@ -2846,3 +2845,8 @@ http://dreamlord.tk:5454/movie/demonbaz666/021956/18309.mp4
 http://dreamlord.tk:5454/movie/demonbaz666/021956/18310.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Boxing: Kell Brook v Errol Spence JR - 2017.05.27" tvg-logo="http://dreamlord.tk:5454/images/4425200.jpg" group-title="Movies On Demand",Boxing: Kell Brook v Errol Spence JR - 2017.05.27
 http://dreamlord.tk:5454/movie/demonbaz666/021956/18311.mp4
+#EXTINF:-1,OLD FIRM GAMES
+#EXTINF:1,tvg-ID="" tvg-name="183 - RANGERS TV (GOING FOR 55)" group-title="OLD FIRM",183 - RANGERS TV (GOING FOR 55)
+http://i.satelliteguys.co.uk/live/Greighally/020617/2652.ts
+#EXTINF:1,tvg-ID="" tvg-name="102 - Celtic TV(sceptic)" group-title="OLD FIRM",102 - Celtic TV(sceptic)
+http://i.satelliteguys.co.uk/live/Greighally/020617/2688.ts
