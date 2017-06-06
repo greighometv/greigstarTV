@@ -1,33 +1,33 @@
 #EXTM3U
-#EXTINF:1,Sportnet Ontario HD
+#EXTINF:1,tvg-ID="" tvg-name="" tvg-logo="" group-title="INTERNATIONAL SPORT",Sportnet Ontario HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2436.ts
-#EXTINF:1,[CA] Sportsnet West HD
+#EXTINF:1,Sportsnet West HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2435.ts
 #EXTINF:1,Bein Sports 1 HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2404.ts
-#EXTINF:1,CAN:Sportnet Pacific HD
+#EXTINF:1,Sportnet Pacific HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2403.ts
 #EXTINF:1,Sportsnet 360 HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2402.ts
-#EXTINF:1,ext,*CAN:Sportsnet East HD
+#EXTINF:1,Sportsnet East HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2401.ts
 #EXTINF:1,Sportsnet One HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2400.ts
-#EXTINF:1,ext,*USA: NBCSN HD
+#EXTINF:1,NBCSN HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2399.ts
 #EXTINF:1,:Bein Sports USA HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2398.ts
 #EXTINF:1,Bein Sport 10HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/3562.ts
-#EXTINF:1,AR: Bein Sport 11HD
+#EXTINF:1,Bein Sport 11HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/3561.ts
 #EXTINF:1,Bein Sport 12HD,
 http://i.satelliteguys.co.uk/live/Greighally/020617/3560.ts
-#EXTINF:1, Bein Sport 14HD,
+#EXTINF:1,Bein Sport 14HD,
 http://i.satelliteguys.co.uk/live/Greighally/020617/3559.ts
 #EXTINF:1,Bein Sport 15HD,
 http://i.satelliteguys.co.uk/live/Greighally/020617/3558.ts
-#EXTINF:1,ext,AR: Bein Sport 16HD,
+#EXTINF:1,Bein Sport 16HD,
 http://i.satelliteguys.co.uk/live/Greighally/020617/3557.ts
 #EXTINF:1,Bein Sport 17HD,
 http://i.satelliteguys.co.uk/live/Greighally/020617/3556.ts
@@ -35,7 +35,7 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/3556.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/3555.ts
 #EXTINF:1,Bein Sport 2HD,
 http://i.satelliteguys.co.uk/live/Greighally/020617/3554.ts
-#EXTINF:1,ext,AR: Bein Sport 3HD,
+#EXTINF:1,Bein Sport 3HD,
 http://i.satelliteguys.co.uk/live/Greighally/020617/3553.ts
 #EXTINF:1,Bein Sport 4HD,
 http://i.satelliteguys.co.uk/live/Greighally/020617/3552.ts
@@ -99,7 +99,7 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2201.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2200.ts
 #EXTINF:1,ITV HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2553.ts
-#EXTINF:1,MIO Eleven HD
+#EXTINF:1,tvg-ID="" tvg-name="" tvg-logo="" group-title="INTERNATIONAL SPORT",MIO Eleven HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2131.ts
 #EXTINF:1,MIO Eleven Plus HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2130.ts
