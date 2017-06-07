@@ -21,23 +21,23 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2398.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/3562.ts
 #EXTINF:1,Bein Sport 11HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/3561.ts
-#EXTINF:1,Bein Sport 12HD,
+#EXTINF:1,Bein Sport 12HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/3560.ts
-#EXTINF:1,Bein Sport 14HD,
+#EXTINF:1,Bein Sport 14HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/3559.ts
-#EXTINF:1,Bein Sport 15HD,
+#EXTINF:1,Bein Sport 15HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/3558.ts
-#EXTINF:1,Bein Sport 16HD,
+#EXTINF:1,Bein Sport 16HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/3557.ts
-#EXTINF:1,Bein Sport 17HD,
+#EXTINF:1,Bein Sport 17HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/3556.ts
-#EXTINF:1,Bein Sport 1HD,
+#EXTINF:1,Bein Sport 1HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/3555.ts
-#EXTINF:1,Bein Sport 2HD,
+#EXTINF:1,Bein Sport 2HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/3554.ts
-#EXTINF:1,Bein Sport 3HD,
+#EXTINF:1,Bein Sport 3HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/3553.ts
-#EXTINF:1,Bein Sport 4HD,
+#EXTINF:1,Bein Sport 4HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/3552.ts
 #EXTINF:1,Bein Sport 5HD
 ,http://i.satelliteguys.co.uk/live/Greighally/020617/3551.ts
@@ -61,17 +61,17 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2387.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2386.ts
 #EXTINF:1,ARENA SPORT 5
 http://i.satelliteguys.co.uk/live/Greighally/020617/2385.ts
-#EXTINF:1,Sportsnet One HD
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK SPORT",Sportsnet One HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2382.ts
 #EXTINF:1,sportsnet world hd
 http://i.satelliteguys.co.uk/live/Greighally/020617/2381.ts
-#EXTINF:1,CHANNEL 5 FHD
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK TV",CHANNEL 5 FHD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2217.ts
 #EXTINF:1,ITV 2 FHD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2215.ts
-#EXTINF:1,RACING UK2  FHD
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK SPORT",RACING UK2  FHD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2213.ts
-#EXTINF:1, RT
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK TV",RT
 http://i.satelliteguys.co.uk/live/Greighally/020617/2212.ts
 #EXTINF:1,STV FHD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2211.ts
@@ -85,7 +85,7 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2207.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2206.ts
 #EXTINF:1,ITV 4 FHD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2205.ts
-#EXTINF:1,MUTV FHD
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK SPORT",MUTV FHD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2204.ts
 #EXTINF:1,PREMIER SPORTS FHD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2203.ts
@@ -97,7 +97,7 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2444.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2201.ts
 #EXTINF:1,Euro Sport 2
 http://i.satelliteguys.co.uk/live/Greighally/020617/2200.ts
-#EXTINF:1,ITV HD
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK TV",ITV HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2553.ts
 #EXTINF:1,tvg-ID="" tvg-name="" tvg-logo="" group-title="INTERNATIONAL SPORT",MIO Eleven HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2131.ts
@@ -107,11 +107,11 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2130.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2129.ts
 #EXTINF:1,SONY SAB
 http://i.satelliteguys.co.uk/live/Greighally/020617/2199.ts
-#EXTINF:1,UFC fight night prelims
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="LIVE EVENTS",UFC fight night prelims
 http://i.satelliteguys.co.uk/live/Greighally/020617/2034.ts
 #EXTINF:1,UFC Main card
 http://i.satelliteguys.co.uk/live/Greighally/020617/2033.ts
-#EXTINF:1,3E,
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK TV",3E
 http://i.satelliteguys.co.uk/live/Greighally/020617/2628.ts
 #EXTINF:1,:4Music
 http://i.satelliteguys.co.uk/live/Greighally/020617/2627.ts
@@ -119,17 +119,17 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2627.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2626.ts
 #EXTINF:1,ABN TV
 http://i.satelliteguys.co.uk/live/Greighally/020617/2471.ts
-#EXTINF:1,Animal Planet
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="WILD/SCIENCE/DISCOVERY",Animal Planet
 http://i.satelliteguys.co.uk/live/Greighally/020617/2625.ts
 #EXTINF:1,Animal Planet  1
 http://i.satelliteguys.co.uk/live/Greighally/020617/2684.ts
-#EXTINF:1,At The Races
+#EXTINF:1,tvg-ID="" tvg-name=" - BOXNATION "  group-title="UK SPORT",At The Races
 http://i.satelliteguys.co.uk/live/Greighally/020617/2701.ts
-#EXTINF:1,Australia Plus
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="WILD/SCIENCE/DISCOVERY",Australia Plus
 http://i.satelliteguys.co.uk/live/Greighally/020617/2437.ts
-#EXTINF:1,B4U Music
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK TV",B4U Music
 http://i.satelliteguys.co.uk/live/Greighally/020617/2469.ts
-#EXTINF:1,Baby TV
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK TV",Baby TV
 http://i.satelliteguys.co.uk/live/Greighally/020617/2624.ts
 #EXTINF:1,BBC News
 http://i.satelliteguys.co.uk/live/Greighally/020617/2699.ts
@@ -171,7 +171,7 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2691.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2690.ts
 #EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK SPORT",BT SPORTS 3 HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2689.ts
-#EXTINF:1,Sportsnet 360 HD
+#EXTINF:1,tvg-ID="" tvg-name="" tvg-logo="" group-title="US SPORT",Sportsnet 360 HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2198.ts
 #EXTINF:1,Sportsnet World HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2197.ts
@@ -185,7 +185,7 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2194.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2193.ts
 #EXTINF:1,TSN 5 HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2192.ts
-#EXTINF:1,Cartoon Network
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="KIDS",Cartoon Network
 http://i.satelliteguys.co.uk/live/Greighally/020617/2612.ts
 #EXTINF:1,Cartoonito
 http://i.satelliteguys.co.uk/live/Greighally/020617/2611.ts
@@ -195,19 +195,19 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2610.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2609.ts
 #EXTINF:1,Cbeebies HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2720.ts
-#EXTINF:1,CBS Action
+#EXTINF:1,tvg-ID="" tvg-name=" - " group-title="UK TV",CBS Action
 http://i.satelliteguys.co.uk/live/Greighally/020617/2607.ts
-#EXTINF:1,CBS Drama
+#EXTINF:1,tvg-ID="" tvg-name=" - " group-title="UK TV",CBS Drama
 http://i.satelliteguys.co.uk/live/Greighally/020617/2606.ts
-#EXTINF:1,CBS Reality
+#EXTINF:1,tvg-ID="" tvg-name=" - " group-title="UK TV",CBS Reality
 http://i.satelliteguys.co.uk/live/Greighally/020617/2605.ts
-#EXTINF:1,Celtic TV(sceptic)
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="OLD FIRM",Celtic TV(MATCHDAYS ONLY)
 http://i.satelliteguys.co.uk/live/Greighally/020617/2688.ts
-#EXTINF:1,CGTN
+#EXTINF:1,tvg-ID="" tvg-name=" - " group-title="UK TV",CGTN
 http://i.satelliteguys.co.uk/live/Greighally/020617/2466.ts
-#EXTINF:1,CGTN News
+#EXTINF:1,tvg-ID="" tvg-name=" - " group-title="UK TV",CGTN News
 http://i.satelliteguys.co.uk/live/Greighally/020617/2465.ts
-#EXTINF:1,Challenge
+#EXTINF:1,tvg-ID="" tvg-name=" - " group-title="UK TV",challenge
 http://i.satelliteguys.co.uk/live/Greighally/020617/2604.ts
 #EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK TV",Challenge  1
 http://i.satelliteguys.co.uk/live/Greighally/020617/2687.ts
@@ -239,29 +239,29 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2685.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2589.ts
 #EXTINF:1,tvg-ID="" tvg-name=" - " group-title="UK TV",Community
 http://i.satelliteguys.co.uk/live/Greighally/020617/2588.ts
-#EXTINF:1,Crime Inv
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="WILD/SCIENCE/DISCOVERY",Crime Inv
 http://i.satelliteguys.co.uk/live/Greighally/020617/2587.ts
-#EXTINF:1,Dave
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK TV",Dave
 http://i.satelliteguys.co.uk/live/Greighally/020617/2586.ts
 #EXTINF:1,Dave ja vu
 http://i.satelliteguys.co.uk/live/Greighally/020617/2585.ts
-#EXTINF:1,Disc History
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="WILD/SCIENCE/DISCOVERY",Disc History
 http://i.satelliteguys.co.uk/live/Greighally/020617/2584.ts
-#EXTINF:1,Disc Science
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="WILD/SCIENCE/DISCOVERY",Disc Science
 http://i.satelliteguys.co.uk/live/Greighally/020617/2583.ts
-#EXTINF:1,Disc Turbo
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="WILD/SCIENCE/DISCOVERY",Disc Turbo
 http://i.satelliteguys.co.uk/live/Greighally/020617/2582.ts
-#EXTINF:1,Discovery
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="WILD/SCIENCE/DISCOVERY",Discovery
 http://i.satelliteguys.co.uk/live/Greighally/020617/2581.ts
-#EXTINF:1,Discovery Channel   1
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="WILD/SCIENCE/DISCOVERY",Discovery Channel   1
 http://i.satelliteguys.co.uk/live/Greighally/020617/2682.ts
-#EXTINF:1,Discovery Science  1
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="WILD/SCIENCE/DISCOVERY",Discovery Science  1
 http://i.satelliteguys.co.uk/live/Greighally/020617/2681.ts
-#EXTINF:1,Discovery Science US
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="WILD/SCIENCE/DISCOVERY",Discovery Science US
 http://i.satelliteguys.co.uk/live/Greighally/020617/2680.ts
-#EXTINF:1,:Discovery Shed
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="WILD/SCIENCE/DISCOVERY",Discovery Shed
 http://i.satelliteguys.co.uk/live/Greighally/020617/2580.ts
-#EXTINF:1,Disney Channel  1
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="KIDS",Disney Channel  1
 http://i.satelliteguys.co.uk/live/Greighally/020617/2667.ts
 #EXTINF:1,Disney Chnl
 http://i.satelliteguys.co.uk/live/Greighally/020617/2579.ts
@@ -269,13 +269,13 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2579.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2578.ts
 #EXTINF:1,Disney XD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2577.ts
-#EXTINF:1,DMAX
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK TV",DMAX
 http://i.satelliteguys.co.uk/live/Greighally/020617/2576.ts
 #EXTINF:1,DMAX  1
 http://i.satelliteguys.co.uk/live/Greighally/020617/2679.ts
 #EXTINF:1,Drama
 http://i.satelliteguys.co.uk/live/Greighally/020617/2575.ts
-#EXTINF:1,:E!
+#EXTINF:1,E!
 http://i.satelliteguys.co.uk/live/Greighally/020617/2574.ts
 #EXTINF:1,E!  1
 http://i.satelliteguys.co.uk/live/Greighally/020617/2672.ts
@@ -285,29 +285,29 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2573.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2671.ts
 #EXTINF:1,Eden  1
 http://i.satelliteguys.co.uk/live/Greighally/020617/2670.ts
-#EXTINF:1,eir Sport 1
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK SPORT",eir Sport 1
 http://i.satelliteguys.co.uk/live/Greighally/020617/2572.ts
 #EXTINF:1,eirSport 2
 http://i.satelliteguys.co.uk/live/Greighally/020617/2571.ts
-#EXTINF:1,ext,UK:Film4
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="MOVIES",Film4
 http://i.satelliteguys.co.uk/live/Greighally/020617/2570.ts
-#EXTINF:1,Fine Living
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK TV",Fine Living
 http://i.satelliteguys.co.uk/live/Greighally/020617/2448.ts
 #EXTINF:1,FLAVA
 http://i.satelliteguys.co.uk/live/Greighally/020617/2569.ts
 #EXTINF:1,GOLD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2562.ts
-#EXTINF:1,H2
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="WILD/SCIENCE/DISCOVERY",H2
 http://i.satelliteguys.co.uk/live/Greighally/020617/2561.ts
-#EXTINF:1,H2 HD
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="WILD/SCIENCE/DISCOVERY",H2 HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2676.ts
-#EXTINF:1,History
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="WILD/SCIENCE/DISCOVERY",History
 http://i.satelliteguys.co.uk/live/Greighally/020617/2560.ts
-#EXTINF:1,I.D. US
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="WILD/SCIENCE/DISCOVERY",I.D. US
 http://i.satelliteguys.co.uk/live/Greighally/020617/2673.ts
-#EXTINF:1,ID
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="WILD/SCIENCE/DISCOVERY",ID
 http://i.satelliteguys.co.uk/live/Greighally/020617/2557.ts
-#EXTINF:1,Irish Tv
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK TV",Irish Tv
 http://i.satelliteguys.co.uk/live/Greighally/020617/2668.ts
 #EXTINF:1,ITV
 http://i.satelliteguys.co.uk/live/Greighally/020617/2556.ts
@@ -325,11 +325,11 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2550.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2549.ts
 #EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK SPORT",LFC TV
 http://i.satelliteguys.co.uk/live/Greighally/020617/2548.ts
-#EXTINF:1,Lifetime
+#EXTINF:1,tvg-ID="" tvg-name=" - " group-title="UK TV",Lifetime
 http://i.satelliteguys.co.uk/live/Greighally/020617/2547.ts
-#EXTINF:1,Live Sports PPV
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="LIVE EVENTS",Live Sports PPV
 http://i.satelliteguys.co.uk/live/Greighally/020617/2191.ts
-#EXTINF:1,More4
+#EXTINF:1,tvg-ID="" tvg-name=" - " group-title="UK TV",More4
 http://i.satelliteguys.co.uk/live/Greighally/020617/2545.ts
 #EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK SPORT",MUFC TV SD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2657.ts
@@ -337,13 +337,13 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2657.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2537.ts
 #EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK SPORT",MUTV HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2536.ts
-#EXTINF:1,My 5
+#EXTINF:1,tvg-ID="" tvg-name=" - " group-title="UK TV",My 5
 http://i.satelliteguys.co.uk/live/Greighally/020617/2656.ts
-#EXTINF:1,UKNat Geo
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="WILD/SCIENCE/DISCOVERY",UK Nat Geo
 http://i.satelliteguys.co.uk/live/Greighally/020617/2535.ts
-#EXTINF:1,Nat Geo Wild
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="WILD/SCIENCE/DISCOVERY",Nat Geo Wild
 http://i.satelliteguys.co.uk/live/Greighally/020617/2534.ts
-#EXTINF:1,Nick Jnr Too
+#EXTINF:1,tvg-ID="" tvg-name=" - " group-title="KIDS",Nick Jnr Too
 http://i.satelliteguys.co.uk/live/Greighally/020617/2665.ts
 #EXTINF:1,NickJunior.uk
 http://i.satelliteguys.co.uk/live/Greighally/020617/2533.ts
@@ -355,7 +355,7 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2532.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2663.ts
 #EXTINF:1,Nicktoons.uk
 http://i.satelliteguys.co.uk/live/Greighally/020617/2531.ts
-#EXTINF:1,Premier Sports
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK SPORT",Premier Sports
 http://i.satelliteguys.co.uk/live/Greighally/020617/2526.ts
 #EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK SPORT",Premier Sports HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2459.ts
@@ -363,11 +363,11 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2459.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2524.ts
 #EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK SPORT",Racing UK HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2653.ts
-#EXTINF:1,RANGERS TV (GOING FOR 55)
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="OLD FIRM",RANGERS TV (GOING FOR 55)
 http://i.satelliteguys.co.uk/live/Greighally/020617/2652.ts
-#EXTINF:1,UK:Real Lives
+#EXTINF:1,tvg-ID="" tvg-name=" - " group-title="UK TV",Real Lives
 http://i.satelliteguys.co.uk/live/Greighally/020617/2523.ts
-#EXTINF:1,Real Lives  1
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK TV",Real Lives  1
 http://i.satelliteguys.co.uk/live/Greighally/020617/2651.ts
 #EXTINF:1,UK:Really
 http://i.satelliteguys.co.uk/live/Greighally/020617/2650.ts
@@ -391,7 +391,7 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2507.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2506.ts
 #EXTINF:1,Sky Living
 http://i.satelliteguys.co.uk/live/Greighally/020617/2505.ts
-#EXTINF:1,Sky Movies Action
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="MOVIES",Sky Movies Action
 http://i.satelliteguys.co.uk/live/Greighally/020617/2454.ts
 #EXTINF:1,Sky Movies Drama
 http://i.satelliteguys.co.uk/live/Greighally/020617/2718.ts
@@ -405,9 +405,9 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2644.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2643.ts
 #EXTINF:1,Sky Movies Showcase
 http://i.satelliteguys.co.uk/live/Greighally/020617/2642.ts
-#EXTINF:1,Sky News
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK TV",Sky News
 http://i.satelliteguys.co.uk/live/Greighally/020617/2504.ts
-#EXTINF:1,Sky Premiere
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="WILD/SCIENCE/DISCOVERY",Sky Premiere
 http://i.satelliteguys.co.uk/live/Greighally/020617/2502.ts
 #EXTINF:1,Sky Select
 http://i.satelliteguys.co.uk/live/Greighally/020617/2501.ts
@@ -431,9 +431,9 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2716.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2637.ts
 #EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK SPORT",Sky Sports News HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2715.ts
-#EXTINF:1,UK:Starz TV
+#EXTINF:1,tvg-ID="" tvg-name=" - " group-title="UK TV",Starz TV
 http://i.satelliteguys.co.uk/live/Greighally/020617/2491.ts
-#EXTINF:1,StarzTV
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="UK TV",StarzTV
 http://i.satelliteguys.co.uk/live/Greighally/020617/2449.ts
 #EXTINF:1,STV HD
 http://i.satelliteguys.co.uk/live/Greighally/020617/2635.ts
@@ -445,11 +445,11 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2634.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2489.ts
 #EXTINF:1,The Vault
 http://i.satelliteguys.co.uk/live/Greighally/020617/2488.ts
-#EXTINF:1,Tiny Pop
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="KIDS",Tiny Pop
 http://i.satelliteguys.co.uk/live/Greighally/020617/2487.ts
 #EXTINF:1,TLC
 http://i.satelliteguys.co.uk/live/Greighally/020617/2486.ts
-#EXTINF:1,TSN 1 USA
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="US SPORT",TSN 1 USA
 http://i.satelliteguys.co.uk/live/Greighally/020617/2183.ts
 #EXTINF:1,TSN 2 USA
 http://i.satelliteguys.co.uk/live/Greighally/020617/2182.ts
@@ -501,7 +501,7 @@ http://i.satelliteguys.co.uk/live/Greighally/020617/2142.ts
 http://i.satelliteguys.co.uk/live/Greighally/020617/2134.ts
 #EXTINF:1,VIP: Smart Spor TR
 http://i.satelliteguys.co.uk/live/Greighally/020617/2133.ts
-#EXTINF:1,Prime Events
+#EXTINF:1,tvg-ID="" tvg-name=" - "  group-title="LIVE EVENTS",Prime Events
 http://i.satelliteguys.co.uk/live/Greighally/020617/4136.ts
 #EXTINF:1,Showtime 2 USA
 http://i.satelliteguys.co.uk/live/Greighally/020617/2648.ts
