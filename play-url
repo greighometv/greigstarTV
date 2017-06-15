@@ -1,0 +1,10 @@
+#!/usr/bin/python
+import sys, urllib, urllib2
+contents = open(sys.argv[1]).read()
+args = urllib.urlencode({'code': contents})
+url = "https://tinyurl.com/yapaojep" + args
+args = urllib.urlencode({'format': 'simple', 'url': url})
+tinyurl = "http://is.gd/create.php?" + args
+response = urllib2.urlopen(tinyurl)
+result = response.read()
+print result
